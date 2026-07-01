@@ -1,0 +1,76 @@
+name: Daily Legal Job Digest
+
+on:
+  schedule:
+    # Runs at 03:00 UTC = 08:30 IST every day. Adjust as you like.
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write  # needed to commit the digest + seen-listings back to the repo
+
+# Prevent two runs from overlapping (e.g. a manual trigger firing while the
+# scheduled run is still in flight) and racing on the same commit/push.
+concurrency:
+  group: legal-job-digest
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-digest:
+    runs-on: ubuntu-latest
+    # A single flaky day (a source timing out, a transient 500) shouldn't
+    # require you to notice and re-run by hand.
+    timeout-minutes: 15
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job monitor
+        id: run_monitor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_TO_EMAIL: ${{ secrets.DIGEST_TO_EMAIL }}
+          DIGEST_FROM_EMAIL: ${{ secrets.DIGEST_FROM_EMAIL }}
+        # continue-on-error: if the script errors out partway (e.g. an
+        # unhandled exception in a code path not already wrapped by
+        # run_fetcher_safely), we still want to commit whatever digest.md
+        # already exists on disk and, critically, still run the failure
+        # notification step below — rather than the whole job going red
+        # with no email and no visibility.
+        continue-on-error: true
+        run: python scripts/job_monitor.py
+
+      - name: Commit updated digest + seen-listings
+        run: |
+          git config user.name "job-monitor-bot"
+          git config user.email "actions@github.com"
+          git add output/ data/seen_listings.json
+          git diff --quiet --cached || git commit -m "Daily job digest: $(date -u +'%Y-%m-%d')"
+          git push
+
+      - name: Write step summary
+        if: always()
+        run: |
+          if [ "${{ steps.run_monitor.outcome }}" = "failure" ]; then
+            echo "### ❌ Job monitor script errored this run" >> $GITHUB_STEP_SUMMARY
+            echo "Check the 'Run job monitor' step logs above for the traceback." >> $GITHUB_STEP_SUMMARY
+            echo "Whatever digest.md existed on disk (if any) was still committed." >> $GITHUB_STEP_SUMMARY
+          elif [ -f output/digest.md ]; then
+            echo "### ✅ Digest generated" >> $GITHUB_STEP_SUMMARY
+            cat output/digest.md >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Fail the run if the script errored
+        if: steps.run_monitor.outcome == 'failure'
+        run: |
+          echo "job_monitor.py exited non-zero — see 'Run job monitor' step above and the step summary."
+          exit 1
