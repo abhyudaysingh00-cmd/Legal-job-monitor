@@ -28,11 +28,15 @@ and any firm career pages you add).
    README.md
    ```
 
-### b) Get an Anthropic API key
-1. Go to https://console.anthropic.com → API Keys → Create Key.
-2. This is billed separately from your claude.ai subscription (pay-as-you-go,
-   pennies per run for this use case — each daily run scores well under 200
-   short listings on Claude Sonnet 5, typically a few cents per day at most).
+### b) Get an OpenRouter API key
+1. Go to https://openrouter.ai/keys → Create Key.
+2. Add credit to your OpenRouter account (pay-as-you-go). This is billed
+   separately from any Anthropic/claude.ai subscription — each daily run
+   scores well under 200 short listings on Claude Sonnet 5 (the default
+   model, called via OpenRouter's `anthropic/claude-sonnet-5` slug), typically
+   a few cents per day at most. Swap to a cheaper slug like
+   `anthropic/claude-haiku-4.5` (set as the optional `OPENROUTER_MODEL`
+   secret below) if you want to cut that further.
 
 ### c) (Optional but recommended) Set up email delivery via Resend
 1. Sign up free at https://resend.com (free tier: 100 emails/day, 3,000/month
@@ -50,7 +54,8 @@ Add:
 
 | Secret name | Value |
 |---|---|
-| `ANTHROPIC_API_KEY` | your Anthropic API key |
+| `OPENROUTER_API_KEY` | your OpenRouter API key |
+| `OPENROUTER_MODEL` | (optional) an OpenRouter model slug, e.g. `anthropic/claude-haiku-4.5`; defaults to `anthropic/claude-sonnet-5` if unset |
 | `RESEND_API_KEY` | your Resend API key (optional) |
 | `DIGEST_TO_EMAIL` | your personal email address (optional) |
 | `DIGEST_FROM_EMAIL` | `onboarding@resend.dev` or your verified sender (optional) |
@@ -92,8 +97,8 @@ Before waiting for the schedule, trigger it by hand:
 - Listings scoring 5+ are shown up top; lower-scoring ones are collapsed
   below so you can still skim them if you want.
 - If a listing's score genuinely fails to come back (e.g. a transient
-  Anthropic API error), it's shown in its own "needs manual review" section
-  at the top — never silently buried as if it scored 0.
+  OpenRouter/model API error), it's shown in its own "needs manual review"
+  section at the top — never silently buried as if it scored 0.
 - If any source fails, comes back empty unexpectedly, or a fetcher crashes
   outright, that's now surfaced as a collapsible "issues this run" section
   at the top of the digest itself (and in the email subject line) — you

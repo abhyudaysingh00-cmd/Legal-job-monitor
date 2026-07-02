@@ -51,13 +51,18 @@ SEEN_FILE = ROOT / "data" / "seen_listings.json"
 CAREER_PAGES_FILE = ROOT / "data" / "career_pages.json"
 PROFILE_FILE = ROOT / "data" / "profile.json"
 
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 RESEND_API_KEY = os.environ.get("RESEND_API_KEY")  # optional
 DIGEST_TO_EMAIL = os.environ.get("DIGEST_TO_EMAIL")  # optional, required if using Resend
 DIGEST_FROM_EMAIL = os.environ.get("DIGEST_FROM_EMAIL", "digest@resend.dev")
 
-ANTHROPIC_MODEL = "claude-sonnet-5"
-ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
+# OpenRouter-hosted model slug. "anthropic/claude-sonnet-5" calls the same
+# model this script previously hit directly via the Anthropic API. Override
+# via the OPENROUTER_MODEL secret/env var if you want to point at a cheaper
+# model (e.g. "anthropic/claude-haiku-4.5") for this low-stakes scoring task,
+# or at a non-Anthropic model.
+OPENROUTER_MODEL = os.environ.get("OPENROUTER_MODEL") or "anthropic/claude-sonnet-5"
+OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # A real browser UA. The generic "compatible; ...; personal use" UA gets
 # soft-blocked (empty/redirect responses) by several sites in this list.
@@ -551,8 +556,8 @@ def score_listings_with_claude(listings, profile):
     """Send listings to Claude in batches, get back fitment scores + reasoning."""
     if not listings:
         return []
-    if not ANTHROPIC_API_KEY:
-        print("  [warn] ANTHROPIC_API_KEY not set — skipping scoring, returning all listings unscored")
+    if not OPENROUTER_API_KEY:
+        print("  [warn] OPENROUTER_API_KEY not set — skipping scoring, returning all listings unscored")
         for l in listings:
             l["fit_score"] = None
             l["fit_reason"] = "Not scored (no API key)"
@@ -589,28 +594,36 @@ Return ONLY a JSON array, no preamble, no markdown fences:
         for attempt in range(1, MAX_RETRIES + 1):
             try:
                 resp = requests.post(
-                    ANTHROPIC_URL,
+                    OPENROUTER_URL,
                     headers={
-                        "x-api-key": ANTHROPIC_API_KEY,
-                        "anthropic-version": "2023-06-01",
-                        "content-type": "application/json",
+                        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+                        "Content-Type": "application/json",
+                        # Optional — OpenRouter uses these for its public
+                        # rankings/attribution. Harmless to leave in, safe to
+                        # delete if you'd rather not send them.
+                        "HTTP-Referer": "https://github.com/abhyudaysingh00-cmd/Legal-job-monitor",
+                        "X-Title": "Legal Job Monitor",
                     },
                     json={
-                        "model": ANTHROPIC_MODEL,
+                        "model": OPENROUTER_MODEL,
                         "max_tokens": 2000,
-                        "system": system_prompt,
+                        # OpenRouter speaks the OpenAI chat-completions shape,
+                        # not the Anthropic Messages shape — the system
+                        # prompt is a message in the array, not a top-level
+                        # "system" field.
                         "messages": [
-                            {"role": "user", "content": json.dumps(batch_input, ensure_ascii=False)}
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": json.dumps(batch_input, ensure_ascii=False)},
                         ],
                     },
                     timeout=60,
                 )
                 resp.raise_for_status()
                 data = resp.json()
-                text = "".join(
-                    block.get("text", "") for block in data.get("content", [])
-                    if block.get("type") == "text"
-                )
+                # OpenAI-style response: plain string at choices[0].message.content
+                # (Anthropic's Messages API instead returns a list of content
+                # blocks under "content", which is what the old code parsed.)
+                text = data["choices"][0]["message"]["content"]
                 text = re.sub(r"^```json|```$", "", text.strip(), flags=re.MULTILINE).strip()
                 results = json.loads(text)
 
