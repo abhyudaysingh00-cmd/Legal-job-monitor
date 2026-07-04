@@ -21,13 +21,8 @@
   },
   {
     "name": "AZB & Partners",
-    "url": "https://www.azbpartners.com/careers/",
-    "notes": "Tier-1; heavy M&A/PE focus"
-  },
-  {
-    "name": "J. Sagar Associates (JSA)",
-    "url": "https://www.jsalaw.com/careers/",
-    "notes": "Tier-1/2; broad corporate practice, multiple city offices"
+    "url": "https://www.azbpartners.com/careers/opportunities/",
+    "notes": "Tier-1; heavy M&A/PE focus. Old /careers/ is 404; correct URL is /careers/opportunities/"
   },
   {
     "name": "IndusLaw",
@@ -36,13 +31,8 @@
   },
   {
     "name": "Saraf and Partners",
-    "url": "https://sarafpartners.in/careers/",
-    "notes": "Corporate, banking & finance, restructuring/IBC"
-  },
-  {
-    "name": "IC Universal Legal",
-    "url": "https://www.icul.co.in/careers.php",
-    "notes": "Corporate, M&A, real estate"
+    "url": "https://sarafpartners.com/",
+    "notes": "Corporate, banking & finance, restructuring/IBC. Old domain sarafpartners.in is dead; using sarafpartners.com homepage which has career links"
   },
   {
     "name": "Elevate (elevate.law)",
@@ -52,7 +42,7 @@
   {
     "name": "Lawctopus — Jobs",
     "url": "https://www.lawctopus.com/jobs/",
-    "notes": "Aggregator; also scraped via RSS fetcher. This gives an extra HTML pass over the jobs listing page (old /lawctopus-law-jobs/ URL is 404 as of 2025)."
+    "notes": "Aggregator; also scraped via RSS fetcher. Extra HTML pass over jobs listing page."
   },
   {
     "name": "Lawctopus — Internships",
@@ -62,11 +52,11 @@
   {
     "name": "LawFoyer — Law Firm Internships",
     "url": "https://lawfoyer.in/category/law-firm-internships/",
-    "notes": "Aggregator; also scraped via RSS fetcher. Highest-signal category for Tier-1/2 firm internships."
+    "notes": "Highest-signal category for Tier-1/2 firm internships. Scraped via HTML (no working RSS)."
   },
   {
     "name": "LawFoyer — Law Firm Jobs",
     "url": "https://lawfoyer.in/category/law-firm-jobs/",
-    "notes": "Aggregator; also scraped via RSS fetcher. Law firm associate/counsel postings."
+    "notes": "Law firm associate/counsel postings. Scraped via HTML (no working RSS)."
   }
 ]

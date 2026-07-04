@@ -144,16 +144,60 @@ def safe_get(url, retries=MAX_RETRIES, **kwargs):
 # Source fetchers
 # ---------------------------------------------------------------------------
 
-# Internshala keyword slugs to sweep. Kept broad on purpose — "hidden"
-# postings often sit under an adjacent category (e.g. "company-secretary",
-# "compliance") rather than the obvious "legal" or "corporate-law" slugs,
-# and a vague "Legal Intern at a startup" posting can be filed under any
-# of these. Duplicate listings across keywords are de-duped by the seen-
-# listings hash later, so overlap here is free.
+# Internshala keyword slugs — kept to clearly law-specific categories only.
+# 'compliance' and 'contract' were removed: they pull in HR compliance,
+# financial compliance, contract staffing, logistics, and operations roles
+# that have nothing to do with legal practice.
 INTERNSHALA_KEYWORDS = [
-    "legal", "corporate-law", "legal-research", "law", "compliance",
-    "contract", "company-secretary", "paralegal", "intellectual-property-law",
+    "legal", "corporate-law", "legal-research", "law",
+    "company-secretary", "paralegal", "intellectual-property-law",
 ]
+
+# Title-level whitelist: at least one of these must appear in the
+# listing title (case-insensitive) for it to pass the law filter.
+_LAW_TITLE_INDICATORS = [
+    "legal", "law", "advocate", "attorney", "counsel", "solicitor",
+    "paralegal", "litigation", "corporate", "contract draft", "legal draft",
+    "legal research", "legal intern", "law intern", "llb", "llm",
+    "company secretary", " cs ", "intellectual property", " ip ", "patent",
+    "trademark", "copyright", "arbitration", "due diligence", "m&a",
+    "merger", "acquisition", "compliance officer", "legal compliance",
+    "regulatory", "sebi", "ibc", "insolvency", "nclt", "legal associate",
+    "legal executive", "legal manager", "legal head",
+]
+
+# Title-level blacklist: if the title contains ANY of these and NONE of
+# the law indicators, it is rejected outright.
+_NON_LAW_TITLE_REJECTS = [
+    "accountant", "accounting", "chartered accountant", " ca ", "finance intern",
+    "financial analyst", "telecall", "telecaller", "bpo", "customer support",
+    "human resource", " hr ", "hr intern", "recruitment intern", "talent acqui",
+    "logistics", "supply chain", "operations intern", "warehouse",
+    "marketing intern", "digital marketing", "social media", "seo intern",
+    "graphic design", "ui/ux", "data entry", "content writ", "copywrite",
+    "sales intern", "business development", "e-commerce", "civil engineer",
+    "mechanical", "electrical", "software develop", "python intern",
+    "java intern", "web develop", "android", "machine learning", "data science",
+]
+
+
+def _is_law_listing(title: str) -> bool:
+    """Return True only if the listing title looks like a genuine law/legal role.
+
+    Strategy: whitelist beats blacklist. A title passes if it contains any
+    law indicator. A title fails if it contains a non-law reject term AND
+    no law indicator. Titles that are completely neutral (neither list)
+    are passed through so Claude can score them — better to let a borderline
+    listing through than to silently drop a real opportunity.
+    """
+    t = title.lower()
+    has_law   = any(ind in t for ind in _LAW_TITLE_INDICATORS)
+    has_noise = any(rej in t for rej in _NON_LAW_TITLE_REJECTS)
+    if has_law:
+        return True   # clear law role — keep
+    if has_noise:
+        return False  # clearly not law — drop
+    return True       # ambiguous — pass through for Claude to score
 
 
 def _parse_internshala_card(card):
@@ -193,7 +237,12 @@ def _parse_internshala_card(card):
 
 
 def fetch_internshala(keyword="legal"):
-    """Internshala public search results (no login required)."""
+    """Internshala public search results (no login required).
+
+    Each result is passed through _is_law_listing() to drop clearly
+    non-legal roles (accounting, HR, telecalling, logistics, etc.) that
+    bleed into adjacent keyword categories.
+    """
     url = f"https://internshala.com/internships/{keyword}-internship"
     resp = safe_get(url)
     if not resp:
@@ -202,12 +251,18 @@ def fetch_internshala(keyword="legal"):
 
     soup = BeautifulSoup(resp.text, "html.parser")
     listings = []
+    rejected = 0
     cards = soup.select("div.individual_internship, div[id^='job_'], div.internship_meta")[:MAX_LISTINGS_PER_SOURCE]
 
     for card in cards:
         try:
             parsed = _parse_internshala_card(card)
             if not parsed:
+                continue
+            # Drop non-law listings before they ever reach the seen-listings
+            # store or the Claude scoring step.
+            if not _is_law_listing(parsed["title"]):
+                rejected += 1
                 continue
             href = parsed["href"]
             full_url = href if href.startswith("http") else f"https://internshala.com{href}"
@@ -222,6 +277,8 @@ def fetch_internshala(keyword="legal"):
             print(f"  [warn] parse error on Internshala/{keyword} card: {e}", file=sys.stderr)
             continue
 
+    if rejected:
+        print(f"  [filter] dropped {rejected} non-law listing(s) from Internshala/{keyword}")
     if not listings and cards:
         report_issue(f"Internshala/{keyword}", "cards found but none parsed — selectors likely stale, needs a look")
     elif not cards:
@@ -336,37 +393,54 @@ def fetch_lawctopus():
 
 
 def fetch_lawfoyer():
-    """LawFoyer opportunities via RSS, HTML fallback."""
-    print("Fetching LawFoyer...")
-    listings = fetch_wp_rss("LawFoyer", "https://lawfoyer.in/category/opportunities/feed/")
-    if listings:
-        return listings
+    """LawFoyer opportunities via HTML scrape.
 
-    resp = safe_get("https://lawfoyer.in/category/opportunities/")
-    if not resp:
-        return []
-    soup = BeautifulSoup(resp.text, "html.parser")
+    LawFoyer's RSS feed is no longer publicly accessible (returns 0 items).
+    We scrape their most relevant category pages directly instead.
+    """
+    print("Fetching LawFoyer...")
+    category_urls = [
+        "https://lawfoyer.in/category/law-firm-internships/",
+        "https://lawfoyer.in/category/law-firm-jobs/",
+        "https://lawfoyer.in/category/opportunities/",
+        "https://lawfoyer.in/category/jobs/",
+    ]
     listings = []
-    articles = soup.select("article, div.post")[:MAX_LISTINGS_PER_SOURCE]
-    for art in articles:
-        try:
-            link_el = art.select_one("h2 a, h3 a, a.entry-title-link")
-            if not link_el:
-                continue
-            title = link_el.get_text(strip=True)
-            href = link_el.get("href")
-            if title and href:
-                listings.append({
-                    "source": "LawFoyer", "title": title,
-                    "company": "See listing", "location": "See listing", "url": href,
-                })
-        except Exception as e:
-            print(f"  [warn] parse error on LawFoyer item: {e}", file=sys.stderr)
+    for url in category_urls:
+        resp = safe_get(url)
+        if not resp:
             continue
-    if not listings:
-        report_issue("LawFoyer", "both RSS and HTML fallback returned 0 — needs a look")
-    print(f"  -> {len(listings)} listings (HTML fallback)")
-    return listings
+        soup = BeautifulSoup(resp.text, "html.parser")
+        articles = soup.select("article, div.post, div.jeg_post")[:MAX_LISTINGS_PER_SOURCE]
+        for art in articles:
+            try:
+                link_el = art.select_one("h2 a, h3 a, a.entry-title-link, a.jeg_post_title")
+                if not link_el:
+                    continue
+                title = link_el.get_text(strip=True)
+                href = link_el.get("href")
+                if title and href:
+                    listings.append({
+                        "source": "LawFoyer", "title": title,
+                        "company": "See listing", "location": "See listing", "url": href,
+                    })
+            except Exception as e:
+                print(f"  [warn] parse error on LawFoyer item: {e}", file=sys.stderr)
+                continue
+        time.sleep(0.5)  # polite between pages
+
+    # De-duplicate by URL
+    seen_urls = set()
+    deduped = []
+    for l in listings:
+        if l["url"] not in seen_urls:
+            seen_urls.add(l["url"])
+            deduped.append(l)
+
+    if not deduped:
+        report_issue("LawFoyer", "all category pages returned 0 listings — page structure may have changed")
+    print(f"  -> {len(deduped)} listings")
+    return deduped
 
 
 def fetch_bar_and_bench_jobs():
@@ -383,15 +457,53 @@ def fetch_bar_and_bench_jobs():
 
 
 def fetch_livelaw_jobs():
-    """LiveLaw's feed, filtered to job-relevant titles. Same rationale as
-    Bar & Bench — mostly a news site, so most people never think to check
-    it for postings, meaning less competition on anything found here."""
+    """LiveLaw job-relevant listings via HTML scrape.
+
+    LiveLaw's RSS feed (livelaw.in/feed) returns a 500 error and has no
+    working public alternative. We scrape their jobs/vacancy listing page
+    directly instead. LiveLaw is still a high-signal source — most people
+    read it for news, so postings here face less competition.
+    """
     print("Fetching LiveLaw (jobs/internships)...")
-    return fetch_wp_rss(
-        "LiveLaw",
-        "https://www.livelaw.in/feed",
-        keyword_filter=["intern", "associate", "hiring", "vacancy", "recruit", "job", "opportunit"],
-    )
+    job_keywords = ["intern", "associate", "hiring", "vacancy", "recruit", "job", "opportunit"]
+    listings = []
+    for url in [
+        "https://www.livelaw.in/jobs",
+        "https://www.livelaw.in/category/jobs",
+    ]:
+        resp = safe_get(url)
+        if not resp:
+            continue
+        soup = BeautifulSoup(resp.text, "html.parser")
+        articles = soup.select("article, div.post, div.card")[:MAX_LISTINGS_PER_SOURCE]
+        for art in articles:
+            try:
+                link_el = art.select_one("h2 a, h3 a, a.entry-title-link")
+                if not link_el:
+                    continue
+                title = link_el.get_text(strip=True)
+                href = link_el.get("href")
+                if not (title and href):
+                    continue
+                if not any(k in title.lower() for k in job_keywords):
+                    continue
+                listings.append({
+                    "source": "LiveLaw",
+                    "title": title,
+                    "company": "See listing",
+                    "location": "See listing",
+                    "url": href if href.startswith("http") else f"https://www.livelaw.in{href}",
+                })
+            except Exception as e:
+                print(f"  [warn] parse error on LiveLaw item: {e}", file=sys.stderr)
+                continue
+        if listings:
+            break  # found results on first working URL, skip the second
+
+    if not listings:
+        report_issue("LiveLaw", "HTML scrape returned 0 — page structure may have changed")
+    print(f"  -> {len(listings)} listings")
+    return listings
 
 
 def fetch_scc_blog_jobs():
