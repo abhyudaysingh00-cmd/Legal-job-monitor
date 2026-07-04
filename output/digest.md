@@ -1,97 +1,82 @@
 # Legal Job Digest — 2026-07-04
 
-<details><summary>⚠ 2 issue(s) this run — click to expand</summary>
+**8 relevant new listing(s) found.**
 
-- **LawFoyer:** all category pages returned 0 listings — page structure may have changed
-- **LiveLaw:** HTML scrape returned 0 — page structure may have changed
+### [Assistant Manager (Corporate Legal) Vacancy At Tata Communications Limited - Live Law](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDRKR0ZfTDA5dTZyU3RBSnYxUTZuN2RYODRLbEdyaDBRajVjN2ZJMDFZeE5OWWRlQmk5TEF4ZTdUcURrOUdEOUE3OUdpc0JsTWdHeVBhWHlUNWRlVzJ0cy0xSEEzeHhnajBpZWVpVWRjekFXX1JMT1R2T0djZlpvVXdUblNUU0FNckFpYjdoM3FYNjRJS1k3UWgxUHBMOWJJMHpJT24xemppMVZiclhLNkxialRlcV9MTUHSAboBQVVfeXFMUDQ0SkdGX0wwOXU2clN0QUp2MVE2bjdkWDg0S2xHcmgwUWo1YzdmSTAxWXhOTllkZUJpOUxBeGU3VHFEazlHRDlBNzlHaXNCbE1nR3lQYVh5VDVkZVcydHMtMUhBM3h4Z2owaWVlaVVkY3pBV19STE9Udk9HY2Zab1V3VG5TVFNBTXJBaWI3aDNxWDY0SUtZN1FoMVBwTDliSTB6SU9uMXpqaTFWYnJYSzZMYmpUZXFfTE1B?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 8/10
+- **Why:** Assistant Manager (Corporate Legal) at Tata Communications closely matches candidate's corporate law transition goals.
+
+### [Associate Corporate Counsel Vacancy At Amazon Development Centre (India) Private Limited - Live Law](https://news.google.com/rss/articles/CBMixwFBVV95cUxNanFqUWc4R3NVY2hSMTR5V3pDQkdtNVdVNmZYeGtvZkhXbms4NThRM0lQOXRZN0p4dTUwMElTUHl3Z1BBS0drdklmRDNtSWgweXFpZ1VFQnFwaWFBTnM2WEF2TklwREtnZUNpMVV4ZERSX0ZBTjg0aWNpcG1EcFg0ZTFlSzhBRTNnX2c2VVpfalBVUXdmOExrNkNTdS1EUFgtUlFIdlFCb0tPOHJzNEZmejdlQXZBeUJmMnZjWC1kejhVbVR3b0dv0gHMAUFVX3lxTE1teGNuN3ZqMGVWVFc2Z0xFelFvWC1OVXhobk5NOFUtckhQOVF0S09GZFpoeFRuNldBTkRBSlc2V0U5VU9OaVZWSVYzUHRXWFlWeVZEZWtGRjZNaFotMlEyUlRUa0Mzc0xCT0Nkb3pCMEs2aTRDeklHRy1nS3pLbkFzd2FCQklVMmxqZWNPTWtvdTRnb01BWHptWkl6V05Mdm10VFRfOUM2THk2LUhITkJ2dWpNZXdOYzdnN2JDcUxxenAtVzRQdzhseGpqdA?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 8/10
+- **Why:** Associate Corporate Counsel at Amazon is an excellent match for corporate/commercial law aspirations.
+
+### [Consultant (Data Privacy) Vacancy At Deloitte Touche Tohmatsu India LLP [Mumbai; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRk13Ymk2bU9sU2gybXhMdm1CQkU3OUdxR3RrVm5JNHF3eXczei1iNHhiZG5GSVFNY3pmc1dsMFhTYnhvalplUlRhVndOUEhxUjctZ3RYY3NrQVRYU2dZc0w1OU04ZnRfcENaY1FlY0JoMjNwbnBjWHR5d28zaHVXTGs4S1lPeDJGTHN5aEFJQWt4VnEzQ25EVnUwUjVzNUZFTEFFdzNYYlM4RzU5NlZxZmd0X00wSEJtMHhnUndkWdIBvwFBVV95cUxQRk13Ymk2bU9sU2gybXhMdm1CQkU3OUdxR3RrVm5JNHF3eXczei1iNHhiZG5GSVFNY3pmc1dsMFhTYnhvalplUlRhVndOUEhxUjctZ3RYY3NrQVRYU2dZc0w1OU04ZnRfcENaY1FlY0JoMjNwbnBjWHR5d28zaHVXTGs4S1lPeDJGTHN5aEFJQWt4VnEzQ25EVnUwUjVzNUZFTEFFdzNYYlM4RzU5NlZxZmd0X00wSEJtMHhnUndkWQ?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 6/10
+- **Why:** Data Privacy consultant role aligns with TMT/compliance interests though it's consulting rather than legal practice.
+
+### [Manager (Legal) Vacancy At Tata Capital Limited - Live Law](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNDdwV3FBclpKY1hkZE1qZkJSMF9iY0NCaktVSnAzc1hmNHR2QlBZTVp6UTZYS1dPQU1KczNIWm5OMVQtZlZROVV1UFlsM1lHeExYTnVCUXFPVFZDWXdfRUREaXpURUJIUklnM05sbG5iR1dhQ05BM09zcDhnYTIwRm94RVA5Y21DT3dEMDVOdFFsMlZLcVHSAZYBQVVfeXFMTTQ3cFdxQXJaSmNYZGRNamZCUjBfYmNDQmpLVUpwM3NYZjR0dkJQWU1aelE2WEtXT0FNSnMzSFpuTjFULWZWUTlVdVBZbDNZR3hMWE51QlFxT1RWQ1l3X0VERGl6VEVCSFJJZzNObGxuYkdXYUNOQTNPc3A4Z2EyMEZveEVQOWNtQ093RDA1TnRRbDJWS3FR?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 6/10
+- **Why:** Manager (Legal) at Tata Capital is corporate legal work, relevant though possibly senior for 1 PQE.
+
+### [Legal Manager (Loan Against Property) Vacancy At Kotak Mahindra Bank Limited - Live Law](https://news.google.com/rss/articles/CBMivAFBVV95cUxNdTJIQ0FOQzBtUjdFUG5JZzNtRzFSN2tfSGhqZjhJQUNhTlVDQjVRN25qUTFITnNoOXktQlhicVFDMXpXTHhkTXl3Vjhaa3pvRTZtNnVKT3lsYjFKb01aMGdRUGgtUXRkY25iR0x6WjBrNmQxMTBLa0plaFdOdl9CSFloTjFNNHJubUVwWGVKcmloV2ZfaWpEZ3AydzZFTlF0LU9kS1k1YzNtM1lFbjBEVzVORWRGV3dFbkhWWtIBvAFBVV95cUxNdTJIQ0FOQzBtUjdFUG5JZzNtRzFSN2tfSGhqZjhJQUNhTlVDQjVRN25qUTFITnNoOXktQlhicVFDMXpXTHhkTXl3Vjhaa3pvRTZtNnVKT3lsYjFKb01aMGdRUGgtUXRkY25iR0x6WjBrNmQxMTBLa0plaFdOdl9CSFloTjFNNHJubUVwWGVKcmloV2ZfaWpEZ3AydzZFTlF0LU9kS1k1YzNtM1lFbjBEVzVORWRGV3dFbkhWWg?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 6/10
+- **Why:** Legal Manager at Kotak Mahindra Bank fits corporate/commercial legal interest in banking.
+
+### [Assistant Manager Vacancy At EY Global Delivery Services [Bengaluru; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2V4OUhINVNFVlFFbkpfMl8wREdUQXpKREZDeERHT1hRSy1oMGd1SnFFVXRYZXdKWDA3dzFGaHlWOVhreGR2bHhYR0VKYjA1Y2VHajZHcHZfOG16M2NNTk1fTDRXZUJ0R1pKZmF3NjNjVzhyOTMwWFlxSGpNTUVwNEFnTGpPVVVwT2o2d3YtbFUzOE9Zd0IwVC1mTkJxSVdVZHpNVm8xczFsN0ZoR0RMSGtB0gGyAUFVX3lxTE1DZXg5SEg1U0VWUUVuSl8yXzBER1RBekpERkN4REdPWFFLLWgwZ3VKcUVVdFhld0pYMDd3MUZoeVY5WGt4ZHZseFhHRUpiMDVjZUdqNkdwdl84bXozY01OTV9MNFdlQnRHWkpmYXc2M2NXOHI5MzBYWXFIak1NRXA0QWdMak9VVXBPajZ3di1sVTM4T1l3QjBULWZOQnFJV1Vkek1WbzFzMWw3RmhHRExIa0E?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 5/10
+- **Why:** Assistant Manager at EY GDS could involve legal/compliance work but title is vague and location fixed to Bengaluru.
+
+### [Senior Consultant Vacancy At Deloitte Touche Tohmatsu India LLP [Mumbai; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkN0dzJtdjdzSGdfR2JHa0J5NjhROG1HWF9BZ25mNEFtOGRKd0lSMUtFeGFWX3JmSTlUN0xhemZTNGVmd014RjFoUjFFT3ZvQlZWMG1BbVhRN1dMRzNvOV8yVmxQb3BnZXNKcmRNeGtXNzl2djRpWmxqcHgxWVI4OHBzVU81LVF5YkFTNllXbExiZkNXSlBneHNsbG5vRFR2Tm1VQzIyWldkZENxQmFneHBR0gG3AUFVX3lxTE5wNnB0Y3ktZGdhQVM1QWtUX0ZiQmRsdmJjbmN2QVFScWZUZVB3dWx3YkExeVVOVjlMZXF5NVJOQUtlbFpNMFVLakU1YjRkZ1YxVFNWQlRYUTkzUDdBMDk0QTY0alAwQUpkQ1hpVHBJc1hpSW9kN1psRU1oSUNyb19veVRpcmt5d1FMVnY4WmVMdFllZ3hMV0FDaXdjUkpVTlRWQk4ySFVIQnlGNXh1dUpUcll0cWttYw?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 5/10
+- **Why:** Senior Consultant at Deloitte may be relevant to compliance/legal advisory but likely requires more experience.
+
+### [Young Professional (Legal) Vacancy At National Financial Reporting Authority (NFRA) - Live Law](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZE5RX3JVZkZRVjMyUE01dHhpQmVoSjVZd0xaajZoR2ZNUFRpa3NDdHpUUnNlQ1k3Y25velpRbml5UEoxNDRieWZLOU1PeDZHOWhtVWs0TE5rdnhDMXlVcGZjQTRJelU3MzJGa1hDNkdYdWlzQ283LWFKYlpkdXZsMW0zeFJEYjNaX0lycEdLM0YyNnhpVkliUHBuSm1kVVpOVklZSFExcVIxSjlsbk1wMnp3RTZ5SzDSAbwBQVVfeXFMUEEzYkFrdXZ6MjZGTjdjVlljYUtadEdpMFNRVlFmenJXanU2dEotYUZKM08tNktFRmgyNTZqMjNwOWRDTEhlVUFGUEtJRXVxWENRbEY5Sm5RSHU1cWFXNnNWSzQwczI3c0dqUU9qRkFQOW42ak9lNzd0bndiSlF0aTZyV2NUcUw0TnpjaEwzZzdhS29EQ2szb193N3U4djJ1VE10MjVLYzEtOHNrUmxDczZwSHRDRTAwbzRaWXg?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 5/10
+- **Why:** Young Professional (Legal) at NFRA involves regulatory/compliance work relevant to corporate law interests.
+
+
+<details><summary>25 lower-relevance listings (click to expand)</summary>
+
+- [Accounts And Audit Assistant](https://internshala.com/internship/detail/accounts-and-audit-assistant-internship-in-mumbai-at-g-r-a-n-d-m-a-r-k-associates1780914272) — G R A N D M A R K & Associates (score: 1)
+- [Credit Marketing](https://internshala.com/internship/detail/credit-marketing-internship-in-mumbai-at-investec-capital-services-india-private-limited1781847339) — Investec Capital Services (India) Private Limited (score: 1)
+- [Accounts](https://internshala.com/internship/detail/accounts-internship-in-mumbai-at-r-j-gala-associates1782111583) — R J Gala & Associates (score: 1)
+- [Jr. Audit & MIS Associate](https://internshala.com/internship/detail/jr-audit-mis-associate-internship-in-multiple-locations-at-cfo-services1780977754) — CFO Services (score: 1)
+- [Credit Markets](https://internshala.com/internship/detail/credit-markets-internship-in-mumbai-at-investec-capital-services-india-private-limited1782275636) — Investec Capital Services (India) Private Limited (score: 1)
+- [Operations](https://internshala.com/internship/detail/operations-internship-in-mumbai-at-emerge-digital1780829112) — Emerge Digital (score: 1)
+- [Accounts & Finance](https://internshala.com/internship/detail/accounts-finance-internship-in-mumbai-at-ambika-global-foods-and-beverages-private-limited1781597850) — Ambika Global Foods And Beverages Private Limited (score: 1)
+- [Research And Portfolio Analyst](https://internshala.com/internship/detail/research-and-portfolio-analyst-internship-in-multiple-locations-at-v-k-ashar-and-company1781377571) — V K ASHAR and Company (score: 2)
+- [Accounts](https://internshala.com/internship/detail/accounts-internship-in-multiple-locations-at-evogue-media-llp1782233765) — Evogue Media LLP (score: 1)
+- [Finance](https://internshala.com/internship/detail/part-time-finance-internship-in-mumbai-at-nikita-khetan1780915223) — Nikita Khetan (score: 1)
+- [Investment Banker](https://internshala.com/internship/detail/investment-banker-internship-in-mumbai-at-cedar-hrd1780916503) — Cedar HRD (score: 1)
+- [1ST AUMP VIRTUAL CLIENT COUNSELLING COMPETITION, 2026 | Organized by Amity Law School, Amity University Madhya Pradesh | Register by 3rd May, 2026](https://lawfoyer.in/1st-aump-virtual-client-counselling-competition-2026-organized-by-amity-law-school-amity-university-madhya-pradesh-register-by-24th-april-2026/) — See listing (score: 0)
+- [Smt. Shakuntala Devi 3rd International Moot Court Competition, 2026 | Organized Moot Court Society, School of Law, Galgotias University | Register by 26th March, 2026](https://lawfoyer.in/smt-shakuntala-devi-3rd-international-moot-court-competition-2026-organized-moot-court-society-school-of-law-galgotias-university-register-by-26th-march-2026/) — See listing (score: 0)
+- [4th NATIONAL CLIENT COUNSELLING COMPETITION | Organized by Chanakya National Law University, Patna | Register by 22 March 2026](https://lawfoyer.in/4th-national-client-counselling-competition-organized-by-chanakya-national-law-university-patna-register-by-22-march-2026/) — See listing (score: 0)
+- [Deputy Registrar Vacancy At Armed Forces Tribunal, Regional Bench, Chennai - Live Law](https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlA2enB5VnFxcmNDV0FJWmVYTzJNZ3FGdEduS0hVWW5mdllldW5NS0RyX1dOZko2Zmx5RjlITkp5UTVVanFRY2hQem0zZ29VUV9hcHBQYV9UZGFnNmljTWlmQ1lDVE96OEt0dF9qYmFxckVwb0RqZ2VIdUJpaFZLSnZvWFdGbVA5eXdSOGR3MTBmVDRRV094ZVU5VFhBN1ZuSW9yWm9kTjdicnVpZExmQjdoZGhMUGI5WGfSAboBQVVfeXFMUEZQNnpweVZxcXJjQ1dBSVplWE8yTWdxRnRHbktIVVluZnZZZXVuTUtEcl9XTmZKNmZseUY5SE5KeVE1VWpxUWNoUHptM2dvVVFfYXBwUGFfVGRhZzZpY01pZkNZQ1RPejhLdHRfamJhcXJFcG9EamdlSHVCaWhWS0p2b1hXRm1QOXl3UjhkdzEwZlQ0UVdPeGVVOVRYQTdWbklvclpvZE43YnJ1aWRMZkI3aGRoTFBiOVhn?oc=5) — See listing (score: 2)
+- [Central Administrator (Women) And Para Legal Personnel/ Lawyer (Women) Vacancy At Women Development And... - Live Law](https://news.google.com/rss/articles/CBMipAJBVV95cUxPRVlxS0Q1UVprNjBnQjU5cXBVa1NZMXJVYmdsNjdGUHFrdlljN3ZLZUxCQVFNeDBUWVlvM2UwbWhBa2FkSkJzYzVnRFBIYUJiZWFQeTQxbzFqUk9Ob2tGUmNrcFk3d0R1NUJvS0dLejdBNzR3cThTVE1ZWXVWQy1KbXRLYjloR21TV3JickREMV8zNmNnSkpfU3hrSEhUUFVrWTFKSnRFTC1WdGprTTZ4X2hiYXNSd29XMmNvWTJrLV9SWGtmQ1FOcGdVUVJKMjFGNGN2N1loQ2hZb0RDcTdONWZZSEpVUHk4akQwc3J3VFQ1d0ZUYVJkbFdVZ0ppRHJwY25FbE1adk1Zc0kzYmU2UkY4YUdHNFdCanFXSVpyZUh1a04z0gGkAkFVX3lxTE9FWXFLRDVRWms2MGdCNTlxcFVrU1kxclViZ2w2N0ZQcWt2WWM3dktlTEJBUU14MFRZWW8zZTBtaEFrYWRKQnNjNWdEUEhhQmJlYVB5NDFvMWpST05va0ZSY2twWTd3RHU1Qm9LR0t6N0E3NHdxOFNUTVlZdVZDLUptdEtiOWhHbVNXcmJyREQxXzM2Y2dKSl9TeGtISFRQVWtZMUpKdEVMLVZ0amtNNnhfaGJhc1J3b1cyY29ZMmstX1JYa2ZDUU5wZ1VRUkoyMUY0Y3Y3WWhDaFlvRENxN041ZllISlVQeThqRDBzcndUVDV3RlRhUmRsV1VnSmlEcnBjbkVsTVp2TVlzSTNiZTZSRjhhR0c0V0JqcVdJWnJlSHVrTjM?oc=5) — See listing (score: 1)
+- [Advisory Manager Vacancy At Maruti Suzuki India Limited - Live Law](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHEzdUpqZGdQWnEtLW1HdVU1aXpPLS11dFNEdEt6bXRpV1padnpWN3ZqcHVCMUpIVFJiRDFhT2VIVWdTY2ZTc0RZaXc2WndNM3hVMWFIUlRmSTNiU3ZCQThwa2FucWFuUGk1VlVvUTc3dFpyTXRYRl9QV1hFU3kwN2NtdWwxRjdLZXlPbWxPVWN2X21TdGs0d0F5bXpqNjB0X3ZZ0gGjAUFVX3lxTE5IcTN1SmpkZ1BacS0tbUd1VTVpek8tLXV0U0R0S3ptdGlXWlp2elY3dmpwdUIxSkhUUmJEMWFPZUhVZ1NjZlNzRFlpdzZad00zeFUxYUhSVGZJM2JTdkJBOHBrYW5xYW5QaTVWVW9RNzd0WnJNdFhGX1BXWEVTeTA3Y211bDFGN0tleU9tbE9VY3ZfbVN0azR3QXltemo2MHRfdlk?oc=5) — See listing (score: 3)
+- [LiveLaw Is Hiring Supreme Court Reporters- Apply Today- Work With India's Number 1 Legal News Portal - Live Law](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVnFhMFJ6V01jUENPZGtXM1E3YVdIb1VkVFZZSFJjeU53WEdLQWp5UlJfUTU4dUs0N0Y5bDlBeFhvMUJrV0tHMFQtRV9obzNTTndCMkFFYkprbFVqX3JvM1NDRllKc2pYR25FNk9fRGRGOUtfTHZIN09NcHdreTJPN08xU1RvaVlfTTJKd3piTDNuR2M3Yl9GRlVhTUoxdjNHbWhtStIBqgFBVV95cUxPdHN3VFZ0Tl9KZWdLaEMxbHpqRHdZT2lHMGpQekd5ekpEWDB2YnJZbEVBeHFJMUU2ckhGbzNSbnZ1OGVNcXAxQ2d6RXI0SzY3TldTY3YtbFZET0J2SG82azdqQ2FXOXFQVS1VaDhpYlNVdUlacTdNMWpYaEQtZ2lqUXJzSzlSM1VJdUFRT21aNFJfemtadFhYS2U1QXVGNmxtOXVDQ0o0bGI1UQ?oc=5) — See listing (score: 1)
+- [Assistant Prosecution Officer Vacancy At Home Department (Prosecution), Rajasthan - Live Law](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakV3eEljeldKU1dGaFZ1OHMya0RMcV9nRmFxUlN6TmY4dDg0WWk2TE55LXJySmg5MVlELVM0N01lS2UtX293VVdXVjgyOE1KMklvZG9oNm1MZkVuUnZ1ZDNWajlXTG9Bd3E5SHl5QUIyUVJlMGg5MDJidVlnaEhnWlpTN3kyUnNxd09Rekh6bGsyQ3ZrTzYtdWVmQWU0U242T21iLWdkWWg0RlRYNFVoVXVuYjdHSm5XMmRjRWM1Ni12UdIBwgFBVV95cUxPakV3eEljeldKU1dGaFZ1OHMya0RMcV9nRmFxUlN6TmY4dDg0WWk2TE55LXJySmg5MVlELVM0N01lS2UtX293VVdXVjgyOE1KMklvZG9oNm1MZkVuUnZ1ZDNWajlXTG9Bd3E5SHl5QUIyUVJlMGg5MDJidVlnaEhnWlpTN3kyUnNxd09Rekh6bGsyQ3ZrTzYtdWVmQWU0U242T21iLWdkWWg0RlRYNFVoVXVuYjdHSm5XMmRjRWM1Ni12UQ?oc=5) — See listing (score: 0)
+- [Calcutta High Court Asks SIR Tribunal To Expeditiously Decide Agniveer Recruit's Appeal Over Voter Roll... - Live Law](https://news.google.com/rss/articles/CBMihAJBVV95cUxORTNnWFBfcVNBcWhNYXhOSlNuMDRTMDlYZ1RlUVg1YmF5VW5PUWpvSmt1cDhBdTdDRXprSnRHbmZoTUs3ZVBDb2ptaHh5elZGaDZ6bVpvQXNWNmJzdnF2OC0xWnE5YTYzS0JBZFhVa0Vya1B3akJkdHRZYkk3OF92UlBid3lkd1NkN01Ca25JMm5fUHlrSURuTUhwUDNxNjZlVTFMSWJfN1RvSld6ZXdrQXRkdFNuTlpRMExhR3NUZExxWVRVY21Edl8zOF90RW1NUUEzZ2VGVS1iX2NGMG9CR01IbWx6Rkp5TlVvOW1GWkxYZWtuYi0xR1h5SG1QUnBMUGNfVNIBigJBVV95cUxNUkFUVnR2VWh4T29kSWUtaWh6Tk9MbjBfR21wcTYxV1ZTVloyYkFpNHc1NEdzNm4yblZNTnR3eFR4cThwNmhIYmFIcVIyQnZFRDBoUEFMWlItemltVlVEUEhyVkhkN3Rna1Z3bTdUcmlnVjVnZ0NEdDhCdDN4eVNscl9LallMZHlMWXY2UWdmalpzUUhVQmc1X3E1dVNkYXMwYmZKcFdzQ3FlWUxPY2xER1YzSkFLaTN0MWFadnd5azVzbUl0T180bUFHcEVaWWhhQlkwX18yVnhRdXpWdUZCU0ZPVmlCcXNJVXd4aWxyamh6VHpGcXRrNG5OOHhKUmdsbno3ckRrZDVqZw?oc=5) — See listing (score: 0)
+- [Law Clerk Cum Research Assistants And Court Typist Cum Stenographer Vacancy At Karnataka Appellate... - Live Law](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSGRTNkRWOW13R2QtLUM2dG02akY0UGQ5ZzBRS2hGX3hWSkZKbW1mN0RfTlhucks3dEwxaFZDZjQtcnQwQlBDSUV4T1JkWVBKSE9sQ3Z2a0NDckI3QnBFYTFLT0t3RmVEcmxrRF8teERZaklyYjkxWFhpaWJGVEwtbHFjaW9uVUs3LVVrTEdhdEljR0F0aFplcUhFTnBZaDBTQmM1WF9ySzhsSy1DNFZSeEtScjkwd3hKZWxvRkVjODdqZWZkWmRHYndYNDNsVDlJSEZ0Ql9MZzllVGdjR1RMbnRVd9IB6AFBVV95cUxOSFRWT24zQkltWFJOam1IQlBTUk9hN2Zpb0xzaW1ZMDFUbHJUZWZNYWFzeFJXUjJNQTN1cXBRTElpUXkyWjRESjJWY3RfcDdMSjM1c25PM3lpNHVHOWVxaVg1OVEyX3ZDdk1aSjNnMnk0QVprdGVjbWlrTnhPOFEwUG1sTFM1RnBGZERSd1dfbmlITDlNdkxVcDdNSDhBbkxJSmVsRHNGckxsbDRjOVhUeWZVRF9aQTVlY0dIb3hONndjVWZfWWVaOHVBS0FHWC04WTNDcXZQWE5xX3JEeGlPSURuX0R6eUpq?oc=5) — See listing (score: 2)
+- [Dua Associates Advised Lingyi Itech As Its India Legal Counsel For Its US$1.06 Billion Hong Kong IPO - Live Law](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWFxazg3OUxFSWdqOTRpSUZ5aWszSW5UOXdmZVlpOHRmRE5kWl9MU3ltbnduSEMwQm41X2F2bTRkYUJtdmZ4UzZjdVVPR00wcGZkMnBOSGxrNEk4N3h1WlN3SFlXNHd0OWczWnYtQnNUckpVYk5PMHZJZHdEZzFxMXZ6OWpSSXBXVm5RY0UxSEw2RlZwbXF1Y2JkckNrZnBmVXJuTFJIOGRJNF9NVGt1VVN3cWhINVU2SmVXU21qbmdFUlByVU4xT20ydFNJamdQSXVQRU9xV3RCX0Vy0gHiAUFVX3lxTE1JQk0zN2RmQmRwTWVva0tOcHJXajNhTy1sN3FfblNadG1ZNE9qZF94OEhuS2lZRFpQcXVZWGpieEJhRWwtbVg1QnBoR1B6ZEEyZlc1ZnJSWWNmNmUzYTBIS0NtZEgzUVFwd0dnVFlEUXMzWHU4bnRtLXhiUWxqTVlyLU40R0E5cjlvSEozQTc4VXlqNUhEMTdVTFVTUF9ZQWNxQ2k0TzM5Yy16QVBaQW5ldGVkS08xRi1MazVOMHNpamFrdEYyMWV4NGxLZzNBaUZlRWVmeDFFMkZyYXEtckFXU1E?oc=5) — See listing (score: 1)
+- [Bihar Agricultural University Statutes Operate Prospectively, Can't Convert 2011 Direct Recruitment Into... - Live Law](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQS1HTXg5Wmp3YnZWMGxDb3VLT1IzUWVhdmxLcGwyWTNwV04wZWNDM0ZvYkM3Q3BENFVQdU9EV1NSRzVXUG80OVdhekNEbDdDSTFyMWMzTk13NGl4RERWQkQwVjJyRmhfNi02bXp6bVR2V3VxN3hqeXp3OXlYNkVQWTloVURQYmxDOVBuZ3E2SWswaEhxblFOQWpfc0Z5T0dsZ0FwSk5TckFIZ1RrN3RRUmY5akJFY0lLTkJPUnlaRlFPOEJvY1kycUhyOXA3eTJa0gHWAUFVX3lxTFA5eUdFSzJNZmdISktNOTJaRUdtOHhmQVQ3MjliakM2QzJPQjJLb256b3ZRSkN3VkpNWHlNR1lpNkl6Y3p4UnJXdFRRN2M5eHhfcmxWUHVYdkY1UGxhMXhlN0dxTXNzZjYwbE43WjZTZjRmRk5IVGRzOFg1LTBYTG9iQnZwQkdzeEYwci1xSV9PeU8zbFNaMzZESk9mYTZ3eGlEWnFtcFk5ZWNmbVBlSnlpYTNhcDZOSG9KRkhCdHJnRS1ScUpNdTBkVU1XXzFfeGcySUJrX3c?oc=5) — See listing (score: 0)
+- [Tripura High Court Grade-I Of Tripura Judicial Service Recruitment 2026 - Live Law](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYnZsRnNUdm8teDVmZkFkZ0EwNTFrUm1EWjZFX1drNHF1dU9mN1lDbFpQZTZ6U1N5eEw5WWNDM3BHZ0dlU0RXSFRKVzBLZ1dwWmhxd0Q3dE51VlhNeVNRSUVGdUxCekhad0ZmaWFuS0NaZEItcEtfRUplVU9Ubm1KTzlNNUhKRHhjWHdlT3RTMjJzVVBHUmZWQ0lkV2hxY2lvMURNY1A3bUJwSWc0Q3dwRmU1c9IBuAFBVV95cUxNck5JeDR0d0FGTllqZnNXOVdYcktUT084NlJmeDR6dDdZR0Zlcnh2a2dxVnZqRHlndjFERWtQUGw4R0VjLUVSQ3NpOUdnQTFGZlYyNU8ta2ZpY2NtUklJUXRMOUxBTThYSGpyV2NrdjRwdk9oNGFwOExISzZjc0NIVXAtUk4tbUVpdWlPVGJkZVJ0YWhsdzIyNmxQWUltakV3V3pIUXdaNEI1RGg2ajAxNlhGd1VZX09t?oc=5) — See listing (score: 0)
+- [Associate Advocate (Civil & Criminal Litigation) Vacancy At GDC Legal Consultants LLP [Apply Now] - Live Law](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFZXcVZiQ3Q2OF9GQWp1azJ0Sm8yZXR0MmtiN2RNTnJoT0ZCcUhMcC1XTTF3VUFscXNKc2lXR24zb2ZhM2dackZQYVhaMm5kMXlUd1ozd1lndzlsTUZVVHgwS05MRzFXY21xX3pteUZHS1dqbXhvZVZiYU9yaUQyQTRMbUVydTdXUEtKQjRXZVV3WTh4eFBtdDRTNmZpTDdpQl9GekdzNldXb0RYaUtVZUU2OVloc1RHU0xNbHI1cGPSAcYBQVVfeXFMT1NoV2laTXB4aWhWQ01wbFdZMWRwc0Q1QkM0eGFZTFRXWFpBak9WTU5ZTzA1S3lTY3loVTcxX1RVUl9PRjJMSHc0cE12TUhCUFp6X1VIXzdmN1ZqWl9KcTU3aGFxSmt1VnY5NElSclpVMzFIajJtaFQ2SEc2dnR4QkVKYWowRTJqUnBlZHZqd1V6N2UxaDJmTWc2dGp6bFVIZTl6Q1V6WDU3SkRPT29FOGRlV0pVTXk0Mk84VGZid0x3YzlRWjJ3?oc=5) — See listing (score: 1)
 
 </details>
-
-## ⚠ 17 listing(s) need manual review (scoring failed)
-
-### [Fintech In Financial Markets](https://internshala.com/internship/detail/fintech-in-financial-markets-internship-in-bangalore-at-aurel-david1781507341)
-- **Company:** Aurel David
-- **Source:** Internshala (corporate-law)
-- **Note:** Not scored (no API key)
-
-### [Finance Content (NISM Mandatory)](https://internshala.com/internship/detail/work-from-home-finance-content-nism-mandatory-internship-at-fin-maverick1781089202)
-- **Company:** Fin Maverick
-- **Source:** Internshala (corporate-law)
-- **Note:** Not scored (no API key)
-
-### [Finance](https://internshala.com/internship/detail/finance-internship-in-delhi-at-a-vohra-co1781086316)
-- **Company:** A Vohra & Co.
-- **Source:** Internshala (corporate-law)
-- **Note:** Not scored (no API key)
-
-### [Financial Planning & Loan Advisory Executive](https://internshala.com/internship/detail/financial-planning-loan-advisory-executive-internship-in-kharghar-at-expertoconsultancy1782906211)
-- **Company:** ExpertoConsultancy
-- **Source:** Internshala (corporate-law)
-- **Note:** Not scored (no API key)
-
-### [Legal Research](https://internshala.com/internship/detail/work-from-home-legal-research-internship-at-honhr1782219174)
-- **Company:** Honhr
-- **Source:** Internshala (legal-research)
-- **Note:** Not scored (no API key)
-
-### [General Management](https://internshala.com/internship/detail/general-management-internship-in-multiple-locations-at-satish-chavan1782823867)
-- **Company:** Satish Chavan
-- **Source:** Internshala (company-secretary)
-- **Note:** Not scored (no API key)
-
-### [CA Articleship](https://internshala.com/internship/detail/ca-articleship-internship-in-pune-at-apl-business-services-llp1782465833)
-- **Company:** APL Business Services LLP
-- **Source:** Internshala (company-secretary)
-- **Note:** Not scored (no API key)
-
-### [Business Operations](https://internshala.com/internship/detail/business-operations-internship-in-bangalore-at-times-internet-limited1782104921)
-- **Company:** Times Internet Limited
-- **Source:** Internshala (company-secretary)
-- **Note:** Not scored (no API key)
-
-### [Financial Literacy & Events Coordinator](https://internshala.com/internship/detail/financial-literacy-events-coordinator-internship-in-mumbai-at-wealthtrust-capital-services1781685299)
-- **Company:** WealthTrust Capital Services
-- **Source:** Internshala (company-secretary)
-- **Note:** Not scored (no API key)
-
-### [SEBI/Securities Law](https://internshala.com/internship/detail/work-from-home-sebi-securities-law-internship-at-grivaa-consultancy-services1781859969)
-- **Company:** Grivaa Consultancy Services
-- **Source:** Internshala (paralegal)
-- **Note:** Not scored (no API key)
-
-### [Legal Research](https://internshala.com/internship/detail/work-from-home-legal-research-internship-at-kartavyam1781679464)
-- **Company:** Kartavyam
-- **Source:** Internshala (paralegal)
-- **Note:** Not scored (no API key)
-
-### [Legal Research](https://internshala.com/internship/detail/work-from-home-legal-research-internship-at-reducateai1782048125)
-- **Company:** Reducate.ai
-- **Source:** Internshala (paralegal)
-- **Note:** Not scored (no API key)
-
-### [Legal Department](https://internshala.com/internship/detail/part-time-legal-department-internship-in-multiple-locations-at-grivaa-consultancy-services1781861186)
-- **Company:** Grivaa Consultancy Services
-- **Source:** Internshala (paralegal)
-- **Note:** Not scored (no API key)
-
-### [Corporate / Mergers & Acquisitions](https://www.azbpartners.com/practice-area/corporate-mergers-acquisitions/)
-- **Company:** AZB & Partners
-- **Source:** Firm: AZB & Partners
-- **Note:** Not scored (no API key)
-
-### [INTERNSHIPS](https://www.azbpartners.com/internship/)
-- **Company:** AZB & Partners
-- **Source:** Firm: AZB & Partners
-- **Note:** Not scored (no API key)
-
-### [The Legal Lens | Press Note 3 and its Impact on the Indian Investment Climate](https://sarafpartners.com/insights/the-legal-lens-press-note-3-and-its-impact-on-the-indian-investment-climate-2/)
-- **Company:** Saraf and Partners
-- **Source:** Firm: Saraf and Partners
-- **Note:** Not scored (no API key)
-
-### [The Legal Lens | The DPDPA Explained: Complying with India’s Data Protection Framework](https://sarafpartners.com/insights/the-legal-lens-the-dpdpa-explained-complying-with-indias-data-protection-framework/)
-- **Company:** Saraf and Partners
-- **Source:** Firm: Saraf and Partners
-- **Note:** Not scored (no API key)
-
-No new listings scored above the relevance threshold today.
