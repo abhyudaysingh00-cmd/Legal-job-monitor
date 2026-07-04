@@ -169,15 +169,30 @@ _LAW_TITLE_INDICATORS = [
 # Title-level blacklist: if the title contains ANY of these and NONE of
 # the law indicators, it is rejected outright.
 _NON_LAW_TITLE_REJECTS = [
-    "accountant", "accounting", "chartered accountant", " ca ", "finance intern",
-    "financial analyst", "telecall", "telecaller", "bpo", "customer support",
+    # Accounting / finance
+    "accountant", "accounting", "chartered accountant", "ca articleship",
+    "articleship", "article assistant", "finance intern", "financial analyst",
+    "fintech", "fin-tech", "banking intern", "investment banking",
+    "equity research", "mutual fund", "stock market", "taxation intern",
+    "gst intern", "audit intern", "tally",
+    # Non-law white-collar
+    "telecall", "telecaller", "bpo", "customer support", "customer service",
     "human resource", " hr ", "hr intern", "recruitment intern", "talent acqui",
-    "logistics", "supply chain", "operations intern", "warehouse",
+    "payroll",
+    # Ops / supply chain
+    "logistics", "supply chain", "operations intern", "warehouse", "procurement",
+    "inventory",
+    # Marketing / media
     "marketing intern", "digital marketing", "social media", "seo intern",
-    "graphic design", "ui/ux", "data entry", "content writ", "copywrite",
-    "sales intern", "business development", "e-commerce", "civil engineer",
-    "mechanical", "electrical", "software develop", "python intern",
-    "java intern", "web develop", "android", "machine learning", "data science",
+    "graphic design", "ui/ux", "ux design", "content writ", "copywrite",
+    "video edit", "brand",
+    # Sales
+    "sales intern", "business development", "e-commerce",
+    # Engineering / tech
+    "civil engineer", "mechanical", "electrical", "software develop",
+    "python intern", "java intern", "web develop", "android",
+    "machine learning", "data science", "data analyst", "cloud",
+    "devops", "cybersecurity intern",
 ]
 
 
@@ -393,54 +408,61 @@ def fetch_lawctopus():
 
 
 def fetch_lawfoyer():
-    """LawFoyer opportunities via HTML scrape.
+    """LawFoyer opportunities via WordPress REST API.
 
-    LawFoyer's RSS feed is no longer publicly accessible (returns 0 items).
-    We scrape their most relevant category pages directly instead.
+    LawFoyer's category pages are JavaScript-rendered — BeautifulSoup sees
+    only the page shell, no post cards. Their WP REST API (confirmed working)
+    returns clean JSON without needing a browser.
+
+    Category 455 = 'internship' (the only job-type category confirmed in
+    their WP taxonomy). We also do a keyword search for 'job' to catch
+    posts tagged under other categories.
     """
     print("Fetching LawFoyer...")
-    category_urls = [
-        "https://lawfoyer.in/category/law-firm-internships/",
-        "https://lawfoyer.in/category/law-firm-jobs/",
-        "https://lawfoyer.in/category/opportunities/",
-        "https://lawfoyer.in/category/jobs/",
-    ]
+    base = "https://lawfoyer.in/wp-json/wp/v2"
+    fields = "_fields=title,link,date"
+    job_keywords = ["intern", "job", "vacancy", "hiring", "recruit", "opportunit",
+                    "associate", "counsel", "advocate"]
     listings = []
-    for url in category_urls:
-        resp = safe_get(url)
-        if not resp:
-            continue
-        soup = BeautifulSoup(resp.text, "html.parser")
-        articles = soup.select("article, div.post, div.jeg_post")[:MAX_LISTINGS_PER_SOURCE]
-        for art in articles:
-            try:
-                link_el = art.select_one("h2 a, h3 a, a.entry-title-link, a.jeg_post_title")
-                if not link_el:
-                    continue
-                title = link_el.get_text(strip=True)
-                href = link_el.get("href")
-                if title and href:
-                    listings.append({
-                        "source": "LawFoyer", "title": title,
-                        "company": "See listing", "location": "See listing", "url": href,
-                    })
-            except Exception as e:
-                print(f"  [warn] parse error on LawFoyer item: {e}", file=sys.stderr)
+    seen_urls: set = set()
+
+    endpoints = [
+        f"{base}/posts?categories=455&per_page=20&{fields}",          # internship category
+        f"{base}/posts?search=job+vacancy+legal&per_page=20&{fields}", # keyword search
+        f"{base}/posts?search=internship+law+firm&per_page=20&{fields}",
+    ]
+
+    for url in endpoints:
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            posts = resp.json()
+            if not isinstance(posts, list):
                 continue
-        time.sleep(0.5)  # polite between pages
+            for post in posts:
+                title = post.get("title", {}).get("rendered", "").strip()
+                link  = post.get("link", "").strip()
+                if not (title and link) or link in seen_urls:
+                    continue
+                # Filter to job-relevant posts
+                if not any(k in title.lower() for k in job_keywords):
+                    continue
+                seen_urls.add(link)
+                listings.append({
+                    "source": "LawFoyer",
+                    "title": title,
+                    "company": "See listing",
+                    "location": "See listing",
+                    "url": link,
+                })
+        except Exception as e:
+            print(f"  [warn] LawFoyer API error ({url}): {e}", file=sys.stderr)
+            continue
 
-    # De-duplicate by URL
-    seen_urls = set()
-    deduped = []
-    for l in listings:
-        if l["url"] not in seen_urls:
-            seen_urls.add(l["url"])
-            deduped.append(l)
-
-    if not deduped:
-        report_issue("LawFoyer", "all category pages returned 0 listings — page structure may have changed")
-    print(f"  -> {len(deduped)} listings")
-    return deduped
+    if not listings:
+        report_issue("LawFoyer", "WP REST API returned 0 job-relevant posts")
+    print(f"  -> {len(listings)} listings")
+    return listings
 
 
 def fetch_bar_and_bench_jobs():
@@ -457,53 +479,20 @@ def fetch_bar_and_bench_jobs():
 
 
 def fetch_livelaw_jobs():
-    """LiveLaw job-relevant listings via HTML scrape.
+    """LiveLaw job-relevant posts via Google News RSS.
 
-    LiveLaw's RSS feed (livelaw.in/feed) returns a 500 error and has no
-    working public alternative. We scrape their jobs/vacancy listing page
-    directly instead. LiveLaw is still a high-signal source — most people
-    read it for news, so postings here face less competition.
+    LiveLaw uses a JS-rendered custom frontend — standard HTML scraping sees
+    only an empty shell, and their WP REST API is not exposed. Google News
+    RSS is a stable, zero-dependency alternative: Google indexes LiveLaw
+    continuously and exposes its own RSS of matching articles. No scraping
+    needed — we just parse the RSS Google serves.
     """
-    print("Fetching LiveLaw (jobs/internships)...")
+    print("Fetching LiveLaw (via Google News RSS)...")
+    import urllib.parse
+    query = urllib.parse.quote('site:livelaw.in (intern OR vacancy OR "job opening" OR hiring OR associate OR recruit)')
+    feed_url = f"https://news.google.com/rss/search?q={query}&hl=en-IN&gl=IN&ceid=IN:en"
     job_keywords = ["intern", "associate", "hiring", "vacancy", "recruit", "job", "opportunit"]
-    listings = []
-    for url in [
-        "https://www.livelaw.in/jobs",
-        "https://www.livelaw.in/category/jobs",
-    ]:
-        resp = safe_get(url)
-        if not resp:
-            continue
-        soup = BeautifulSoup(resp.text, "html.parser")
-        articles = soup.select("article, div.post, div.card")[:MAX_LISTINGS_PER_SOURCE]
-        for art in articles:
-            try:
-                link_el = art.select_one("h2 a, h3 a, a.entry-title-link")
-                if not link_el:
-                    continue
-                title = link_el.get_text(strip=True)
-                href = link_el.get("href")
-                if not (title and href):
-                    continue
-                if not any(k in title.lower() for k in job_keywords):
-                    continue
-                listings.append({
-                    "source": "LiveLaw",
-                    "title": title,
-                    "company": "See listing",
-                    "location": "See listing",
-                    "url": href if href.startswith("http") else f"https://www.livelaw.in{href}",
-                })
-            except Exception as e:
-                print(f"  [warn] parse error on LiveLaw item: {e}", file=sys.stderr)
-                continue
-        if listings:
-            break  # found results on first working URL, skip the second
-
-    if not listings:
-        report_issue("LiveLaw", "HTML scrape returned 0 — page structure may have changed")
-    print(f"  -> {len(listings)} listings")
-    return listings
+    return fetch_wp_rss("LiveLaw", feed_url, keyword_filter=job_keywords)
 
 
 def fetch_scc_blog_jobs():
