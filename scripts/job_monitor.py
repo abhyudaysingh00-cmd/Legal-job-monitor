@@ -35,6 +35,9 @@ import re
 import sys
 import time
 import hashlib
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -52,9 +55,10 @@ CAREER_PAGES_FILE = ROOT / "data" / "career_pages.json"
 PROFILE_FILE = ROOT / "data" / "profile.json"
 
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
-RESEND_API_KEY = os.environ.get("RESEND_API_KEY")  # optional
-DIGEST_TO_EMAIL = os.environ.get("DIGEST_TO_EMAIL")  # optional, required if using Resend
-DIGEST_FROM_EMAIL = os.environ.get("DIGEST_FROM_EMAIL", "digest@resend.dev")
+# Gmail SMTP delivery (optional — digest still written to output/digest.md if unset)
+GMAIL_SENDER      = os.environ.get("GMAIL_SENDER")       # your Gmail address
+GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD") # 16-char Google App Password
+DIGEST_TO_EMAIL   = os.environ.get("DIGEST_TO_EMAIL")    # recipient address
 
 # OpenRouter-hosted model slug. "anthropic/claude-sonnet-5" calls the same
 # model this script previously hit directly via the Anthropic API. Override
@@ -287,40 +291,48 @@ def fetch_wp_rss(source_name, feed_url, keyword_filter=None):
 
 
 def fetch_lawctopus():
-    """Lawctopus jobs/internships via RSS (falls back to HTML scrape if the
-    feed ever goes away, since the HTML page structure is a known quantity
-    too — belt and suspenders)."""
+    """Lawctopus jobs/internships via RSS (falls back to HTML scrape of the
+    current /jobs/ and /internships/ pages — the old /lawctopus-law-jobs/
+    path is a 404 as of 2025)."""
     print("Fetching Lawctopus...")
-    listings = fetch_wp_rss("Lawctopus", "https://www.lawctopus.com/lawctopus-law-jobs/feed/")
+    # Primary: site-wide RSS feed (covers both jobs and internships)
+    listings = fetch_wp_rss("Lawctopus", "https://www.lawctopus.com/feed/",
+                            keyword_filter=["intern", "associate", "hiring", "vacancy",
+                                            "recruit", "job", "opportunit", "legal"])
     if listings:
         return listings
 
-    # Fallback: HTML scrape of the listings page
-    resp = safe_get("https://www.lawctopus.com/lawctopus-law-jobs/")
-    if not resp:
-        return []
-    soup = BeautifulSoup(resp.text, "html.parser")
-    listings = []
-    articles = soup.select("article, div.post")[:MAX_LISTINGS_PER_SOURCE]
-    for art in articles:
-        try:
-            link_el = art.select_one("h2 a, h3 a, a.entry-title-link")
-            if not link_el:
-                continue
-            title = link_el.get_text(strip=True)
-            href = link_el.get("href")
-            if title and href:
-                listings.append({
-                    "source": "Lawctopus", "title": title,
-                    "company": "See listing", "location": "See listing", "url": href,
-                })
-        except Exception as e:
-            print(f"  [warn] parse error on Lawctopus item: {e}", file=sys.stderr)
+    # Fallback: scrape /jobs/ and /internships/ listing pages directly
+    combined = []
+    for fallback_url in [
+        "https://www.lawctopus.com/jobs/",
+        "https://www.lawctopus.com/internships/",
+    ]:
+        resp = safe_get(fallback_url)
+        if not resp:
             continue
-    if not listings:
+        soup = BeautifulSoup(resp.text, "html.parser")
+        articles = soup.select("article, div.post")[:MAX_LISTINGS_PER_SOURCE]
+        for art in articles:
+            try:
+                link_el = art.select_one("h2 a, h3 a, a.entry-title-link")
+                if not link_el:
+                    continue
+                title = link_el.get_text(strip=True)
+                href = link_el.get("href")
+                if title and href:
+                    combined.append({
+                        "source": "Lawctopus", "title": title,
+                        "company": "See listing", "location": "See listing", "url": href,
+                    })
+            except Exception as e:
+                print(f"  [warn] parse error on Lawctopus item: {e}", file=sys.stderr)
+                continue
+
+    if not combined:
         report_issue("Lawctopus", "both RSS and HTML fallback returned 0 — needs a look")
-    print(f"  -> {len(listings)} listings (HTML fallback)")
-    return listings
+    print(f"  -> {len(combined)} listings (HTML fallback)")
+    return combined
 
 
 def fetch_lawfoyer():
@@ -712,39 +724,256 @@ def build_digest_markdown(new_listings, min_score=5):
     return "\n".join(lines)
 
 
-def send_email_digest(markdown_content, subject):
-    if not (RESEND_API_KEY and DIGEST_TO_EMAIL):
-        print("  [info] Resend not configured (RESEND_API_KEY / DIGEST_TO_EMAIL missing) — skipping email")
+def _score_badge(score):
+    """Return an inline-styled score badge for use in HTML email."""
+    if score is None:
+        return '<span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:12px;font-weight:700;background:#f59e0b;color:#fff;">? / 10</span>'
+    if score >= 7:
+        colour = "#16a34a"  # green
+    elif score >= 5:
+        colour = "#d97706"  # amber
+    else:
+        colour = "#6b7280"  # grey
+    return (
+        f'<span style="display:inline-block;padding:2px 8px;border-radius:12px;'
+        f'font-size:12px;font-weight:700;background:{colour};color:#fff;">'
+        f'{score} / 10</span>'
+    )
+
+
+def build_email_html(scored_listings, today=None):
+    """Build a self-contained, inline-CSS HTML email from the scored listings.
+
+    Designed to render correctly in Gmail and Outlook (no external CSS,
+    no <style> blocks that Gmail strips, all styling inline).
+    """
+    if today is None:
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    unscored   = [l for l in scored_listings if l.get("fit_score") is None]
+    scored     = [l for l in scored_listings if l.get("fit_score") is not None]
+    relevant   = sorted([l for l in scored if l["fit_score"] >= 5],
+                        key=lambda l: l["fit_score"], reverse=True)
+    low_fit    = [l for l in scored if l["fit_score"] < 5]
+
+    # ── Shared inline styles ──────────────────────────────────────────────
+    card_style = (
+        "margin:0 0 16px 0;padding:16px 20px;border-radius:8px;"
+        "border-left:4px solid #4f46e5;background:#f8f7ff;"
+        "font-family:'Segoe UI',Arial,sans-serif;"
+    )
+    card_style_warn = card_style.replace("#4f46e5", "#f59e0b").replace("#f8f7ff", "#fffbeb")
+    card_style_low  = card_style.replace("#4f46e5", "#9ca3af").replace("#f8f7ff", "#f9fafb")
+
+    label_style = (
+        "font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;"
+        "color:#6b7280;margin:0 0 2px 0;"
+    )
+    value_style = "font-size:14px;color:#374151;margin:0 0 8px 0;"
+    link_style  = (
+        "display:inline-block;margin-top:8px;padding:7px 16px;border-radius:6px;"
+        "background:#4f46e5;color:#fff !important;text-decoration:none;"
+        "font-size:13px;font-weight:600;"
+    )
+
+    def card(listing, style=card_style):
+        title   = listing.get("title", "Untitled")
+        url     = listing.get("url", "#")
+        company = listing.get("company", "Unknown")
+        source  = listing.get("source", "Unknown")
+        reason  = listing.get("fit_reason", "")
+        score   = listing.get("fit_score")
+        badge   = _score_badge(score)
+        return f"""
+<div style="{style}">
+  <p style="font-size:16px;font-weight:700;color:#1e1b4b;margin:0 0 8px 0;">{title}</p>
+  <p style="{label_style}">Company</p>
+  <p style="{value_style}">{company}</p>
+  <p style="{label_style}">Source</p>
+  <p style="{value_style}">{source}</p>
+  <p style="{label_style}">Fit score &nbsp;{badge}</p>
+  <p style="{value_style}">{reason}</p>
+  <a href="{url}" style="{link_style}">View listing →</a>
+</div>"""
+
+    # ── Build HTML sections ───────────────────────────────────────────────
+    issues_html = ""
+    if RUN_ISSUES:
+        rows = "".join(
+            f'<li style="margin-bottom:4px;"><strong>{s}:</strong> {m}</li>'
+            for s, m in RUN_ISSUES
+        )
+        issues_html = f"""
+<div style="margin:0 0 24px 0;padding:14px 18px;border-radius:8px;
+            background:#fffbeb;border:1px solid #fcd34d;
+            font-family:'Segoe UI',Arial,sans-serif;">
+  <p style="font-size:14px;font-weight:700;color:#92400e;margin:0 0 8px 0;">
+    ⚠ {len(RUN_ISSUES)} issue(s) this run
+  </p>
+  <ul style="margin:0;padding-left:18px;font-size:13px;color:#78350f;">{rows}</ul>
+</div>"""
+
+    unscored_html = ""
+    if unscored:
+        cards = "".join(card(l, card_style_warn) for l in unscored)
+        unscored_html = f"""
+<h2 style="font-family:'Segoe UI',Arial,sans-serif;font-size:16px;
+           color:#92400e;margin:24px 0 12px 0;">
+  ⚠ {len(unscored)} listing(s) — needs manual review (scoring failed)
+</h2>
+{cards}"""
+
+    if not relevant:
+        relevant_html = """
+<p style="font-family:'Segoe UI',Arial,sans-serif;font-size:14px;color:#6b7280;
+          text-align:center;padding:32px 0;">
+  No new listings scored above the relevance threshold today.
+</p>"""
+    else:
+        cards = "".join(card(l) for l in relevant)
+        relevant_html = f"""
+<h2 style="font-family:'Segoe UI',Arial,sans-serif;font-size:16px;
+           color:#1e1b4b;margin:0 0 16px 0;">
+  ✅ {len(relevant)} relevant new listing(s)
+</h2>
+{cards}"""
+
+    low_fit_html = ""
+    if low_fit:
+        rows = "".join(
+            f'<li style="margin-bottom:6px;">'
+            f'<a href="{l.get("url","#")}" style="color:#4f46e5;font-weight:600;">'
+            f'{l.get("title","Untitled")}</a>'
+            f' — {l.get("company","Unknown")} &nbsp;{_score_badge(l["fit_score"])}'
+            f'</li>'
+            for l in low_fit
+        )
+        low_fit_html = f"""
+<details style="margin-top:24px;">
+  <summary style="font-family:'Segoe UI',Arial,sans-serif;font-size:14px;
+                  font-weight:600;color:#6b7280;cursor:pointer;">
+    {len(low_fit)} lower-relevance listings (click to expand)
+  </summary>
+  <ul style="margin:12px 0 0 0;padding-left:18px;
+             font-family:'Segoe UI',Arial,sans-serif;font-size:13px;">
+    {rows}
+  </ul>
+</details>"""
+
+    # ── Assemble full email ───────────────────────────────────────────────
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:0;background:#f3f4f6;">
+<table width="100%" cellpadding="0" cellspacing="0" style="background:#f3f4f6;padding:32px 0;">
+  <tr><td align="center">
+    <table width="620" cellpadding="0" cellspacing="0"
+           style="max-width:620px;width:100%;border-radius:12px;
+                  overflow:hidden;box-shadow:0 4px 24px rgba(0,0,0,.08);">
+
+      <!-- Header -->
+      <tr>
+        <td style="background:linear-gradient(135deg,#4f46e5 0%,#7c3aed 100%);
+                   padding:32px 32px 24px 32px;">
+          <p style="margin:0;font-family:'Segoe UI',Arial,sans-serif;
+                    font-size:22px;font-weight:700;color:#fff;">
+            ⚖️ Legal Job Digest
+          </p>
+          <p style="margin:6px 0 0 0;font-family:'Segoe UI',Arial,sans-serif;
+                    font-size:14px;color:#c7d2fe;">
+            {today} &nbsp;·&nbsp; {len(relevant)} relevant &nbsp;·&nbsp;
+            {len(low_fit)} lower-relevance &nbsp;·&nbsp; {len(unscored)} need review
+          </p>
+        </td>
+      </tr>
+
+      <!-- Body -->
+      <tr>
+        <td style="background:#fff;padding:28px 32px 32px 32px;">
+          {issues_html}
+          {unscored_html}
+          {relevant_html}
+          {low_fit_html}
+
+          <hr style="border:none;border-top:1px solid #e5e7eb;margin:32px 0 20px 0;">
+          <p style="font-family:'Segoe UI',Arial,sans-serif;font-size:12px;
+                    color:#9ca3af;text-align:center;margin:0;">
+            Sent by Legal Job Monitor &nbsp;·&nbsp;
+            Scores generated by {OPENROUTER_MODEL} via OpenRouter
+          </p>
+        </td>
+      </tr>
+
+    </table>
+  </td></tr>
+</table>
+</body>
+</html>"""
+    return html
+
+
+def send_email_digest(scored_listings, subject, today=None):
+    """Send the digest as a styled HTML email via Gmail SMTP.
+
+    Requires three env vars / GitHub secrets:
+      GMAIL_SENDER       — the Gmail address used to send (e.g. you@gmail.com)
+      GMAIL_APP_PASSWORD — a 16-char Google App Password (NOT your login password).
+                           Generate one at: Google Account → Security →
+                           2-Step Verification → App passwords.
+      DIGEST_TO_EMAIL    — recipient address (can be the same Gmail or any inbox).
+
+    Args:
+        scored_listings: list of listing dicts (already scored).
+        subject: email subject line string.
+        today: optional date string for the email header (defaults to today UTC).
+    """
+    if not (GMAIL_SENDER and GMAIL_APP_PASSWORD and DIGEST_TO_EMAIL):
+        print(
+            "  [info] Gmail not configured "
+            "(GMAIL_SENDER / GMAIL_APP_PASSWORD / DIGEST_TO_EMAIL missing) — skipping email"
+        )
         return False
 
-    # Basic markdown -> HTML (good enough for a digest email)
-    html = markdown_content
-    html = re.sub(r"^# (.+)$", r"<h1>\1</h1>", html, flags=re.MULTILINE)
-    html = re.sub(r"^### (.+)$", r"<h3>\1</h3>", html, flags=re.MULTILINE)
-    html = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', html)
-    html = re.sub(r"^- (.+)$", r"<li>\1</li>", html, flags=re.MULTILINE)
-    html = html.replace("\n\n", "<br><br>")
+    html_body = build_email_html(scored_listings, today=today)
+
+    # Plain-text fallback for clients that can't render HTML
+    unscored = [l for l in scored_listings if l.get("fit_score") is None]
+    relevant = sorted(
+        [l for l in scored_listings if l.get("fit_score") is not None and l["fit_score"] >= 5],
+        key=lambda l: l["fit_score"], reverse=True,
+    )
+    text_lines = [subject, "=" * len(subject), ""]
+    if unscored:
+        text_lines.append(f"⚠ {len(unscored)} listing(s) need manual review (scoring failed)\n")
+    if relevant:
+        text_lines.append(f"✅ {len(relevant)} relevant new listing(s)\n")
+        for l in relevant:
+            text_lines.append(
+                f"[{l['fit_score']}/10] {l.get('title','Untitled')} — {l.get('company','Unknown')}"
+            )
+            text_lines.append(f"  {l.get('url','')}\n")
+    else:
+        text_lines.append("No new listings scored above the relevance threshold today.")
+    plain_body = "\n".join(text_lines)
+
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = subject
+    msg["From"]    = GMAIL_SENDER
+    msg["To"]      = DIGEST_TO_EMAIL
+    msg.attach(MIMEText(plain_body, "plain", "utf-8"))
+    msg.attach(MIMEText(html_body,  "html",  "utf-8"))
 
     try:
-        resp = requests.post(
-            "https://api.resend.com/emails",
-            headers={
-                "Authorization": f"Bearer {RESEND_API_KEY}",
-                "Content-Type": "application/json",
-            },
-            json={
-                "from": DIGEST_FROM_EMAIL,
-                "to": [DIGEST_TO_EMAIL],
-                "subject": subject,
-                "html": html,
-            },
-            timeout=20,
-        )
-        resp.raise_for_status()
-        print("  [info] Email sent successfully")
+        with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
+            smtp.ehlo()
+            smtp.starttls()
+            smtp.login(GMAIL_SENDER, GMAIL_APP_PASSWORD)
+            smtp.sendmail(GMAIL_SENDER, DIGEST_TO_EMAIL, msg.as_string())
+        print(f"  [info] Email sent successfully → {DIGEST_TO_EMAIL}")
         return True
-    except requests.RequestException as e:
-        print(f"  [warn] Email send failed: {e}", file=sys.stderr)
+    except smtplib.SMTPException as e:
+        print(f"  [warn] Gmail SMTP send failed: {e}", file=sys.stderr)
+        report_issue("Gmail SMTP", f"send failed: {e}")
         return False
 
 
@@ -844,6 +1073,7 @@ def main():
     archive_path = OUTPUT_DIR / f"digest-{datetime.now(timezone.utc).strftime('%Y-%m-%d')}.md"
     archive_path.write_text(digest_md, encoding="utf-8")
 
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     relevant_count = len([l for l in scored if l.get("fit_score") is not None and l["fit_score"] >= 5])
     unscored_count = len([l for l in scored if l.get("fit_score") is None])
     subject_bits = f"{relevant_count} relevant"
@@ -852,7 +1082,7 @@ def main():
     if RUN_ISSUES:
         subject_bits += f" — ⚠ {len(RUN_ISSUES)} issue(s)"
     subject = f"Legal Job Digest — {subject_bits} — {datetime.now(timezone.utc).strftime('%b %d')}"
-    send_email_digest(digest_md, subject)
+    send_email_digest(scored, subject, today=today_str)
 
     # Always save seen-listings, even on a bad run, so a source that briefly
     # returned garbage doesn't get permanently re-flagged as "new" every day.

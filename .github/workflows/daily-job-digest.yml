@@ -38,9 +38,9 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           DIGEST_TO_EMAIL: ${{ secrets.DIGEST_TO_EMAIL }}
-          DIGEST_FROM_EMAIL: ${{ secrets.DIGEST_FROM_EMAIL }}
         # continue-on-error: if the script errors out partway (e.g. an
         # unhandled exception in a code path not already wrapped by
         # run_fetcher_safely), we still want to commit whatever digest.md

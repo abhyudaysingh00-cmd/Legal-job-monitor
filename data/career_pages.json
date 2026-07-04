@@ -48,5 +48,25 @@
     "name": "Elevate (elevate.law)",
     "url": "https://www.elevate.law/careers/",
     "notes": "Legal ops / eDiscovery / ALSP - direct match for target role type"
+  },
+  {
+    "name": "Lawctopus — Jobs",
+    "url": "https://www.lawctopus.com/jobs/",
+    "notes": "Aggregator; also scraped via RSS fetcher. This gives an extra HTML pass over the jobs listing page (old /lawctopus-law-jobs/ URL is 404 as of 2025)."
+  },
+  {
+    "name": "Lawctopus — Internships",
+    "url": "https://www.lawctopus.com/internships/",
+    "notes": "Aggregator; also scraped via RSS fetcher. Separate internships category page."
+  },
+  {
+    "name": "LawFoyer — Law Firm Internships",
+    "url": "https://lawfoyer.in/category/law-firm-internships/",
+    "notes": "Aggregator; also scraped via RSS fetcher. Highest-signal category for Tier-1/2 firm internships."
+  },
+  {
+    "name": "LawFoyer — Law Firm Jobs",
+    "url": "https://lawfoyer.in/category/law-firm-jobs/",
+    "notes": "Aggregator; also scraped via RSS fetcher. Law firm associate/counsel postings."
   }
 ]
