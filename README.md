@@ -1,7 +1,7 @@
 # Legal Job Monitor
 
 Runs automatically once a day, finds legal internship/associate listings
-relevant to a corporate-law transition, scores them with Claude, and
+relevant to a corporate-law transition, scores them with a free LLM, and
 emails you a digest. No manual searching required after setup.
 
 **What it does NOT do:** scrape or automate LinkedIn. LinkedIn actively
@@ -28,22 +28,33 @@ and any firm career pages you add).
    README.md
    ```
 
-### b) Get an OpenRouter API key
-1. Go to https://openrouter.ai/keys → Create Key.
-2. Add credit to your OpenRouter account (pay-as-you-go). This is billed
-   separately from any Anthropic/claude.ai subscription — each daily run
-   scores well under 200 short listings on Claude Sonnet 5 (the default
-   model, called via OpenRouter's `anthropic/claude-sonnet-5` slug), typically
-   a few cents per day at most. Swap to a cheaper slug like
-   `anthropic/claude-haiku-4.5` (set as the optional `OPENROUTER_MODEL`
-   secret below) if you want to cut that further.
+### b) Get a (free) LLM API key for scoring
+Scoring is low-stakes, so it runs on free tiers — **no credit card needed**.
+The script tries these in order and uses the first that answers, so you only
+need ONE, and adding more makes it resilient to rate-limits / free-roster
+changes:
 
-### c) (Optional but recommended) Set up email delivery via Resend
-1. Sign up free at https://resend.com (free tier: 100 emails/day, 3,000/month
-   — far more than you need for one daily digest).
-2. Verify a sending domain, OR use their default `onboarding@resend.dev`
-   sender for testing (works immediately, no domain needed).
-3. Create an API key in the Resend dashboard.
+1. **Google Gemini (recommended, most generous free tier)** — go to
+   https://aistudio.google.com/apikey, click "Create API key", no card.
+   Add it as `GEMINI_API_KEY`. Default model `gemini-2.5-flash`.
+2. **Groq** — https://console.groq.com/keys → Create API key, no card.
+   Add it as `GROQ_API_KEY`. Default model `llama-3.3-70b-versatile`.
+3. **OpenRouter** (your existing setup) — https://openrouter.ai/keys → Create Key.
+   The script now defaults to the **free** model `openrouter/free`
+   (auto-picks an available `:free` model), which needs **zero credits** — this
+   fixes the old `402 Payment Required` error, which happened because a *paid*
+   model (`anthropic/claude-sonnet-5`) was called with an empty balance.
+
+Tip: a free OpenRouter account is capped at ~50 free-model requests/day. One
+daily run only needs a few batches, so that's fine — but if you add a Gemini
+key too, the run simply falls back to Gemini whenever OpenRouter is throttled.
+
+### c) (Optional but recommended) Set up email delivery via Gmail
+1. Enable 2-Step Verification on your Google account.
+2. Generate an App Password at
+   https://myaccount.google.com/apppasswords (16 chars, used only by this tool).
+3. Set `GMAIL_SENDER` to your Gmail address, `GMAIL_APP_PASSWORD` to that App
+   Password, and `DIGEST_TO_EMAIL` to wherever you want the digest delivered.
 
 If you skip this step, the digest still gets written to `output/digest.md`
 in your repo every day — you can just check the repo instead of email.
@@ -54,14 +65,20 @@ Add:
 
 | Secret name | Value |
 |---|---|
-| `OPENROUTER_API_KEY` | your OpenRouter API key |
-| `OPENROUTER_MODEL` | (optional) an OpenRouter model slug, e.g. `anthropic/claude-haiku-4.5`; defaults to `anthropic/claude-sonnet-5` if unset |
-| `RESEND_API_KEY` | your Resend API key (optional) |
+| `GEMINI_API_KEY` | (recommended) your Google AI Studio key — free tier, no card |
+| `GROQ_API_KEY` | (optional) your Groq key — free tier, no card |
+| `OPENROUTER_API_KEY` | (optional) your OpenRouter key — works with free models, no credits needed |
+| `OPENROUTER_MODEL` | (optional, a repo variable) any OpenRouter model slug; defaults to `openrouter/free` |
+| `GMAIL_SENDER` | your Gmail address (optional) |
+| `GMAIL_APP_PASSWORD` | 16-char Google App Password (optional) |
 | `DIGEST_TO_EMAIL` | your personal email address (optional) |
-| `DIGEST_FROM_EMAIL` | `onboarding@resend.dev` or your verified sender (optional) |
+
+At least one scoring key (`GEMINI_API_KEY`, `GROQ_API_KEY`, or
+`OPENROUTER_API_KEY`) must be set, otherwise every listing comes back
+"Not scored".
 
 ### e) Customize your profile
-Edit `data/profile.json` to tune what Claude scores highly — update if your
+Edit `data/profile.json` to tune what the scoring model ranks highly — update if your
 target areas or preferences shift.
 
 `data/career_pages.json` ships with 10 verified Tier-1/Tier-2 firm career

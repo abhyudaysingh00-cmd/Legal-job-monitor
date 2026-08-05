@@ -2,7 +2,8 @@
 """
 Legal Job Monitor — fetches internship/associate listings relevant to a
 zero-to-one PQE corporate law transition (M&A, IBC/NCLT, SEBI, contracts),
-scores them with Claude, and emails a daily digest.
+scores them with a free-tier LLM (Gemini / Groq / OpenRouter free — fallback
+chain, see config), and emails a daily digest.
 
 Sources (all bot-friendly — no LinkedIn scraping, which violates ToS):
   - Internshala, swept across 9 keyword categories
@@ -16,7 +17,8 @@ Sources (all bot-friendly — no LinkedIn scraping, which violates ToS):
 
 Delivery:
   - Writes results to output/digest.md (always)
-  - Optionally emails via Resend API if RESEND_API_KEY is set
+  - Optionally emails via Gmail SMTP if GMAIL_SENDER / GMAIL_APP_PASSWORD /
+    DIGEST_TO_EMAIL are set
 
 Resilience:
   - Each source fetch is retried with backoff and isolated from the others
@@ -54,19 +56,44 @@ SEEN_FILE = ROOT / "data" / "seen_listings.json"
 CAREER_PAGES_FILE = ROOT / "data" / "career_pages.json"
 PROFILE_FILE = ROOT / "data" / "profile.json"
 
-OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 # Gmail SMTP delivery (optional — digest still written to output/digest.md if unset)
 GMAIL_SENDER      = os.environ.get("GMAIL_SENDER")       # your Gmail address
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD") # 16-char Google App Password
 DIGEST_TO_EMAIL   = os.environ.get("DIGEST_TO_EMAIL")    # recipient address
 
-# OpenRouter-hosted model slug. "anthropic/claude-sonnet-5" calls the same
-# model this script previously hit directly via the Anthropic API. Override
-# via the OPENROUTER_MODEL secret/env var if you want to point at a cheaper
-# model (e.g. "anthropic/claude-haiku-4.5") for this low-stakes scoring task,
-# or at a non-Anthropic model.
-OPENROUTER_MODEL = os.environ.get("OPENROUTER_MODEL") or "anthropic/claude-sonnet-5"
-OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+# ---------------------------------------------------------------------------
+# Scoring providers (tried in order, first that succeeds wins per batch)
+#
+# Scoring job listings 0-10 is low-stakes and fussy, so it runs entirely on
+# FREE tiers — no credit card needed on any of them. The list below is tried
+# in order and you only need ONE key for the monitor to work; add more for
+# resilience (free tiers are rate-limited, so a fallback saves a day if one
+# provider is throttled or changes its free-roster).
+#
+#   OpenRouter  — reuses your existing key. The default model is an OpenRouter
+#                 FREE model, which needs NO credits (a 402 Payment Required
+#                 happens when a *paid* model is called with an empty balance).
+#   Gemini      — Google AI Studio free tier (Gemini Flash). No card. This is
+#                 the most generous/reliable genuinely-free tier.
+#   Groq        — fast, OpenAI-compatible, free tier. Pickup Llama/DEEPSEEK.
+# ---------------------------------------------------------------------------
+
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
+# A *free* OpenRouter slug (":free" suffix) needs no credits, which fixes the
+# old 402 Payment Required. "openrouter/free" is OpenRouter's auto-router: it
+# picks whichever free model is currently available, so it won't go stale when
+# a single free model is delisted. Override with any slug you like (e.g.
+# "nvidia/nemotron-3-ultra-550b-a55b:free").
+OPENROUTER_MODEL = os.environ.get("OPENROUTER_MODEL") or "openrouter/free"
+OPENROUTER_URL   = "https://openrouter.ai/api/v1/chat/completions"
+
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_MODEL   = os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash"
+GEMINI_URL     = "https://generativelanguage.googleapis.com/v1beta"
+
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
+GROQ_MODEL   = os.environ.get("GROQ_MODEL") or "llama-3.3-70b-versatile"
+GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions"
 
 # A real browser UA. The generic "compatible; ...; personal use" UA gets
 # soft-blocked (empty/redirect responses) by several sites in this list.
@@ -639,7 +666,7 @@ def fetch_career_pages():
 
 
 # ---------------------------------------------------------------------------
-# Claude filtering
+# Scoring (free LLM providers with fallback)
 # ---------------------------------------------------------------------------
 
 def load_profile():
@@ -665,28 +692,10 @@ def load_profile():
     return load_json(PROFILE_FILE, default_profile)
 
 
-def score_listings_with_claude(listings, profile):
-    """Send listings to Claude in batches, get back fitment scores + reasoning."""
-    if not listings:
-        return []
-    if not OPENROUTER_API_KEY:
-        print("  [warn] OPENROUTER_API_KEY not set — skipping scoring, returning all listings unscored")
-        for l in listings:
-            l["fit_score"] = None
-            l["fit_reason"] = "Not scored (no API key)"
-        return listings
-
-    batch_size = 15
-    scored = []
-
-    for i in range(0, len(listings), batch_size):
-        batch = listings[i:i + batch_size]
-        batch_input = [
-            {"id": idx, "title": l["title"], "company": l["company"], "source": l["source"]}
-            for idx, l in enumerate(batch)
-        ]
-
-        system_prompt = f"""You are a legal recruiting analyst. Score each job/internship listing
+def _build_scoring_system_prompt(profile):
+    """One shared system prompt — every provider gets the same instructions so
+    scores stay comparable regardless of which free model actually answered."""
+    return f"""You are a legal recruiting analyst. Score each job/internship listing
 for fit against this candidate profile, on a 0-10 scale (10 = excellent fit).
 
 CANDIDATE PROFILE:
@@ -702,60 +711,145 @@ qualifications the candidate doesn't have (foreign bar, 5+ PQE, etc).
 Return ONLY a JSON array, no preamble, no markdown fences:
 [{{"id": 0, "fit_score": 7, "fit_reason": "one sentence why"}}, ...]"""
 
+
+def _parse_model_scores(text):
+    """Strip any markdown fences the model may have added and parse the JSON."""
+    text = re.sub(r"^```json|```$", "", text.strip(), flags=re.MULTILINE).strip()
+    return json.loads(text)
+
+
+def _score_batch_openai_style(url, api_key, model, system_prompt, batch_input):
+    """POST a batch to any OpenAI-compatible chat-completions endpoint
+    (OpenRouter and Groq both speak this shape). Returns the parsed JSON array
+    of {id, fit_score, fit_reason}. Raises on any failure so the caller can
+    fall through to the next provider."""
+    resp = requests.post(
+        url,
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+            # Optional — OpenRouter uses these for its public rankings and
+            # attribution. Harmless to leave in, safe to delete.
+            "HTTP-Referer": "https://github.com/abhyudaysingh00-cmd/Legal-job-monitor",
+            "X-Title": "Legal Job Monitor",
+        },
+        json={
+            "model": model,
+            "max_tokens": 2000,
+            "temperature": 0,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": json.dumps(batch_input, ensure_ascii=False)},
+            ],
+        },
+        timeout=60,
+    )
+    resp.raise_for_status()
+    data = resp.json()
+    text = data["choices"][0]["message"]["content"]
+    return _parse_model_scores(text)
+
+
+def _score_batch_gemini(model, api_key, system_prompt, batch_input):
+    """POST a batch to Google Gemini's generateContent endpoint (free tier).
+    Raises on any failure so the caller can fall through to the next provider."""
+    url = f"{GEMINI_URL}/models/{model}:generateContent?key={api_key}"
+    payload = {
+        "systemInstruction": {"parts": [{"text": system_prompt}]},
+        "contents": [{"role": "user", "parts": [{"text": json.dumps(batch_input, ensure_ascii=False)}]}],
+        "generationConfig": {"temperature": 0, "maxOutputTokens": 2000},
+    }
+    resp = requests.post(url, json=payload, timeout=60)
+    resp.raise_for_status()
+    data = resp.json()
+    candidates = data.get("candidates") or []
+    text = candidates[0]["content"]["parts"][0]["text"]
+    return _parse_model_scores(text)
+
+
+def _active_providers():
+    """Providers that have a key configured, in try-first order. The order is
+    intentional: the most reliable/genuinely-free tiers come first, and
+    OpenRouter (which needs its key *not* to be a paid-model-only setup) last."""
+    slots = [
+        {
+            "name": "Gemini",
+            "label": f"Gemini ({GEMINI_MODEL})",
+            "key": GEMINI_API_KEY,
+            "call": lambda sp, bi: _score_batch_gemini(GEMINI_MODEL, GEMINI_API_KEY, sp, bi),
+        },
+        {
+            "name": "Groq",
+            "label": f"Groq ({GROQ_MODEL})",
+            "key": GROQ_API_KEY,
+            "call": lambda sp, bi: _score_batch_openai_style(GROQ_URL, GROQ_API_KEY, GROQ_MODEL, sp, bi),
+        },
+        {
+            "name": "OpenRouter",
+            "label": f"OpenRouter ({OPENROUTER_MODEL})",
+            "key": OPENROUTER_API_KEY,
+            "call": lambda sp, bi: _score_batch_openai_style(OPENROUTER_URL, OPENROUTER_API_KEY, OPENROUTER_MODEL, sp, bi),
+        },
+    ]
+    return [s for s in slots if s["key"]]
+
+
+def score_listings_with_providers(listings, profile):
+    """Score listings in batches against the candidate profile, trying each
+    configured provider in turn until one answers. Free tiers are
+    rate-limited and their model rosters change, so a day when the first
+    provider is throttled just falls through to the next one instead of
+    marking every listing "needs manual review"."""
+    if not listings:
+        return []
+
+    providers = _active_providers()
+    if not providers:
+        print("  [warn] no scoring API key set "
+              "(OPENROUTER_API_KEY / GEMINI_API_KEY / GROQ_API_KEY) — "
+              "returning all listings unscored")
+        for l in listings:
+            l["fit_score"] = None
+            l["fit_reason"] = "Not scored (no API key)"
+        return listings
+
+    system_prompt = _build_scoring_system_prompt(profile)
+    batch_size = 15
+    scored = []
+
+    for i in range(0, len(listings), batch_size):
+        batch = listings[i:i + batch_size]
+        batch_input = [
+            {"id": idx, "title": l["title"], "company": l["company"], "source": l["source"]}
+            for idx, l in enumerate(batch)
+        ]
+
         batch_scored = False
         last_error = None
-        for attempt in range(1, MAX_RETRIES + 1):
-            try:
-                resp = requests.post(
-                    OPENROUTER_URL,
-                    headers={
-                        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-                        "Content-Type": "application/json",
-                        # Optional — OpenRouter uses these for its public
-                        # rankings/attribution. Harmless to leave in, safe to
-                        # delete if you'd rather not send them.
-                        "HTTP-Referer": "https://github.com/abhyudaysingh00-cmd/Legal-job-monitor",
-                        "X-Title": "Legal Job Monitor",
-                    },
-                    json={
-                        "model": OPENROUTER_MODEL,
-                        "max_tokens": 2000,
-                        # OpenRouter speaks the OpenAI chat-completions shape,
-                        # not the Anthropic Messages shape — the system
-                        # prompt is a message in the array, not a top-level
-                        # "system" field.
-                        "messages": [
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": json.dumps(batch_input, ensure_ascii=False)},
-                        ],
-                    },
-                    timeout=60,
-                )
-                resp.raise_for_status()
-                data = resp.json()
-                # OpenAI-style response: plain string at choices[0].message.content
-                # (Anthropic's Messages API instead returns a list of content
-                # blocks under "content", which is what the old code parsed.)
-                text = data["choices"][0]["message"]["content"]
-                text = re.sub(r"^```json|```$", "", text.strip(), flags=re.MULTILINE).strip()
-                results = json.loads(text)
+        used_label = None
 
-                score_map = {r["id"]: r for r in results}
-                for idx, l in enumerate(batch):
-                    r = score_map.get(idx, {})
-                    l["fit_score"] = r.get("fit_score", 0)
-                    l["fit_reason"] = r.get("fit_reason", "No reason returned")
-                    scored.append(l)
-                batch_scored = True
+        for provider in providers:
+            for attempt in range(1, MAX_RETRIES + 1):
+                try:
+                    results = provider["call"](system_prompt, batch_input)
+                    score_map = {r["id"]: r for r in results}
+                    for idx, l in enumerate(batch):
+                        r = score_map.get(idx, {})
+                        l["fit_score"] = r.get("fit_score", 0)
+                        l["fit_reason"] = r.get("fit_reason", "No reason returned")
+                        scored.append(l)
+                    batch_scored = True
+                    used_label = provider["label"]
+                    break
+                except Exception as e:
+                    last_error = e
+                    if attempt < MAX_RETRIES:
+                        time.sleep(RETRY_BACKOFF_SECONDS * attempt)
+            if batch_scored:
                 break
 
-            except Exception as e:
-                last_error = e
-                if attempt < MAX_RETRIES:
-                    time.sleep(RETRY_BACKOFF_SECONDS * attempt)
-
         if not batch_scored:
-            report_issue("Claude scoring", f"batch {i} failed after {MAX_RETRIES} attempts: {last_error}")
+            report_issue("Scoring", f"batch {i} failed on all providers: {last_error}")
             for l in batch:
                 # Sentinel well outside the normal 0-10 range (not None, not
                 # 0) so a scoring failure surfaces at the TOP of the digest
@@ -765,6 +859,8 @@ Return ONLY a JSON array, no preamble, no markdown fences:
                 l["fit_score"] = None
                 l["fit_reason"] = f"⚠ Not scored — API error, needs manual review: {last_error}"
                 scored.append(l)
+        else:
+            print(f"  -> batch {i // batch_size} scored via {used_label}")
 
         time.sleep(1)  # gentle rate limiting
 
@@ -1000,7 +1096,7 @@ def build_email_html(scored_listings, today=None):
           <p style="font-family:'Segoe UI',Arial,sans-serif;font-size:12px;
                     color:#9ca3af;text-align:center;margin:0;">
             Sent by Legal Job Monitor &nbsp;·&nbsp;
-            Scores generated by {OPENROUTER_MODEL} via OpenRouter
+            Scores generated by free-tier LLM providers
           </p>
         </td>
       </tr>
@@ -1161,7 +1257,7 @@ def main():
     print(f"New (unseen) listings: {len(new_listings)}")
 
     profile = load_profile()
-    scored = score_listings_with_claude(new_listings, profile)
+    scored = score_listings_with_providers(new_listings, profile)
 
     digest_md = build_digest_markdown(scored)
 
