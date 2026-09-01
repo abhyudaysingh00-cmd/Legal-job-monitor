@@ -1,320 +1,4 @@
 {
-  "2346c6403d674c16": {
-    "first_seen": "2026-07-03T06:34:51.811109+00:00",
-    "title": "Content and Social Media Marketing"
-  },
-  "0dc3961a37e8aba3": {
-    "first_seen": "2026-07-03T06:34:51.811119+00:00",
-    "title": "Architecture"
-  },
-  "a0de1aac7c22ad2f": {
-    "first_seen": "2026-07-03T06:34:51.811134+00:00",
-    "title": "Accounting & Taxation"
-  },
-  "0cabef1c906d3abf": {
-    "first_seen": "2026-07-03T06:34:51.811139+00:00",
-    "title": "Fundraising"
-  },
-  "3984f15d27c53e43": {
-    "first_seen": "2026-07-03T06:34:51.811145+00:00",
-    "title": "Python Development"
-  },
-  "bdb5285e98c9eab8": {
-    "first_seen": "2026-07-03T06:34:51.811150+00:00",
-    "title": "Sales"
-  },
-  "06c92d04d502af33": {
-    "first_seen": "2026-07-03T06:34:51.811154+00:00",
-    "title": "Sales and Marketing"
-  },
-  "7768b19df3953f55": {
-    "first_seen": "2026-07-03T06:34:51.811158+00:00",
-    "title": "Commuity Outreach"
-  },
-  "1dcb8677bf256388": {
-    "first_seen": "2026-07-03T06:34:51.811162+00:00",
-    "title": "Recruitment"
-  },
-  "95352e21e96222fc": {
-    "first_seen": "2026-07-03T06:34:51.811166+00:00",
-    "title": "AI Chatbot Development And Integration"
-  },
-  "18bd14d724ea3ae2": {
-    "first_seen": "2026-07-03T06:34:51.811174+00:00",
-    "title": "Travel Consultant"
-  },
-  "023c0f0a178265f9": {
-    "first_seen": "2026-07-03T06:34:51.811193+00:00",
-    "title": "Accounting & Taxation"
-  },
-  "2b39e05754972827": {
-    "first_seen": "2026-07-03T06:34:51.811197+00:00",
-    "title": "Accounting & Taxation"
-  },
-  "aa95cd01f73bd0d8": {
-    "first_seen": "2026-07-03T06:34:51.811201+00:00",
-    "title": "Finance & Accounting"
-  },
-  "97e8da1b0d64d9c4": {
-    "first_seen": "2026-07-03T06:34:51.811205+00:00",
-    "title": "Accounting & Bookkeeping"
-  },
-  "17121852e1bc0ddc": {
-    "first_seen": "2026-07-03T06:34:51.811209+00:00",
-    "title": "Accounting"
-  },
-  "44cfef916c68ce64": {
-    "first_seen": "2026-07-03T06:34:51.811215+00:00",
-    "title": "Finance & Accounting"
-  },
-  "dc393b798faf519c": {
-    "first_seen": "2026-07-03T06:34:51.811219+00:00",
-    "title": "Auditing & Accounting"
-  },
-  "1ba7a08e159d18d3": {
-    "first_seen": "2026-07-03T06:34:51.811223+00:00",
-    "title": "CA Articleship"
-  },
-  "6bb4e7f100ebcc47": {
-    "first_seen": "2026-07-03T06:34:51.811227+00:00",
-    "title": "KYC + Compliance + Partnership Outreach"
-  },
-  "df51bacc5f2d1f6b": {
-    "first_seen": "2026-07-03T06:34:51.811231+00:00",
-    "title": "Tally Accountant"
-  },
-  "e100cb8fb21f8d45": {
-    "first_seen": "2026-07-03T06:34:51.811235+00:00",
-    "title": "Finance"
-  },
-  "463ce9975515cec4": {
-    "first_seen": "2026-07-03T06:34:51.811241+00:00",
-    "title": "Accounting & Tally"
-  },
-  "86bb40a6bfd6cb9a": {
-    "first_seen": "2026-07-03T06:34:51.811269+00:00",
-    "title": "Account Executive Trainee (Fresher/Experienced)"
-  },
-  "fb7cce75cbb6ca2a": {
-    "first_seen": "2026-07-03T06:34:51.811274+00:00",
-    "title": "Finance"
-  },
-  "ec8b08daba1a700b": {
-    "first_seen": "2026-07-03T06:34:51.811278+00:00",
-    "title": "Accounting & Taxation"
-  },
-  "c78323153c6cd111": {
-    "first_seen": "2026-07-03T06:34:51.811298+00:00",
-    "title": "Law/Legal"
-  },
-  "2cd55bfe03cddaad": {
-    "first_seen": "2026-07-03T06:34:51.811323+00:00",
-    "title": "Policy Research"
-  },
-  "6caa3725498b691c": {
-    "first_seen": "2026-07-03T06:34:51.811354+00:00",
-    "title": "Law/Legal"
-  },
-  "e98818925987e1e9": {
-    "first_seen": "2026-07-03T06:34:51.811374+00:00",
-    "title": "General Management"
-  },
-  "5b3a234266e1b988": {
-    "first_seen": "2026-07-03T06:34:51.811378+00:00",
-    "title": "Operations"
-  },
-  "a17b66bc074592a9": {
-    "first_seen": "2026-07-03T06:34:51.811384+00:00",
-    "title": "Operations"
-  },
-  "a405dff6bfda9f34": {
-    "first_seen": "2026-07-03T06:34:51.811388+00:00",
-    "title": "Supply Chain & Logistics Operations"
-  },
-  "2779660cb8a4b45d": {
-    "first_seen": "2026-07-03T06:34:51.811392+00:00",
-    "title": "Logistics and Operations"
-  },
-  "d850f00ca78834d8": {
-    "first_seen": "2026-07-03T06:34:51.811396+00:00",
-    "title": "Operations"
-  },
-  "17b713e8008d4608": {
-    "first_seen": "2026-07-03T06:34:51.811400+00:00",
-    "title": "Data Entry"
-  },
-  "0b7024c9529fd516": {
-    "first_seen": "2026-07-03T06:34:51.811404+00:00",
-    "title": "Telecalling"
-  },
-  "8005df27c482485a": {
-    "first_seen": "2026-07-03T06:34:51.811408+00:00",
-    "title": "International Client Outreach Associate"
-  },
-  "640cbbcef3990814": {
-    "first_seen": "2026-07-03T06:34:51.811412+00:00",
-    "title": "Telecaller"
-  },
-  "8615f4b5f9826b45": {
-    "first_seen": "2026-07-03T06:34:51.811415+00:00",
-    "title": "Data Transcription (Hindi)"
-  },
-  "a26b3992eec07faa": {
-    "first_seen": "2026-07-03T06:34:51.811419+00:00",
-    "title": "Sales and Customer Success"
-  },
-  "3ca8b0c667387ca3": {
-    "first_seen": "2026-07-03T06:34:51.811423+00:00",
-    "title": "Project Management"
-  },
-  "83ca3b59b160fa7c": {
-    "first_seen": "2026-07-03T06:34:51.811427+00:00",
-    "title": "Manager"
-  },
-  "ae7a1af680ea132f": {
-    "first_seen": "2026-07-03T06:34:51.811432+00:00",
-    "title": "Operations"
-  },
-  "de44a983352143c1": {
-    "first_seen": "2026-07-03T06:34:51.811436+00:00",
-    "title": "Telecalling"
-  },
-  "ffe013a66d986e3b": {
-    "first_seen": "2026-07-03T06:34:51.811439+00:00",
-    "title": "Operations"
-  },
-  "768c3f1e7f973403": {
-    "first_seen": "2026-07-03T06:34:51.811443+00:00",
-    "title": "Customer Service/Customer Support"
-  },
-  "0b6de62bf9d4ceb2": {
-    "first_seen": "2026-07-03T06:34:51.811448+00:00",
-    "title": "Video Editing/Making"
-  },
-  "1618035b5081045d": {
-    "first_seen": "2026-07-03T06:34:51.811452+00:00",
-    "title": "Video Editing/Making"
-  },
-  "e6aaa031149a7e6c": {
-    "first_seen": "2026-07-03T06:34:51.811455+00:00",
-    "title": "Video Editing/Making"
-  },
-  "be72c50abdbb81a7": {
-    "first_seen": "2026-07-03T06:34:51.811459+00:00",
-    "title": "Video Editing/Making"
-  },
-  "13f03e8fb946bf8d": {
-    "first_seen": "2026-07-03T06:34:51.811463+00:00",
-    "title": "Video Editing/Making"
-  },
-  "db0fbfde67637cf4": {
-    "first_seen": "2026-07-03T06:34:51.811467+00:00",
-    "title": "Content and Social Media Marketing"
-  },
-  "96ff310e8edc4b2d": {
-    "first_seen": "2026-07-03T06:34:51.811471+00:00",
-    "title": "Video Editing/Making"
-  },
-  "ad3da3124632f4d5": {
-    "first_seen": "2026-07-03T06:34:51.811475+00:00",
-    "title": "Video Editing/Making"
-  },
-  "68c9e25cc60eb906": {
-    "first_seen": "2026-07-03T06:34:51.811479+00:00",
-    "title": "UI/UX Design"
-  },
-  "7d665998682b0854": {
-    "first_seen": "2026-07-03T06:34:51.811482+00:00",
-    "title": "Video Editing/Making"
-  },
-  "bab84cdbfa5ae558": {
-    "first_seen": "2026-07-03T06:34:51.811486+00:00",
-    "title": "Content and Social Media Marketing"
-  },
-  "65d0dcb6eb23f448": {
-    "first_seen": "2026-07-03T06:34:51.811490+00:00",
-    "title": "AI Content & Social Media"
-  },
-  "9801e5c46883f82a": {
-    "first_seen": "2026-07-03T06:34:51.811493+00:00",
-    "title": "Video Editing/Making"
-  },
-  "b41aa2921581b5fa": {
-    "first_seen": "2026-07-03T06:34:51.811497+00:00",
-    "title": "Graphic Design"
-  },
-  "0afa5827366e1aa3": {
-    "first_seen": "2026-07-03T06:34:51.811501+00:00",
-    "title": "Digital Marketing"
-  },
-  "25af055e4b6ee0a0": {
-    "first_seen": "2026-07-03T06:34:51.811504+00:00",
-    "title": "Marketing"
-  },
-  "46c8ffdd61f15c4b": {
-    "first_seen": "2026-07-03T06:34:51.811508+00:00",
-    "title": "Human Resources (HR)"
-  },
-  "b0ae0b9d8db84a17": {
-    "first_seen": "2026-07-03T06:34:51.811512+00:00",
-    "title": "Human Resources (HR)"
-  },
-  "c26ef4defd103bfa": {
-    "first_seen": "2026-07-03T06:34:51.811515+00:00",
-    "title": "Photography"
-  },
-  "db8d954b45e17a1a": {
-    "first_seen": "2026-07-03T06:34:51.811519+00:00",
-    "title": "E-Commerce"
-  },
-  "b6cd701bf085b8d4": {
-    "first_seen": "2026-07-03T06:34:51.811542+00:00",
-    "title": "Accounting & Taxation"
-  },
-  "d233850498051b22": {
-    "first_seen": "2026-07-03T06:34:51.811546+00:00",
-    "title": "Finance"
-  },
-  "146b9177fefe8da5": {
-    "first_seen": "2026-07-03T06:34:51.811571+00:00",
-    "title": "Accounting & Taxation"
-  },
-  "958dfa86c5cf1aa6": {
-    "first_seen": "2026-07-03T06:34:51.811594+00:00",
-    "title": "Legal Research"
-  },
-  "ae5dc8e206c3f204": {
-    "first_seen": "2026-07-03T06:34:51.811602+00:00",
-    "title": "Corporate Governance"
-  },
-  "cd929043b5564acc": {
-    "first_seen": "2026-07-03T06:34:51.811613+00:00",
-    "title": "Content Developer (For Legal Subjects - Judiciary Mains Question Bank)"
-  },
-  "b49384a035b10400": {
-    "first_seen": "2026-07-03T06:34:51.811636+00:00",
-    "title": "JEE Mains Physics Online Teaching"
-  },
-  "f7db3491f875c111": {
-    "first_seen": "2026-07-03T06:34:51.811651+00:00",
-    "title": "Student Engagement"
-  },
-  "55b45ccb5f25f592": {
-    "first_seen": "2026-07-03T06:34:51.811657+00:00",
-    "title": "Chemistry & Life Sciences"
-  },
-  "a133670d61c44a74": {
-    "first_seen": "2026-07-03T06:34:51.811663+00:00",
-    "title": "Marketing"
-  },
-  "08f35d002ce3b815": {
-    "first_seen": "2026-07-03T06:34:51.811667+00:00",
-    "title": "Fermentation Process Development"
-  },
-  "59d570e8ebc6cf45": {
-    "first_seen": "2026-07-03T06:34:51.811673+00:00",
-    "title": "Subject Matter Expert - Inorganic Chemistry"
-  },
   "80bd91d2dea950e8": {
     "first_seen": "2026-07-04T06:22:31.044776+00:00",
     "title": "Telecalling"
@@ -4138,5 +3822,133 @@
   "de996f5335899ec2": {
     "first_seen": "2026-08-31T09:23:40.007202+00:00",
     "title": "Opportunities for Flexible Legal Talent"
+  },
+  "304c4fda13b88a6b": {
+    "first_seen": "2026-09-01T08:21:19.005067+00:00",
+    "title": "Sales and Marketing"
+  },
+  "7a40440482131b24": {
+    "first_seen": "2026-09-01T08:21:19.005084+00:00",
+    "title": "Business Growth & Strategy"
+  },
+  "84d434f1ece808d7": {
+    "first_seen": "2026-09-01T08:21:19.005093+00:00",
+    "title": "Software Testing"
+  },
+  "b656105557384e7b": {
+    "first_seen": "2026-09-01T08:21:19.005098+00:00",
+    "title": "Talent Acquisition"
+  },
+  "b7979fef9adb368a": {
+    "first_seen": "2026-09-01T08:21:19.005133+00:00",
+    "title": "Law/Legal"
+  },
+  "0af6a6b3ef964ae0": {
+    "first_seen": "2026-09-01T08:21:19.005137+00:00",
+    "title": "Legal Research"
+  },
+  "4f00d0f79ac49460": {
+    "first_seen": "2026-09-01T08:21:19.005148+00:00",
+    "title": "Law/Legal"
+  },
+  "f2b5858470cd79ec": {
+    "first_seen": "2026-09-01T08:21:19.005154+00:00",
+    "title": "Law/Legal"
+  },
+  "7afeaeed223ba7bb": {
+    "first_seen": "2026-09-01T08:21:19.005158+00:00",
+    "title": "Law/Legal"
+  },
+  "3e9f20caa2a78106": {
+    "first_seen": "2026-09-01T08:21:19.005219+00:00",
+    "title": "Accounts"
+  },
+  "ee96df6e5fcb66ad": {
+    "first_seen": "2026-09-01T08:21:19.005228+00:00",
+    "title": "Finance"
+  },
+  "00d1357220e80b7c": {
+    "first_seen": "2026-09-01T08:21:19.005311+00:00",
+    "title": "Call for Abstracts: International Conference on International Arbitration at HNLU Raipur [Oct 10 – 11]: Register by Sept 15"
+  },
+  "39ed7f32ff721a06": {
+    "first_seen": "2026-09-01T08:21:19.005314+00:00",
+    "title": "NITI Aayog Internship 2026, New Delhi [Sept; 6 Weeks]: Apply by Sept 10"
+  },
+  "2c762039e66c4346": {
+    "first_seen": "2026-09-01T08:21:19.005317+00:00",
+    "title": "CfP: Indian Journal of Law and Legal Research (IJLLR) [Vol. 8, Issue 4] | PIF: 7.142 |DOI | Manupatra, HeinOnline & Google Scholar Indexed | Harvard & Other International Libraries: Submit by Sep 4"
+  },
+  "7766590730699db3": {
+    "first_seen": "2026-09-01T08:21:19.005323+00:00",
+    "title": "Internship Opportunity at Saar Legal Associates, Delhi [1 Month; Offline]: Apply Now!"
+  },
+  "85b674bd524e1cd4": {
+    "first_seen": "2026-09-01T08:21:19.005327+00:00",
+    "title": "2 Month Long Online Certificate Course on Legal Research and Writing by LLS [Sept 1 – Oct 31]: Register by Sept 2; Start Writing Publishable Papers"
+  },
+  "42c6a740f63d220d": {
+    "first_seen": "2026-09-01T08:21:19.005331+00:00",
+    "title": "Internship Opportunity by Jindal Policy Research Lab [6 Months; Remote]: Apply by Sept 7"
+  },
+  "be091646858bb748": {
+    "first_seen": "2026-09-01T08:21:19.005335+00:00",
+    "title": "JOB POST: Associate at Fair & Just Legal Solutions LLP, Noida [0 – 2 PQE; Offline]: Apply Now!"
+  },
+  "234b063b79c212b7": {
+    "first_seen": "2026-09-01T08:21:19.005338+00:00",
+    "title": "Internship Opportunity at Acupro Consulting, Gurgaon [Offline]: Apply Now!"
+  },
+  "6c21804a1eb8ff75": {
+    "first_seen": "2026-09-01T08:21:19.005342+00:00",
+    "title": "JOB POST: Associate & Senior Associate at AP & Partners, Gurugram [1 – 6 PQE; Offline]: Apply Now!"
+  },
+  "fe8f62de30e03966": {
+    "first_seen": "2026-09-01T08:21:19.005346+00:00",
+    "title": "Call for Blogs by Society of International Law and Policy (SILP), West Bengal National University of Juridical Sciences (NUJS), Kolkata: Submit Now!"
+  },
+  "0819a63c84b59b4c": {
+    "first_seen": "2026-09-01T08:21:19.005361+00:00",
+    "title": "TRD Associates advises Ravin Group on acquisition of Cable Corporation of India"
+  },
+  "a628bf86e6a869dd": {
+    "first_seen": "2026-09-01T08:21:19.005365+00:00",
+    "title": "Rajani Associates advises Genesys International Corp on ₹125 crore rights issue"
+  },
+  "ee86a22867efd0d3": {
+    "first_seen": "2026-09-01T08:21:19.005368+00:00",
+    "title": "Manager Vacancy At Tata Steel Limited - Live Law"
+  },
+  "d1a2faae3e825457": {
+    "first_seen": "2026-09-01T08:21:19.005372+00:00",
+    "title": "Senior Manager (Law), Manager (Law), And Manager (Company Secretary) Vacancy At Nainital Bank Limited - Live Law"
+  },
+  "07ce1420be9384c5": {
+    "first_seen": "2026-09-01T08:21:19.005376+00:00",
+    "title": "Assistant Manager (Legal) Vacancy At Andhra Pradesh Capital Region Development Authority, Amaravati - Live Law"
+  },
+  "502178e42f98fd8e": {
+    "first_seen": "2026-09-01T08:21:19.005379+00:00",
+    "title": "Senior Executive (Corporate Legal) Vacancy At Godrej Industries Group - Live Law"
+  },
+  "ba1e324e75cee6a4": {
+    "first_seen": "2026-09-01T08:21:19.005393+00:00",
+    "title": "Call For Applications: Research Associate At National Law University, Delhi - Live Law"
+  },
+  "06e4129e6d2e76bc": {
+    "first_seen": "2026-09-01T08:21:19.005397+00:00",
+    "title": "Call For Applications: Research Associate At National Law School Of India University (NLSIU) - Live Law"
+  },
+  "079ec1feaac2da72": {
+    "first_seen": "2026-09-01T08:21:19.005400+00:00",
+    "title": "Manager (HRM Legal) Vacancy At Tata Steel Limited [Apply Now] - Live Law"
+  },
+  "53e6e205c8936e7f": {
+    "first_seen": "2026-09-01T08:21:19.005413+00:00",
+    "title": "S&R Associates advises Tempsens Instruments on INR 6.50 Billion IPO"
+  },
+  "a46aef0ec2bb75a8": {
+    "first_seen": "2026-09-01T08:21:19.005416+00:00",
+    "title": "Singapore Convention Week 2026: Experts explore India’s renewable energy investments, risk allocation and cross-border opportunities"
   }
 }
