@@ -1,252 +1,4 @@
 {
-  "80bd91d2dea950e8": {
-    "first_seen": "2026-07-04T06:22:31.044776+00:00",
-    "title": "Telecalling"
-  },
-  "e008d41e29e98b2e": {
-    "first_seen": "2026-07-04T06:22:31.044796+00:00",
-    "title": "Digital Marketing"
-  },
-  "9fd4888914796866": {
-    "first_seen": "2026-07-04T06:22:31.044803+00:00",
-    "title": "AI Content Writing"
-  },
-  "5c13d1fd21602f26": {
-    "first_seen": "2026-07-04T06:22:31.044810+00:00",
-    "title": "Social Work"
-  },
-  "0f7bd0b74bd6464e": {
-    "first_seen": "2026-07-04T06:22:31.044817+00:00",
-    "title": "Fundraising"
-  },
-  "f663baa2220900ec": {
-    "first_seen": "2026-07-04T06:22:31.044823+00:00",
-    "title": "AI Web Development"
-  },
-  "8c82b2f09b652e1d": {
-    "first_seen": "2026-07-04T06:22:31.044828+00:00",
-    "title": "AI Blog Writing"
-  },
-  "33ccff26e920f583": {
-    "first_seen": "2026-07-04T06:22:31.044833+00:00",
-    "title": "AI Data Analytics"
-  },
-  "01882abfe0791b6b": {
-    "first_seen": "2026-07-04T06:22:31.044838+00:00",
-    "title": "Graphic Design"
-  },
-  "0ccd2f303b8a93b6": {
-    "first_seen": "2026-07-04T06:22:31.044845+00:00",
-    "title": "Telemarketing Cum Admin Executive"
-  },
-  "e64126b110e4acb5": {
-    "first_seen": "2026-07-04T06:22:31.044850+00:00",
-    "title": "Creative Design"
-  },
-  "29914ab5248aea3e": {
-    "first_seen": "2026-07-04T06:22:31.044855+00:00",
-    "title": "UGC Content Creator"
-  },
-  "1f082e8aa6b3ce2c": {
-    "first_seen": "2026-07-04T06:22:31.044902+00:00",
-    "title": "Accounting & Tally"
-  },
-  "e3a04769ef6f5567": {
-    "first_seen": "2026-07-04T06:22:31.044912+00:00",
-    "title": "Accounting"
-  },
-  "e12e41e079489c12": {
-    "first_seen": "2026-07-04T06:22:31.044929+00:00",
-    "title": "Accounting & Bookkeeping"
-  },
-  "1200dfb248376339": {
-    "first_seen": "2026-07-04T06:22:31.044936+00:00",
-    "title": "Finance"
-  },
-  "03bd695ca3c7a822": {
-    "first_seen": "2026-07-04T06:22:31.044950+00:00",
-    "title": "Law/Legal"
-  },
-  "a25193c86a1e9365": {
-    "first_seen": "2026-07-04T06:22:31.045021+00:00",
-    "title": "Law/Legal"
-  },
-  "c9f6e13a6424714c": {
-    "first_seen": "2026-07-04T06:22:31.045051+00:00",
-    "title": "Operations"
-  },
-  "1f50de7d294ed8bf": {
-    "first_seen": "2026-07-04T06:22:31.045056+00:00",
-    "title": "Database Building/Management"
-  },
-  "638c048e33779916": {
-    "first_seen": "2026-07-04T06:22:31.045065+00:00",
-    "title": "Operations"
-  },
-  "6d3814fd5e6df842": {
-    "first_seen": "2026-07-04T06:22:31.045070+00:00",
-    "title": "Digital Media & Operations"
-  },
-  "15428b8f9abbf93e": {
-    "first_seen": "2026-07-04T06:22:31.045075+00:00",
-    "title": "Telecalling"
-  },
-  "984d294c239cd346": {
-    "first_seen": "2026-07-04T06:22:31.045083+00:00",
-    "title": "Customer Service/Customer Support"
-  },
-  "6ec2e25a6fff67a7": {
-    "first_seen": "2026-07-04T06:22:31.045094+00:00",
-    "title": "Supply Chain & Logistics Operations"
-  },
-  "84cb19fc60c5000c": {
-    "first_seen": "2026-07-04T06:22:31.045099+00:00",
-    "title": "Research & Academic Operations"
-  },
-  "49c8d7f443cc36fa": {
-    "first_seen": "2026-07-04T06:22:31.045104+00:00",
-    "title": "E-Commerce Operations"
-  },
-  "41de04c8678302ab": {
-    "first_seen": "2026-07-04T06:22:31.045109+00:00",
-    "title": "Data Quality Analyst"
-  },
-  "8a0185da5b9d0e54": {
-    "first_seen": "2026-07-04T06:22:31.045113+00:00",
-    "title": "Job Search Assistant"
-  },
-  "eb741fc022b04368": {
-    "first_seen": "2026-07-04T06:22:31.045118+00:00",
-    "title": "Customer Service/Customer Support"
-  },
-  "7c5186cd3f6da5ec": {
-    "first_seen": "2026-07-04T06:22:31.045125+00:00",
-    "title": "Operations"
-  },
-  "f200b0636d8aea62": {
-    "first_seen": "2026-07-04T06:22:31.045130+00:00",
-    "title": "Customer Service/Customer Support"
-  },
-  "9ee4f8ef82ce7f20": {
-    "first_seen": "2026-07-04T06:22:31.045136+00:00",
-    "title": "Operations"
-  },
-  "6c1790d7637874f4": {
-    "first_seen": "2026-07-04T06:22:31.045141+00:00",
-    "title": "Data Scraping"
-  },
-  "fecb359dcc424d46": {
-    "first_seen": "2026-07-04T06:22:31.045146+00:00",
-    "title": "Implementation Operations"
-  },
-  "0fc095e5fdc1f905": {
-    "first_seen": "2026-07-04T06:22:31.045151+00:00",
-    "title": "Graphic Design"
-  },
-  "7eea48b6e7a30b8b": {
-    "first_seen": "2026-07-04T06:22:31.045157+00:00",
-    "title": "Inside Sales"
-  },
-  "c2076a7b6b154a37": {
-    "first_seen": "2026-07-04T06:22:31.045162+00:00",
-    "title": "Customer Service/Customer Support"
-  },
-  "916c23e57d9708ce": {
-    "first_seen": "2026-07-04T06:22:31.045167+00:00",
-    "title": "Artificial Intelligence (AI)"
-  },
-  "1f5535bec11e6d87": {
-    "first_seen": "2026-07-04T06:22:31.045172+00:00",
-    "title": "Software Development"
-  },
-  "ed2b3492cc1defaf": {
-    "first_seen": "2026-07-04T06:22:31.045177+00:00",
-    "title": "Front End Development"
-  },
-  "cb4a25327bbbbbe8": {
-    "first_seen": "2026-07-04T06:22:31.045182+00:00",
-    "title": "Software Development Engineering (Web)"
-  },
-  "e9050cbb92055fbc": {
-    "first_seen": "2026-07-04T06:22:31.045186+00:00",
-    "title": "ReactJS Development"
-  },
-  "76501ce406ec219d": {
-    "first_seen": "2026-07-04T06:22:31.045192+00:00",
-    "title": "Front End Development"
-  },
-  "2ac640ee64a4c304": {
-    "first_seen": "2026-07-04T06:22:31.045196+00:00",
-    "title": "Software Development Engineering (Web)"
-  },
-  "eb38efea0def0ac2": {
-    "first_seen": "2026-07-04T06:22:31.045202+00:00",
-    "title": "Web Development"
-  },
-  "9161ad7ee79eb48e": {
-    "first_seen": "2026-07-04T06:22:31.045207+00:00",
-    "title": "Flutter Development"
-  },
-  "dc97c7dacc9d3d10": {
-    "first_seen": "2026-07-04T06:22:31.045212+00:00",
-    "title": "Full Stack Development"
-  },
-  "feab646a6aa816d4": {
-    "first_seen": "2026-07-04T06:22:31.045217+00:00",
-    "title": "Full Stack Development"
-  },
-  "8a9e20daecb56911": {
-    "first_seen": "2026-07-04T06:22:31.045222+00:00",
-    "title": "Human Resources (HR)"
-  },
-  "21e27eb9276e7f19": {
-    "first_seen": "2026-07-04T06:22:31.045226+00:00",
-    "title": "Human Resources (HR)"
-  },
-  "8386a32dc887c8df": {
-    "first_seen": "2026-07-04T06:22:31.045231+00:00",
-    "title": "Android App Development"
-  },
-  "f402b39bed3f55c5": {
-    "first_seen": "2026-07-04T06:22:31.045236+00:00",
-    "title": "AI Agent Development"
-  },
-  "16788c5ea9307756": {
-    "first_seen": "2026-07-04T06:22:31.045279+00:00",
-    "title": "Finance"
-  },
-  "66d34d1f23656fea": {
-    "first_seen": "2026-07-04T06:22:31.045284+00:00",
-    "title": "Investment Banker"
-  },
-  "3f1fc86c52966af4": {
-    "first_seen": "2026-07-04T06:22:31.045289+00:00",
-    "title": "Wealth Management"
-  },
-  "3f5105645e35d957": {
-    "first_seen": "2026-07-04T06:22:31.045296+00:00",
-    "title": "Operations"
-  },
-  "96a6cf658b9f7940": {
-    "first_seen": "2026-07-04T06:22:31.045337+00:00",
-    "title": "Subject Matter Expert (SME)"
-  },
-  "db4c157d00df30e9": {
-    "first_seen": "2026-07-04T06:22:31.045368+00:00",
-    "title": "Gamma Radiation Indicator Buttons Development"
-  },
-  "dc4c2a5b6e61779d": {
-    "first_seen": "2026-07-04T06:22:31.045439+00:00",
-    "title": "Video Solutions Creation Biology & Chemistry"
-  },
-  "fc644cae7f7736ce": {
-    "first_seen": "2026-07-04T06:22:31.045450+00:00",
-    "title": "Quantum Computing Research"
-  },
-  "a34d7ae53e7266ca": {
-    "first_seen": "2026-07-04T06:22:31.045469+00:00",
-    "title": "Robotics"
-  },
   "939c7a9a67296ca2": {
     "first_seen": "2026-07-04T15:38:39.082458+00:00",
     "title": "Talent Acquisition"
@@ -3950,5 +3702,125 @@
   "a46aef0ec2bb75a8": {
     "first_seen": "2026-09-01T08:21:19.005416+00:00",
     "title": "Singapore Convention Week 2026: Experts explore India’s renewable energy investments, risk allocation and cross-border opportunities"
+  },
+  "d0b9d34c8c893999": {
+    "first_seen": "2026-09-02T07:40:57.004686+00:00",
+    "title": "Corporate Sales"
+  },
+  "9b91a37153912a8b": {
+    "first_seen": "2026-09-02T07:40:57.004708+00:00",
+    "title": "Founder’s Office & Operations"
+  },
+  "d3c60bc5090d900e": {
+    "first_seen": "2026-09-02T07:40:57.004718+00:00",
+    "title": "Acquisition Ninja"
+  },
+  "16fc946c242c8c07": {
+    "first_seen": "2026-09-02T07:40:57.004725+00:00",
+    "title": "Talent Acquisition"
+  },
+  "e9c1801ae73e3572": {
+    "first_seen": "2026-09-02T07:40:57.004751+00:00",
+    "title": "Company Secretary (CS)"
+  },
+  "86fb839b2eaf5cbd": {
+    "first_seen": "2026-09-02T07:40:57.004756+00:00",
+    "title": "Law/Legal"
+  },
+  "2e757c911351e977": {
+    "first_seen": "2026-09-02T07:40:57.004761+00:00",
+    "title": "Legal Content Writer"
+  },
+  "cfc7f6b0c04592b7": {
+    "first_seen": "2026-09-02T07:40:57.004765+00:00",
+    "title": "Legal Research"
+  },
+  "d877366f3856481c": {
+    "first_seen": "2026-09-02T07:40:57.004770+00:00",
+    "title": "Legal Research"
+  },
+  "967f4178f5bf9646": {
+    "first_seen": "2026-09-02T07:40:57.004774+00:00",
+    "title": "Law/Legal"
+  },
+  "d3d16d2e19d94cd5": {
+    "first_seen": "2026-09-02T07:40:57.004779+00:00",
+    "title": "Law/Legal"
+  },
+  "7a9d1feead8ed997": {
+    "first_seen": "2026-09-02T07:40:57.004806+00:00",
+    "title": "Corporate Management Trainee"
+  },
+  "5961d569fffe83f8": {
+    "first_seen": "2026-09-02T07:40:57.004840+00:00",
+    "title": "Law/Legal"
+  },
+  "3ec43ccde08dc7d2": {
+    "first_seen": "2026-09-02T07:40:57.004926+00:00",
+    "title": "Internship Opportunity at Law Offices of India, Delhi [Offline]: Apply Now!"
+  },
+  "9e69f479ac3e41ae": {
+    "first_seen": "2026-09-02T07:40:57.004931+00:00",
+    "title": "JOB POST: Litigation Lawyer at Strider Search, Mumbai [3+ PQE; Offline]: Apply Now!"
+  },
+  "7997f7b026a9456c": {
+    "first_seen": "2026-09-02T07:40:57.004933+00:00",
+    "title": "Research Internship Opportunity at HUMAN.DROITS [Remote; 1 Month; Unpaid]: Apply by Sept 9"
+  },
+  "f34ff9d8b2323197": {
+    "first_seen": "2026-09-02T07:40:57.004938+00:00",
+    "title": "ALC International Moot Court Competition 2026 at Moot Court Committee, Asian Law College, Noida [Sept 26 – 27; Hybrid; Cash Prizes of Rs. 1 L]: Register by Sept 10"
+  },
+  "40df8724580cc6e7": {
+    "first_seen": "2026-09-02T07:40:57.004945+00:00",
+    "title": "Internship Opportunity at LEXIS AND COMPANY, Delhi [Stipend of Rs. 3 – 5k; Offline]: Apply Now!"
+  },
+  "9bf957fcd3fd9619": {
+    "first_seen": "2026-09-02T07:40:57.004948+00:00",
+    "title": "Internship Opportunity at Forté Lex Chambers, Delhi [Paid; Offline]: Apply Now!"
+  },
+  "03bd2426960578c2": {
+    "first_seen": "2026-09-02T07:40:57.004952+00:00",
+    "title": "Internship Opportunity at M/s. S.J. Bhambhlani & Co., Mumbai [Offline]: Apply Now!"
+  },
+  "41f008b4cd558e8e": {
+    "first_seen": "2026-09-02T07:40:57.004955+00:00",
+    "title": "JOB POST: Legal Consultant at DPR Solutions Inc, Gurgaon [5+ PQE; Offline]: Apply Now!"
+  },
+  "3f3476fba4f18635": {
+    "first_seen": "2026-09-02T07:40:57.004958+00:00",
+    "title": "Internship Opportunity at Collabera, Vadodara [Offline]: Apply Now!"
+  },
+  "a0ea593a13e12ce9": {
+    "first_seen": "2026-09-02T07:40:57.004962+00:00",
+    "title": "3rd National Intellectual Property Article Writing Competition 2026 by CIIPR, RGNUL & SS Rana & Co. [Cash Prizes; Internship Opportunity]: Register by Sept 12!"
+  },
+  "67e07b7a33e91c19": {
+    "first_seen": "2026-09-02T07:40:57.004968+00:00",
+    "title": "JOB POST: Programme Manager at Cyril Shroff-IIMA GC Leadership Academy, IIMA [Full-time]: Apply by Sept 30"
+  },
+  "56f58f50f73a9ca8": {
+    "first_seen": "2026-09-02T07:40:57.004971+00:00",
+    "title": "CfP: White Black Legal Journal of Law [Vol. 3, Issue 1] | Indexed in MANUPATRA, Google Scholar & 16+ Databases | Free DOI & PIF 6.435 | Sep 15"
+  },
+  "e61fe5a37f58f026": {
+    "first_seen": "2026-09-02T07:40:57.004982+00:00",
+    "title": "TRD Associates advises Ravin Infraproject on acquiring majority control in Ravin Cables from JV partner Prysmian"
+  },
+  "8a87355a842627c8": {
+    "first_seen": "2026-09-02T07:40:57.004987+00:00",
+    "title": "Manager (Law) And Junior Executive (Law) Vacancy At Airports Authority Of India - Live Law"
+  },
+  "bc033e6289b9d5f1": {
+    "first_seen": "2026-09-02T07:40:57.005006+00:00",
+    "title": "Assistant Professor (Law) Vacancy At Himachal Pradesh University - Live Law"
+  },
+  "d2c272f6e0eea434": {
+    "first_seen": "2026-09-02T07:40:57.005011+00:00",
+    "title": "Manager (Vigilance) Vacancy At Security Printing And Minting Corporation Of India Limited (SPMCIL) - Live Law"
+  },
+  "78a71e496133083d": {
+    "first_seen": "2026-09-02T07:40:57.005028+00:00",
+    "title": "S&R Associates advises Citigroup Global Markets India on INR 47.8 Billion Aster DM Quality Care Share Sale"
   }
 }
