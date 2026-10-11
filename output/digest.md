@@ -1,98 +1,28 @@
-# Legal Job Digest — 2026-10-10
+# Legal Job Digest — 2026-10-11
 
-**13 relevant new listing(s) found.**
+**1 relevant new listing(s) found.**
 
-### [Startup Advisory Intern](https://internshala.com/internship/detail/startup-advisory-intern-internship-in-kolhapur-at-cs-umang-shah1791543036)
-- **Company:** CS Umang Shah
-- **Source:** Internshala (legal)
-- **Fit score:** 9/10
-- **Why:** Startup advisory internship directly aligns with M&A, contract drafting, and commercial law—core interests of the candidate.
-
-### [Company Secretary (CS)](https://internshala.com/internship/detail/company-secretary-cs-internship-in-delhi-at-s-rajwanshi-and-co1791549864)
-- **Company:** S. RAJWANSHI AND CO.
-- **Source:** Internshala (legal)
-- **Fit score:** 8/10
-- **Why:** Company Secretary certification combined with corporate background makes this a strong match for the candidate's move toward corporate/transactional work.
-
-### [Internship Opportunity at Nitya Garg And Associates LLP, Delhi [Duration Mutually Decided; Stipend Communicated at Selection]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-nitya-garg-and-associates-llp-delhi/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 8/10
-- **Why:** Law firm internship at a reputable firm provides structured exposure to corporate and transactional legal work ideal for a new graduate.
-
-### [Internship Opportunity at M. C. Kochhar & Associates, New Delhi [2; On-site; 4 Weeks; Unpaid]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-m-c-kochhar-associates-new-delhi/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 8/10
-- **Why:** Law firm internship at M.C. Kochhar & Associates likely covers corporate and transactional matters, matching the candidate's post-qualification goals.
-
-### [Cyril Amarchand Mangaldas acts as Lender’s counsel to International Finance Corporation on its USD 70,000,000 financing to Jawaharlal Nehru Port Authority](https://www.scconline.com/blog/post/2026/10/10/cyril-amarchand-mangaldas-ifc-usd-70-million-financing-jawaharlal-nehru-port-authority/)
-- **Company:** See listing
-- **Source:** SCC Online Blog
-- **Fit score:** 8/10
-- **Why:** Cyril Amarchand Mangaldas transaction highlights M&A and project finance work, directly aligning with candidate's target practice areas and firm preferences.
-
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-mumbai-at-juristech-legal-partners1791547534)
-- **Company:** Juristech Legal & Partners
-- **Source:** Internshala (legal)
-- **Fit score:** 7/10
-- **Why:** Law firm environment where corporate and commercial matters are handled regularly, providing relevant practical exposure.
-
-### [Online Legal Internship at Hamari Pahchan NGO [1 Month; Unpaid; 200+ Positions]: Apply on Rolling Basis](https://www.lawctopus.com/online-legal-internship-at-hamari-pahchan-ngo-oct-nov/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 7/10
-- **Why:** Legal internship at an NGO provides hands-on practical experience across multiple legal domains, supporting the candidate's transition to corporate law.
-
-### [Consultant Vacancy At Ernst & Young [Mumbai; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMijwFBVV95cUxQTG9TY25pWVNfVm1uUWQ3cENVSHBUcUo2dGNCaERPTnpMSl9nN052d2l5b3o3ek5DNUQ2eTd5dENqT3dKUEQ1bW9YYmRTMlVfRHIwVWNZYW53eGtXN3pSVnhPZHFCTHo0UXRwUjVDUExPZThqX193UWRsSkdvWFpaeG56VFFoYVBqQXhpZk5BMNIBjwFBVV95cUxQTG9TY25pWVNfVm1uUWQ3cENVSHBUcUo2dGNCaERPTnpMSl9nN052d2l5b3o3ek5DNUQ2eTd5dENqT3dKUEQ1bW9YYmRTMlVfRHIwVWNZYW53eGtXN3pSVnhPZHFCTHo0UXRwUjVDUExPZThqX193UWRsSkdvWFpaeG56VFFoYVBqQXhpZk5BMA?oc=5)
-- **Company:** See listing
-- **Source:** LiveLaw
-- **Fit score:** 7/10
-- **Why:** Consultant position at EY in Mumbai offers strong potential for corporate/transactional legal work, though location and hybrid flexibility are unclear.
-
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-delhi-at-barahami-legal-services1791604543)
-- **Company:** Barahami Legal Services
-- **Source:** Internshala (legal)
-- **Fit score:** 6/10
-- **Why:** General law firm offering potential corporate exposure but lacks specific transactional focus; moderate alignment with transition to corporate law.
-
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-mumbai-at-kashish-bijlani1791549546)
-- **Company:** Kashish Bijlani
-- **Source:** Internshala (legal)
-- **Fit score:** 6/10
-- **Why:** Individual law firm setting may offer diverse practice areas but lacks explicit corporate/transactional specialization.
-
-### [Compliance Analyst Vacancy At CapFloat Financial Service Pvt Limited - Live Law](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3VJZUFpZDZacE5OVnlpYzJNNnp6eHNrc29tUWFaYlZTYzYySjQ5djFZUGFsU1hwdjNoOHZ2emlGSF9Gc0ppVkdQdzB6aWRTTm9qZHlaT09UYTZITUo5XzZFdV90eXBnWk5JWFpibkZJNzF5ZWRlNFhZRFZKVnBsQU5oYXBiQk9GYmhzRjlDdmdLVXBfZXUza2xURVpSZ0JaRXJIbjF1WG1Tc0ExbU9JWThlcnHSAbQBQVVfeXFMTkd1SWVBaWQ2WnBOTlZ5aWMyTTZ6enhza3NvbVFhWmJWU2M2Mko0OXYxWVBhbFNYcHYzaDh2dnppRkhfRnNKaVZHUHcwemlkU05vamR5Wk9PVGE2SE1KOV82RXVfdHlwZ1pOSVhaYm5GSTcxeWVkZTRYWURWSlZwbEFOaGFwYkJPRmJoc0Y5Q3ZnS1VwX2V1M2tsVEVaUmdCWkVySG4xdVhtU3NBMW1PSVk4ZXJx?oc=5)
+### [Associate (Tax) Vacancy At Ernst & Young [Mumbai; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUTh4b21SOXpuWW9uR3FPZHBheVd6YmxTSVBxVVRvZUZ3LXRMdHdQTEFKaVVwT0VXQ1hjbzk1V0tyV2ZQaEw4TnJJT1VBa0EtRUpIQWR2dExsZFRHSjBpR3hPMkxpaTVEZFNTeXJ1cC1Ob1NrbFAyV1NlWEVSTUFrbU43MVhCakowVnhuUTdlQk8yTU3SAZMBQVVfeXFMTlE4eG9tUjl6bllvbkdxT2RwYXlXemJsU0lQcVVUb2VGdy10THR3UExBSmlVcE9FV0NYY285NVdLcldmUGhMOE5ySU9VQWtBLUVKSEFkdnRMbGRUR0owaUd4TzJMaWk1RGRTU3lydXAtTm9Ta2xQMldTZVhFUk1Ba21ONzFYQmpKMFZ4blE3ZUJPMk1N?oc=5)
 - **Company:** See listing
 - **Source:** LiveLaw
 - **Fit score:** 6/10
-- **Why:** Compliance analyst role at a financial services company aligns with candidate's interest in SEBI compliance and corporate law, though it may lean more toward regulatory than transactional work.
-
-### [Research In Law](https://internshala.com/internship/detail/work-from-home-research-in-law-internship-at-international-institute-of-sdgs-public-policy-research1791562561)
-- **Company:** International Institute Of SDGs & Public Policy Research
-- **Source:** Internshala (legal-research)
-- **Fit score:** 5/10
-- **Why:** Research-oriented role provides valuable skills but offers limited direct transactional or corporate practice exposure.
-
-### [Internship Experience @ Telecom Regulatory Authority of India, New Delhi; Worked on TRAI Litigation, PIL Tracking, and Regulatory Research; No Stipend](https://www.lawctopus.com/internship-experience-telecom-regulatory-authority-of-india-new-delhi/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 5/10
-- **Why:** Regulatory internship at TRAI offers niche expertise in telecom law, which is adjacent but not central to the candidate's target practice areas.
+- **Why:** EY Associate (Tax) role — corporate-adjacent, Tier-1 firm, but tax not core target (M&A/IBC/SEBI) and Mumbai-based (not remote/Lucknow).
 
 
-<details><summary>11 lower-relevance listings (click to expand)</summary>
+<details><summary>13 lower-relevance listings (click to expand)</summary>
 
-- [Operations & Marketing](https://internshala.com/internship/detail/operations-marketing-internship-in-bangalore-at-immersiworks-games1791367723) — ImmersiWorks Games (score: 4)
-- [Sales](https://internshala.com/internship/detail/sales-internship-in-hyderabad-at-aditya-birla-fashion-retail-limited-abfrl-pantaloons1791541371) — Aditya Birla Fashion & Retail Limited (ABFRL) - Pantaloons (score: 2)
-- [Copywriting](https://internshala.com/internship/detail/copywriting-internship-in-gurgaon-at-heads-up-for-tails1791547598) — Heads Up For Tails (score: 1)
-- [National Legal Dialogue on Article 44 and the Uniform Civil Code by Bharat Collective Foundation [Offline; Oct 28; Free]: Register Now!](https://www.lawctopus.com/national-legal-dialogue-article-44-uniform-civil-code-by-bharat-collective-foundation/) — See listing (score: 1)
-- [CfP: International Journal of Law Mgmt & Humanities [Vol 9, Issue 4] | Free CROSSREF DOI | HeinOnline, Manupatra, Google Scholar | 1k+ Libraries (Harvard, Oxford) | IF 7.010: Submit by Oct 16](https://www.lawctopus.com/cfp-international-journal-of-law-mgmt-humanities-volume-9-issue-4/) — See listing (score: 1)
-- [Manager Vacancy At Tata Capital Limited - Live Law](https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjliQkFza0RqbUlSZ1hFM0UzV3NYamRZSk9WTDdQem9nS0hYRTRxUDhYUVllZjBJekJ3SzVHSzVNR2tTcmFGRXdsSGhGNGM3b090MmJmdklvOEtENWgwVVJQcWNwazRzbmllQ1lMR1FuVjZyN0tVM0RDYi1kS3BfSmFsN2VxSUhuNlN6UDlR0gGOAUFVX3lxTE5iOWJCQXNrRGptSVJnWEUzRTNXc1hqZFlKT1ZMN1B6b2dLSFhFNHFQOFhRWWVmMEl6QndLNUdLNU1Ha1NyYUZFd2xIaEY0YzdvT3QyYmZ2SW84S0Q1aDBVUlBxY3BrNHNuaWVDWUxHUW5WNnI3S1UzRENiLWRLcF9KYWw3ZXFJSG42U3pQOVE?oc=5) — See listing (score: 3)
-- [Legal Expert Vacancy At Urban Development Directorate (UDD), Government Of Uttarakhand - Live Law](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEV4Q0I0bzJWZzRCUFNmWUVXY1BTTDNEUW9FNHpqXzB5czZoY08wQ1ZkMmlMTDBHVjJOdVZkUVZtN19FU3FadHhuRy1wbUZ2RVZsUmw2QVVwV1VOM2dMOWdOSlRuNU83UEIxWHp1aFV3UDkyQ0FZMHVkNFpxNEk4aUMyZzNkcVVlNTJjZllSUGVPN3VzSGpWWHF1NmQ2REVJRXBIWjFkZG81eXJiWWpDQWFaVG1vVTRjR2txS1ZwY0l6enJueWFpc9IByAFBVV95cUxOOEV4Q0I0bzJWZzRCUFNmWUVXY1BTTDNEUW9FNHpqXzB5czZoY08wQ1ZkMmlMTDBHVjJOdVZkUVZtN19FU3FadHhuRy1wbUZ2RVZsUmw2QVVwV1VOM2dMOWdOSlRuNU83UEIxWHp1aFV3UDkyQ0FZMHVkNFpxNEk4aUMyZzNkcVVlNTJjZllSUGVPN3VzSGpWWHF1NmQ2REVJRXBIWjFkZG81eXJiWWpDQWFaVG1vVTRjR2txS1ZwY0l6enJueWFpcw?oc=5) — See listing (score: 2)
-- [Vigilance Inspector (Transportation) Vacancy At Rajkot Rajpath Limited - Live Law](https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzY0Rk9UeTdxYVJsVEZ2YnJYa3B1cXlaSWtBMkgzVGtiSmlxaFpBRS1MWUVENElBeElfNVpEMU1zSkl1bmJNQWZQV1dTNnA1RGdydzZFNllCbzY4dUhNZmFGd0s0WnNNYWNmRjNsbzQtekZyTDB0ZW9TZTUzcjJPdUZKdDZDZDcxSTZMTko5MFhMbTVBeC1RYzVJMEYyT09XRFl2Tm5wZ3Zibm15TjN4YXRjWk_SAbQBQVVfeXFMT3c2NEZPVHk3cWFSbFRGdmJyWGtwdXF5WklrQTJIM1RrYkppcWhaQUUtTFlFRDRJQXhJXzVaRDFNc0pJdW5iTUFmUFdXUzZwNURncnc2RTZZQm82OHVITWZhRndLNFpzTWFjZkYzbG80LXpGckwwdGVvU2U1M3IyT3VGSnQ2Q2Q3MUk2TE5KOTBYTG01QXgtUWM1STBGMk9PV0RZdk5ucGd2Ym5teU4zeGF0Y1pP?oc=5) — See listing (score: 1)
-- [Deputy Chief Law Officer Vacancy At Visakhapatnam Port Authority - Live Law](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUtmLWpxMGZiQTVTTEVVN2VrQ0ZXNFFMXzBxVnk3aUgxWldUV0g0WElyZUNZblBVRWVOTmRRRTNfMzE3Yl85YlhpQVlObDZOYUx2dy1INlpZSWNiZXh1WEF6Ny1yUjBBQnBvUUlTdEY1QUpVMUxFS0V4d2ZreHVSS0trWXBDUTNHUDd1SDdjYktsTmZMa2JTSGNpdzNWZDNxNmxCQU45S3RQd9IBrwFBVV95cUxQY3phNllNb094VXNBTzJZN1FUcW9zdzhaZGc2TVdOQTZPRFFZX0kwRm90TTBidnhqVHpQWUdlT3ZhODF3SU5vb3hUQURnY285Ykk3eVNKcUNPTks4dzU0UXk5eGdPTE00WVNMSDR1VnJVeEJKaWNETDV0QWFrbVRicFloU3NYNjctejZvT2xSR1NfUnB1SVdodnFReUJFWE9ZcEx3UlB6ajIzREsxNnpR?oc=5) — See listing (score: 2)
-- [Legal Consultant Vacancy At Central Government Hospitals Of Delhi/NCR - Live Law](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbElIUTVTVmVxVV8yRXhQRThJMkVieGgwVHdKaUlEMV9KRkE4cjJndmNjZ3lGSndscTFjcGFyN0RJdndMSW9oQ2NWd3oybjB3NGE2MW16VldVTE9WSm9wMmtrMHlrZUlfNkNIWUxrdXpQa3hOM0lUSTlvVklQblFFUlhGNl81UjVVYmh6VFRKM2lsbS02R1U5Nnd1ZEFObmkxaWNjTE5sWHNBOU1WYkhF0gG0AUFVX3lxTE1LOXBnTFptbUZEWi1vZ2lmd29YZHdSSVI5czdiRFdnV21OMFlTLTJpc2RpdmlDSnlmbU9KeENrQkl2cUt0ZjF0OHluVTdlUVRodXpLa3pxeERJX2lfUEU3dERsdmwzTHJIaTdNTVlOcVNLdGZKVUNlY3h6ZnZSUlFaXzk3RVpUdDREaTlBb1I3UFB1Q1M2aVFsMjRPQVJFTmRGeGIyd3FJQjNIUGVkV3drbm5PRA?oc=5) — See listing (score: 2)
-- [Assistant Legal Aid Advisor And Assistant (Legal) Vacancy At National Legal Services Authority - Live Law](https://news.google.com/rss/articles/CBMizwFBVV95cUxPazVtQjhTZTM1WjYyWkhUMmgyUnBxbndVOVl4T19RclVIN19fM1hFWFROV015ZGNJSE4zdlk2X2MyX0NfSGdEdkN1STBfX3hlYkNkXzJmU200T2YxU01WSDlNSkJheHdvOC12VE1Vc0l0bVZ4RVVJTng3YVJyS1Qtd213bDRQM1k5aF96UEZOeS1oTWM2N1BCWFlndFFycnpKY25ETzJNSHZsVFVXWVppRlV0UHVpYlV2bzBfakI4dDJmZnRwemg1eW1pODVUb03SAdQBQVVfeXFMT0QyLURNU3NvLVdMMGoyWE9DdXI1SjRjaHZwN0J5empKWXptN0JUb25PMnJQamNCd2lHTklBTVJjTDZFV2pRZ1RxRUE5Y2lWcWc3MFpja0d0MXN2MkNFZ2RKN0RXdzVyNGJ2QTU1ZUlRUlRoTE82NHZDcHFJWUNEZXZ4MlJFVFZCd3d5YXpGcVJzYXFRWWI3eDVId0RLS19hWlM1RGZyM0JRX0NyOGNQN0xBb19ZQlVZZ2ZZVDY2ZmlZam9UYXI0RXdELTQ0QkEyUEx5UWk?oc=5) — See listing (score: 1)
+- [Accounts](https://internshala.com/internship/detail/accounts-internship-in-multiple-locations-at-nexaid-technologies-private-limited1789900558) — Nexaid Technologies Private Limited (score: 0)
+- [Accounts](https://internshala.com/internship/detail/accounts-internship-in-delhi-at-xtreme-coolers-private-limited1789360294) — Xtreme Coolers Private Limited (score: 0)
+- [Equity Analyst](https://internshala.com/internship/detail/equity-analyst-internship-in-jaipur-at-modani-financial-services1790930549) — Modani Financial Services (score: 0)
+- [Fundraising](https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1791550789) — She Can Foundation (score: 1)
+- [Fundraising](https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-pledge-india-foundation1791549929) — Pledge India Foundation (score: 1)
+- [Fundraising](https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-nayepankh-foundation1791548816) — NayePankh Foundation (score: 1)
+- [Fashion Design And Merchandising](https://internshala.com/internship/detail/work-from-home-fashion-design-and-merchandising-internship-at-sukma-industries-limited1791656610) — Sukma Industries Limited (score: 0)
+- [Internship Experience @ District & Sessions Court, Varanasi; Worked on Contractual Arbitration and Legal Research; No Stipend](https://www.lawctopus.com/internship-experience-district-sessions-court-varanasi-worked-on-contractual-arbitration-and-legal-research-no-stipend/) — See listing (score: 2)
+- [Lawctopus’ Self-Paced Course: ‘Mastering Legal Drafting for High-Paying Roles’ (Recorded Edition): Register by October 15!](https://www.lawctopus.com/lawctopus-self-paced-course-mastering-legal-drafting-for-high-paying-roles/) — See listing (score: 0)
+- [Deputy Manager Vacancy At Deloitte Touche Tohmatsu India LLP - Live Law](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVVROGExTGRGcGNZNUlJTjN1dFJFTlZfMVFuRmdqTUtyeTdKYjh4TVk0Q1NheEs0Ty1obW9WUzZfV2NtMWJfT01mOHI5THBUUEg3aHpOLS1tWER0N0xQdDZCTWwtMmFLWi1xcEZsZkZ6Q3VrSXNyTkZDV2JTTmdnWWsybGxPY1R0alRkdi14ekFmeEZzUUNwUmJ6am0taUZ2Sy10T0F4SmdfZ9IBqgFBVV95cUxNVVVROGExTGRGcGNZNUlJTjN1dFJFTlZfMVFuRmdqTUtyeTdKYjh4TVk0Q1NheEs0Ty1obW9WUzZfV2NtMWJfT01mOHI5THBUUEg3aHpOLS1tWER0N0xQdDZCTWwtMmFLWi1xcEZsZkZ6Q3VrSXNyTkZDV2JTTmdnWWsybGxPY1R0alRkdi14ekFmeEZzUUNwUmJ6am0taUZ2Sy10T0F4SmdfZw?oc=5) — See listing (score: 2)
+- [Assistant Director (Prosecution) And Assistant Public Prosecutor Vacancy At Arunachal Pradesh Public... - Live Law](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRlZPa05KaXVocmlDYjBQa19iczZYaWpxbEtiN3doclNmQW5wTENNTV9Pay1raDc1Y2xuV2R3RTR6ZlNQdk9kN0hSZGZpLTZzVEV6Ry10NEpKSnpJejNBVXhYQ2Q3UEZDTHc4Yk9fTmZ2N2trNGRuclh4SWJ1eGpkQ200VHJzeGg5OVNhcXFsZFVObE5IWGN5YmM1Sjc3c2RHdGhxRFI4T19xbnV2bFZzVkhNTTVNckUxRWNneVd0NkoyTGhZWkwyME5Wb3lUQkZGY0RWZEMtNnhVajZJQWFCcWV1X01JbGtYMTIxZTNqcHHSAfYBQVVfeXFMTXJvR0ZacjRpQUhnVEVEOVNXc1dkSHJDYzNVRG9VWlZfeF9Zd2RYbTdWcERiNFZfODNMMHh6RVA0eVpDUEN0V1hzdjQ5eGhsMnd0MV8tVjY3OXdZRW1RODN5N2RTOExoR0hjdTB6S3Y2NWF2ZmJ2ZUtBRWpFc3hNVkxqQ0wwUVpNWGdSLVZkZHR5MXNiUVdJdHV6UW96NEZaeXFaMU5JaXk4YTNpZEdoZXVVSTFFV1Uwbmt1SlE1cFg2Tm5Vb0UxdUMwbkg2WjhDeThrR0RSYWZjeWF5alU4STdjU1lqSV92YXVNRTFQX0lKRHZ1dlJR?oc=5) — See listing (score: 0)
+- [Chief Manager (Legal) Vacancy At The Shipping Corporation of India Limited - Live Law](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkcyd2pMWURzdXg1b2l3MU9hUXF5dktweHZ6Ym96Q3VDeER5eFJzTlVYOUticTZRdWhiOTBCQThsTzFHSU9nc0VrY1R3MEJIbGVGNV9YZjNDVGcwMmxZSXk5WHA5OFdDb0hlSjZmdjJQZDFPc0c4M0RpVXB6OEJ4V3pGc3d1ZUxBeFp1b3E2Z0hZQl9pRlBKTDdKRElTdDdJZkkxMEhnb0tycDZJZm5GdEw3N2vSAboBQVVfeXFMUGRabFZ1MzU1UnJ1WDBsbFBWZC16azB2Y09QZjk1TTB4TjVmVW52SFlVemFMTUlObmlKS2dOMTczNGZzclZKQnU0Y0hmNzNXTTF3WHcySi1Xd0tSS3MxbzItaXk0XzdORXJRTG9YN3ZwZVZSMGE2b2YwdnhwQi15dTVMSjB5UzVOdERhWkMtUWJkdE8tOExSYjJSZklKa0w2ek1WOUxlRUY5Q3A4UEdfNDlDOEFzaFljMG5n?oc=5) — See listing (score: 0)
+- [PIL In Supreme Court Seeks Scrutiny Of Central Delhi Internet Shutdown During CEC Protest - Live Law](https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVUyampqRnM4d0wtTE1ValJiUEt4MHA3RjdTQUxRem04cXNRR3BkazFsTndQalJuUFJJVllUVWFEZlVJQXZxVTQ4dElOUDhYclNFcG5SRV9ZZVp1YjllOVpLYjAtYUQwbXJpUEV2RXNNOXJMSW9vMXdYempUd3QxdkxaRUxKd0lzNDljVkVvRmJ5bGRVNjN1a2EwWHhQTW9EUjB5bngzNzc0WjNSYTNub2Y5cVRRZTEyby1TTVRRdjhvb2tNY2VaRS00Z9IB0AFBVV95cUxQLV9mRjduUHdEN1plbEotNW80aFFrR2s5M3NaeExNbjBvRTNIbmFwUTF0TjhLMk54ZTlib2ZYZlZ6aW5qLW5zaFQwb1YyT2FlX0Z1SnlhWWJDWTRnWDFOQmpHLTU2dEdaMlNVVWNDczNBcHVyTEJrdkxTMTQzOEM4T2VLaEprQTV3NmpzbmQ0ZzdoWE9xNUNJUWRudjlnWFRjMXlhSlBCUGotclV2UUNfNkw1QzJSY1AzOHoxNTlYN09WRnlnU29JR2tYdnBHOS1J?oc=5) — See listing (score: 0)
 
 </details>
