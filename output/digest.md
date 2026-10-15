@@ -1,53 +1,140 @@
-# Legal Job Digest — 2026-10-14
+# Legal Job Digest — 2026-10-15
 
-**4 relevant new listing(s) found.**
+<details><summary>⚠ 1 issue(s) this run — click to expand</summary>
 
-### [Internship Opportunity at PG Law Office, New Delhi [Commercial Litigation & Corporate Law; Nov 2026; Immediate Joining]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-pg-law-office-new-delhi/)
+- **Scoring:** batch 0 failed on all providers: Expecting value: line 1 column 1 (char 0)
+
+</details>
+
+## ⚠ 15 listing(s) need manual review (scoring failed)
+
+### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-delhi-at-dr-s-p-ashok1792046735)
+- **Company:** Dr S P  Ashok
+- **Source:** Internshala (legal)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Law/Legal](https://internshala.com/internship/detail/work-from-home-law-legal-internship-at-vikramaditya-buddhist1791981688)
+- **Company:** Vikramaditya Buddhist
+- **Source:** Internshala (legal)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Legal Assistant](https://internshala.com/internship/detail/legal-assistant-internship-in-kolhapur-at-ishan-govardhan1791981396)
+- **Company:** Ishan Govardhan
+- **Source:** Internshala (legal)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Data Extraction](https://internshala.com/internship/detail/data-extraction-internship-in-multiple-locations-at-intelacia1791969500)
+- **Company:** Intelacia
+- **Source:** Internshala (legal)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Chartered Accountancy (CA)](https://internshala.com/internship/detail/chartered-accountancy-ca-internship-in-thane-at-vinod-gupta1791467571)
+- **Company:** Vinod Gupta
+- **Source:** Internshala (corporate-law)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Legal Research](https://internshala.com/internship/detail/legal-research-internship-in-delhi-at-the-pioneer1792038302)
+- **Company:** The Pioneer
+- **Source:** Internshala (legal-research)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Advocate](https://internshala.com/internship/detail/advocate-internship-in-delhi-at-dnk-infrastructure-and-developers-private-limited1791979996)
+- **Company:** DNK INFRASTRUCTURE AND DEVELOPERS PRIVATE LIMITED
+- **Source:** Internshala (legal-research)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Founders Associate - Grants & Defence Opportunities](https://internshala.com/internship/detail/work-from-home-founders-associate-grants-defence-opportunities-internship-at-ortus-innovation1791983388)
+- **Company:** Ortus Innovation
+- **Source:** Internshala (law)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Influencer Marketing](https://internshala.com/internship/detail/influencer-marketing-internship-in-bangalore-at-flutch-technology-private-limited1789727196)
+- **Company:** Flutch Technology Private Limited
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Field Sales](https://internshala.com/internship/detail/part-time-field-sales-internship-in-bangalore-at-vitaminbe1792048308)
+- **Company:** VitaminBe
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Media & Public Relations (PR)](https://internshala.com/internship/detail/media-public-relations-pr-internship-in-bandra-at-di-public-relations1792043732)
+- **Company:** DI Public Relations
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [Market Research](https://internshala.com/internship/detail/market-research-internship-in-mumbai-at-basf-india-ltd1791966027)
+- **Company:** BASF India Ltd
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [1st FairLex × Sanely Legal National Arbitration Moot Court Competition 2026 [Virtual; Nov 13 – 15; Prizes Worth ₹21.2k]: Register by Nov 3](https://www.lawctopus.com/1st-fairlex-x-sanely-legal-national-arbitration-moot-court-competition-2026/)
 - **Company:** See listing
 - **Source:** Lawctopus
-- **Fit score:** 7/10
-- **Why:** Explicitly lists commercial litigation & corporate law; direct relevance to target areas despite Delhi location.
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
 
-### [Manager (Legal) Vacancy At National Housing Bank (NHB) - Live Law](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUkVSWjZNb3BTeENuS3RTd1d6c2dDYXlVX3FBQkd1VTVMWXA2X2xRVnJLVFlZSE9sT2llVXh5aU1kYUhId0lrMGRiOFBVaUJlUm5hRGozUFpPbXNwMl84ZHQ1TTQ5Nzh1TF9zREpHR2xpcWpjM3lWVmlVZXdvMHplSmhIYnlSY3lFRG9lSlB1WC1rNV9SX1RTOGU5d3rSAZwBQVVfeXFMTlJFUlo2TW9wU3hDbkt0U3dXenNnQ2F5VV9xQUJHdVU1TFlwNl9sUVZyS1RZWUhPbE9pZVV4eWlNZGFISHdJazBkYjhQVWlCZVJuYURqM1BaT21zcDJfOGR0NU00OTc4dUxfc0RKR0dsaXFqYzN5VlZpVWV3bzB6ZUpoSGJ5UmN5RURvZUpQdVgtazVfUl9UUzhlOXd6?oc=5)
+### [CfP: International Conference on Taxation in the Digital Age at Saveetha School of Law, SIMATS, Chennai [Oct 27]: Submit by Oct 20](https://www.lawctopus.com/cfp-international-conference-on-taxation-in-the-digital-age-at-simats/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+### [JOB POST: Legal Specialist at Lawyer Panel, Greater Bengaluru Area [Entry Level; Full – time; 2025/2026 Batch]: Apply Now!](https://www.lawctopus.com/job-post-legal-specialist-at-lawyer-panel-greater-bengaluru/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: Expecting value: line 1 column 1 (char 0)
+
+**7 relevant new listing(s) found.**
+
+### [Manager (Legal) Vacancy At Gliders India Limited, Kanpur - Live Law](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEZwRHRZZGpsaG54UFVUQzhuakNFUl85cTk3YkY5UExBX2ROQVpUVG9JeGFDOTg0NUZLX1FQaTljN3VSUFVYNVRKU2FZVzhmZVplR05Ibm1KOEswdDdqWHA5WThGdFlKN0lKMWp5bUExa1JFVGIyLURzUDBtbF9pUTNtRkd4bmpmejJSNlBGZGotMHZXMm5ZTTB5VVRjb3hx0gGgAUFVX3lxTE5kRnBEdFlkamxobnhQVVRDOG5qQ0VSXzlxOTdiRjlQTEFfZE5BWlRUb0l4YUM5ODQ1RktfUVBpOWM3dVJQVVg1VEpTYVlXOGZlWmVHTkhubUo4SzB0N2pYcDlZOEZ0WUo3SUoxanltQTFrUkVUYjItRHNQMG1sX2lRM21GR3huamZ6MlI2UEZkai0wdlcybllNMHlVVGNveHE?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 8/10
+- **Why:** In-house legal role in Kanpur is geographically ideal and aligns with corporate transition goals.
+
+### [Agrim Law is looking to hire Associates in Gurgaon](https://www.barandbench.com/legal-jobs/agrim-law-is-looking-to-hire-associates-in-gurgaon)
+- **Company:** See listing
+- **Source:** Bar and Bench
+- **Fit score:** 7/10
+- **Why:** Associate role in a corporate-focused firm (Agrim Law) aligns with target practice areas and PQE.
+
+### [Assistant Manager Vacancy At Deloitte India - Live Law](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzdFZnZfLWF1c2wzZkU5S0VHVmRUZ3NIMUpfYndQQU1WUmYzbHAxc1N4YmpvRHNzRHRZWFd0M21rbnB3N2NQN0xiSGJ0UzB2cWlvZWxiMGtrM2NCN3BQVnBOTlV4YnhMWTFwOHhVTHJaZ3JEbWRVNHpTY3VfRlZDN0xOLXM5SVlyVzFQcTZ30gGTAUFVX3lxTE5iYUQydXBOZzdOcEhUSVdKZk5VVXVsd19QZ0xYczhVdXZLZUtiOUY0MTZyMGlEMmtDLVVRMEdjdFdHRi16TGo2UDViNC1VQV9wTmVUSDA2UWh4blV0dGpDUzFreUk5LVpqU3ZpRnhfdU9RenUtNHFJeWx6NGtHX2JzVlR3RXNMNmZHSjVyZ3BtLWxfZw?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 7/10
+- **Why:** Big 4 role aligns with corporate/compliance targets, though location (India-wide/Mumbai) is not preferred.
+
+### [Consultant Vacancy At Ernst & Young [Mumbai; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1VGUUlrbzdiWmZHMkQyUWp4aU84aU93cVVJVHJaVWZPczdIZVd0aUJtX3ZVc01rQmx4amVrUW5ER2xOeTB5YUFDNzk3aHFOZ3ZxZUJoeDVpMUdQYnVCNWY5czlNb09yaHZWTjZrZFNHQ2NROVBvQUVSTFZHTUZTM3d6UVYyaHROLVHSAY8BQVVfeXFMTkVTT1NMMEs3Y3haTk91eUxzOU1DbnJFNmpfSmp3a0dJZWotWGpYR0dPZWhmelFoOXAyUmZWZG9sNkI0d01UT3RxcFBzS1FjWHdKbVNxNTdIRWhsMUVXUGpOMmRkOEQ3ZkdjQ3FYVDRfOXlVUnFhQ01IRGxtZUNLYU80OTZVd0Jpb0FnaThCQ0k?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 7/10
+- **Why:** Big 4 consultancy role aligns with corporate/compliance targets, though location (Mumbai) is not preferred.
+
+### [Consultant Vacancy At Ernst & Young [Mumbai; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDBTTWswWVNfaDBSRUpMZzcyOW9MbjRIa2R3NWljSVV6dmw2cmZRSFMxV0FfYkpIek9PdUxLRFNCbm5WbXhvVlNCM0lYM1V0YzZ0VnE5OVc0MFo1Y25LdFA3T1V5TzdPY2wxVF9DN0xwdkpnWFBIakg5S2VPcExDSVZyWm1qYkFYX1HSAY8BQVVfeXFMUExvU2NuaVlTX1ZtblFkN3BDVUhwVHFKNnRjQmhET056TEpfZzdOdndpeW96N3pOQzVENnk3eXRDak93SlBENW1vWGJkUzJVX0RyMFVjWWFud3hrVzd6UlZ4T2RxQkx6NFF0cFI1Q1BMT2U4al9fd1FkbEpHb1haWnhuelRRaGFQakF4aWZOQTA?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 7/10
+- **Why:** Big 4 consultancy role aligns with corporate/compliance targets, though location (Mumbai) is not preferred.
+
+### [Team Member Vacancy At Kotak Mahindra Bank Limited [Mumbai; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3NXVFdvMDY2dzlDaHFPSjJYNEdnc2pFNEE5Zm9saDZTMjJkZGFILU0zNjFDNE1mVzNBajRtTHhCS1RTZ2ZTVGVFYnpXRld4cEJNNlh1dzQtZXdUVDNGbnZPdU5BNVI5SE8xSWo0aVgydUk3SzBBZE9WTHo0YkJxdFlSUEN4Y3ZweVp5RVgzSkFKMnQtNHE0OURubnVEaE5I0gGmAUFVX3lxTE9IUExXZkVJd1ZLbTZSR3B1QjJQU2ZLd3hJak9hU1FGWXprYWVsQTBtR3MxdnRXMlVOUnZQN000ZEI5MXdKR2c3bkdhdHB6ZE5jVElaa1gxTWhQUUFZTkEzang1ZnhmM1RRSDBWY1I5RHk3bzZvNEJTTTd6ZkJxZnQ5WUZjNDBvVURhTDBwTGd6MVdEWENjZkkxWnBWRXpLTkxtd1hBVXc?oc=5)
 - **Company:** See listing
 - **Source:** LiveLaw
 - **Fit score:** 6/10
-- **Why:** The role at National Housing Bank could involve corporate, banking, or regulatory compliance, which aligns with target areas, though 'Manager' might be slightly senior for 1 PQE.
+- **Why:** Banking role aligns with corporate/compliance interests, but location (Mumbai) is not preferred.
 
-### [Long-Term Internship Opportunity with Ketaki Dandekar, Mumbai [Intellectual Property Law; Legal Research & Drafting]: Apply Now!](https://www.lawctopus.com/long-term-internship-opportunity-with-ketaki-dandekar-mumbai/)
+### [Internship Opportunity at AKT Law Offices, Delhi [Virtual; For LL.B. Students]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-akt-law-offices-delhi/)
 - **Company:** See listing
 - **Source:** Lawctopus
 - **Fit score:** 5/10
-- **Why:** IP law internship relevant to TMT/legaltech; boutique practice, Mumbai-based, research/drafting exposure.
-
-### [Deputy Manager Vacancy At Deloitte Touche Tohmatsu India LLP - Live Law](https://news.google.com/rss/articles/CBMipAFBVV95cUxPazBhcW1lNUw4cFppb2hOR3poR2lSRFcyeURuZFdnS2lBOFB1dUduNUtyaTQzYVlFLW1kZ3BySEhVYjdZUHppWVdLUXBoYjdXbHpJRFdMcXhmRG1ub0kzN01tNEU4UEJ0bVVKWUFvcVZPY1NJVmZTM3RhVTRGRjBGalh2SVgyVEMtN3UxWngtaHQzckJ3SW95OGxWbC1hN3p6U0FSbdIBqgFBVV95cUxNVVVROGExTGRGcGNZNUlJTjN1dFJFTlZfMVFuRmdqTUtyeTdKYjh4TVk0Q1NheEs0Ty1obW9WUzZfV2NtMWJfT01mOHI5THBUUEg3aHpOLS1tWER0N0xQdDZCTWwtMmFLWi1xcEZsZkZ6Q3VrSXNyTkZDV2JTTmdnWWsybGxPY1R0alRkdi14ekFmeEZzUUNwUmJ6am0taUZ2Sy10T0F4SmdfZw?oc=5)
-- **Company:** See listing
-- **Source:** LiveLaw
-- **Fit score:** 5/10
-- **Why:** Roles at Deloitte can involve relevant corporate, M&A, or compliance work, but 'Deputy Manager' is likely too senior for a candidate with 1 PQE.
+- **Why:** Virtual internship opportunity which aligns with remote preference, though specific practice area is unspecified.
 
 
-<details><summary>20 lower-relevance listings (click to expand)</summary>
+<details><summary>6 lower-relevance listings (click to expand)</summary>
 
-- [Equity Analyst](https://internshala.com/internship/detail/equity-analyst-internship-in-kolkata-at-arthosalpha-private-limited1790153048) — Arthosalpha Private Limited (score: 1)
-- [AI Governance Lead](https://internshala.com/internship/detail/work-from-home-ai-governance-lead-internship-at-vedronai1791951093) — Vedron.ai (score: 3)
-- [Training And Internship Counselor](https://internshala.com/internship/detail/training-and-internship-counselor-internship-in-bangalore-at-skillorbit1791881133) — SkillOrbit (score: 0)
-- [Influencer Marketing](https://internshala.com/internship/detail/influencer-marketing-internship-in-bangalore-at-true-hunt1791878120) — True Hunt (score: 0)
-- [Artificial Intelligence (AI)](https://internshala.com/internship/detail/work-from-home-part-time-artificial-intelligence-ai-internship-at-simpli-intern1791881325) — Simpli Intern (score: 1)
-- [Business Growth & Strategy](https://internshala.com/internship/detail/business-growth-strategy-internship-in-bangalore-at-skillorbit1791951454) — SkillOrbit (score: 0)
-- [Recruitment & Talent Acquisition](https://internshala.com/internship/detail/recruitment-talent-acquisition-internship-in-mumbai-at-michael-page-international-recruitment1791917814) — Michael Page International Recruitment (score: 0)
-- [Operations](https://internshala.com/internship/detail/operations-internship-in-bangalore-at-nobroker-technologies-solutions-private-limited1791888200) — NoBroker Technologies Solutions Private Limited (score: 0)
-- [CfP: International Conference on Reflexive Globalisation and the Law – (South) Asian Perspectives at NLSIU, Bangalore [Nov 12 – 14, 2027]: Submit by Nov 30](https://www.lawctopus.com/cfp-intl-conference-at-nlsiu-bangalore/) — See listing (score: 0)
-- [JOB POST: Programme Executive at Public Concern for Governance Trust (PCGT) [Remuneration Commensurate with Qualifications and Experience]: Apply by Oct 20](https://www.lawctopus.com/job-post-programme-executive-at-public-concern-for-governance-trust-pcgt/) — See listing (score: 2)
-- [CfP: International Journal for Legal Research and Analysis [Vol. 2, Issue 7] | MANUPATRA, ROAD & Google Scholar Indexed | ₹15K Prize & Free DOI | Submit by Oct 17](https://www.lawctopus.com/call-for-papers-ijlra-vol-2-issue-7/) — See listing (score: 0)
-- [Internship Opportunity at S.J. Bhambhlani & Co., Nariman Point, Mumbai [Legal Research and Real Estate Laws]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-s-j-bhambhlani-co-mumbai/) — See listing (score: 4)
-- [Internship Opportunity at Settlement Panel, Greater Noida West [Paid; Work from Office]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-settlement-panel-greater-noida/) — See listing (score: 2)
-- [NHRC Winter Internship 2026, Delhi [Stipend of Rs. Rs. 12k; Up to 100 Interns; Dec 14, 2026 – Jan 8, 2027]: Apply by Oct 15](https://www.lawctopus.com/nhrc-winter-internship-2026/) — See listing (score: 2)
-- [Judicial Internship at Justice M.M. Sundresh’s Office, Supreme Court, Delhi [Offline; Dec 2026]: Apply by Nov 10](https://www.lawctopus.com/justice-mm-sundresh-internship-december-2026/) — See listing (score: 1)
-- [Vidhigya Associates acts on Nityas Gems & Jewellery ₹108 crore IPO](https://www.barandbench.com/law-firms/dealstreet/vidhigya-associates-acts-on-nityas-gems-jewellery-108-crore-ipo) — See listing (score: 0)
-- [Para Legal Volunteer Vacancy At District Legal Services Authority (DLSA), Sangrur, Punjab - Live Law](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRDY4a1JUdUlpemVoaVAwZUtycjV4WV9QbllkcWFwNV9INHNzcjd1NVdJOFFTb0E1YS1GYy1mYk5lNGh0bDZEOWxtWUVEWXVyMWw5NUVmRFpuVmU5cDFyT1gwOXNTRFBtaHg4Sy1QdmpTZXZKYmc2N04xNnhwWnNqQ0dYblhzN2QtZy12aHZTcUJIS3ZJakZtR3NmZ0ZDSm5YVlVhOUlnSWVOY2VLSG13MXNxRXUtOUNDMm5XUm1wXy1leVgyeGpqU19nMNIBywFBVV95cUxQRDY4a1JUdUlpemVoaVAwZUtycjV4WV9QbllkcWFwNV9INHNzcjd1NVdJOFFTb0E1YS1GYy1mYk5lNGh0bDZEOWxtWUVEWXVyMWw5NUVmRFpuVmU5cDFyT1gwOXNTRFBtaHg4Sy1QdmpTZXZKYmc2N04xNnhwWnNqQ0dYblhzN2QtZy12aHZTcUJIS3ZJakZtR3NmZ0ZDSm5YVlVhOUlnSWVOY2VLSG13MXNxRXUtOUNDMm5XUm1wXy1leVgyeGpqU19nMA?oc=5) — See listing (score: 1)
-- [Deputy Chief (RA) Vacancy At Central Electricity Regulatory Commission - Live Law](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkpxOXVuZVBRMGloeXJRZzBvSWdneGoyanhaNFRMTjVYbmg0QUt0Z2hnNjN4b1hwQ3phVmRzYlo4N0hKbk9uQ2lEdFZtdjBCeGt4WUJmVFRYZUdENC00b0ZkSHgyc2FZaUJYVDRUdzVwckJuQUk2bHQ3ZU4tMWdpRV9Ia0NPeHdNUDlocFZfa01hSmp1bW15NVV4c1FLLS1CWUZSUS0waUpPN0luSWZnZko1MWvSAbQBQVVfeXFMUFpKcTl1bmVQUTBpaHlyUWcwb0lnZ3hqMmp4WjRUTE41WG5oNEFLdGdoZzYzeG9YcEN6YVZkc2JaODdISm5PbkNpRHRWbXYwQnhreFlCZlRUWGVHRDQtNG9GZEh4MnNhWWlCWFQ0VHc1cHJCbkFJNmx0N2VOLTFnaUVfSGtDT3h3TVA5aHBWX2tNYUpqdW1teTVVeHNRSy0tQllGUlEtMGlKTzdJbklmZ2ZKNTFr?oc=5) — See listing (score: 2)
-- [Legal Consultant (Maritime Law) Vacancy At NALSAR University Of Law, Hyderabad - Live Law](https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2I0VUp0UXd4Q0Fkc2NFOGdhOTRaOWxSYXpDYTNNUkJoWURnM2pBUndlN0YwSGZ5SDkwQ0RuMVlyVHdTdndWcEYyMEwyREV4U1dybmVhS1lPSnhRRk9fdTRGMVJ0YXF1RGhzdGw2RnlsMTJ6RGxLZHZTX1IwU3o5VlROazJHWGVEQlczRmR4NGJudmhvTEp5TDNuYmxyVWFnM3ZjQk1lV1hPTUE0cGtzc1JZVkhwek1Gd1BQdWhR0gG-AUFVX3lxTFA3YjRVSnRRd3hDQWRzY0U4Z2E5NFo5bFJhekNhM01SQmhZRGczakFSd2U3RjBIZnlIOTBDRG4xWXJUd1N2d1ZwRjIwTDJERXhTV3JuZWFLWU9KeFFGT191NEYxUnRhcXVEaHN0bDZGeWwxMnpEbEtkdlNfUjBTejlWVE5rMkdYZURCVzNGZHg0Ym52aG9MSnlMM25ibHJVYWczdmNCTWVXWE9NQTRwa3NzUllWSHB6TUZ3UFB1aFE?oc=5) — See listing (score: 3)
-- [Senior Legal Associate Vacancy At Kang And Associates [Apply Now] - Live Law](https://news.google.com/rss/articles/CBMimwFBVV95cUxNQk9XQjk3VzF3c2daeVp3ZkhoZUo0aTlIY0JYUHhLRDBwc0NycHNDLXh5Zm1rblFBSTJ0b3BXRHJtZUZmTGE0NHRkNTh6UXE4MmhzSTN0X3Jia0czRzVZN3pRYzRHSEtEOXRIRzFrc2RuelM2ZHpkN1M5NXhZa05CZUxFSjNWcFZiZTZVbktYSXp1Rlg1NjBqWTNsTdIBoAFBVV95cUxNcFRUUnk5ZzYzVERDWjBySjN6eEFiRklHaDZGYl9kTmdoTG5IUzBHUG4wZUpQdnBOYkc3X3FFT244R3NnUnY1STBXT3F0Y2pyNVhsZW1qN0lyNFVRZjBuRmZkMWZpb2l1cWN2bnFaQTlnOUp6MVVTQnNmaHNyTzBUM0YtRDFxenIzeWdZc1d0dV9NVFFaamcydllld2tPZ2sw?oc=5) — See listing (score: 3)
+- [CfP: International Journal of Legal Science and Innovation [Volume 8, All Issues] | Manupatra, Google Scholar & ROAD | 30+ Databases | CROSSREF DOI | IF 6.285: Submit by Oct 21](https://www.lawctopus.com/cfp-international-journal-of-legal-science-and-innovation-vol-8/) — See listing (score: 1)
+- [CfP: International Journal of Juridical Science and Policy (IJJSP) [Volume II, Issue 1; Peer-Reviewed]: Submit Abstracts by Oct 31](https://www.lawctopus.com/cfp-international-journal-of-juridical-science-and-policy-ijjsp-2/) — See listing (score: 1)
+- [Internship Opportunity at Apotheose Law Chambers, New Delhi [2 Vacancies; Minimum 1 Month; Nov]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-apotheose-law-chambers-new-delhi-nov/) — See listing (score: 2)
+- [CfP: International Seminar on Artificial Intelligence, Internet and Law at Saveetha School of Law, Chennai [Hybrid; Nov 20]: Submit by Nov 3](https://www.lawctopus.com/cfp-international-seminar-on-ai-internet-and-law-at-saveetha-school-of-law-chennai/) — See listing (score: 3)
+- [Dr Surat Singh & Partners LLP is looking to hire Senior Legal Associates in Delhi](https://www.barandbench.com/legal-jobs/dr-surat-singh-partners-llp-is-looking-to-hire-senior-legal-associates-in-delhi) — See listing (score: 2)
+- [Office Manager Cum Court Clerk (Mis Data Analyst) And Social Worker Vacancy At Dr. Ram Manohar Lohiya... - Live Law](https://news.google.com/rss/articles/CBMiggJBVV95cUxOLUlBNkFlcDdxdkFvbXV6MzA4WnhJSTlObW5jaUtPdTAxWVhrbld2b0dlTndDaXhONW04MUx6ejdzYTRNX2dfRXBocDhxWUJRTWZwaGlWajNITVBSVXcxMjBhVS11eWVLZzgtMHVTQnJEOVZWTEtIN1FiLU9PLTZoUC1FcU9jektZTlEySkRTVkRUNUp3UGhUbzI1YTE1eFEzSVpUYjNfN0tQeldzM2lxWXh1YmxqcUNHeHBVbHNpX2dxNVV5VGh2NWJvcWtwWDRNYlJYa2VBaGV1U3BTMEFocGxJYlZvVklDTVYzVm5fQnFhSVhfSDE5ODhnc29pN05QQ2fSAYcCQVVfeXFMTmpLNDF2b0I4Q0kzS2lkZXc0TVVDalNzSlkyRldSUUdGR0dpN0hZR3RyWnBMaDFmQnZHTWxIRjBpTG5iZVRFRkkwZlh0SzBUYjdiejhFRGhhNDJNVXpCeGpGUlQtdzFac205MnNDQXRwdkJRV21ySFEwVVFvbU93bGpDYUxhdjFlR1RyaGUwXzNnTFlQRTBmQ2M4OEViYm1NS0F5cUxWZlhFc041ODYyNjJRaks1RmNNSmtDdDlLcnBnclNHVGxPb2tPYUltbjR2dkdvNTZlNjVyYXdTQy1DQTQ1eWhldEFDRW1uRzc1U253cUVTazRNWnRvemhXMlRoZkFSMGkzTWs?oc=5) — See listing (score: 0)
 
 </details>
