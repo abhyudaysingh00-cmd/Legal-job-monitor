@@ -1,92 +1,61 @@
-# Legal Job Digest — 2026-10-24
+# Legal Job Digest — 2026-10-25
 
-**9 relevant new listing(s) found.**
+<details><summary>⚠ 1 issue(s) this run — click to expand</summary>
 
-### [JOB POST: Legal Specialist at Lawyer Panel, Multiple Locations [0 – 1 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-legal-specialist-lawyer-panel-multiple-locations/)
+- **Bar and Bench:** feed returned 0 items — feed URL may have moved
+
+</details>
+
+**4 relevant new listing(s) found.**
+
+### [JOB POST: Corporate M&A Transaction Opportunities at Lakshmikumaran & Sridharan Attorneys [Delhi and Mumbai]: Apply Now!](https://www.lawctopus.com/job-post-corporate-ma-transaction-at-lakshmikumaran-sridharan-attorneys/)
 - **Company:** See listing
 - **Source:** Lawctopus
+- **Fit score:** 9/10
+- **Why:** Corporate M&A transaction opportunities at a top law firm, excellent fit for transitioning to corporate law.
+
+### [Social Work](https://internshala.com/internship/detail/work-from-home-social-work-internship-at-basic-shiksha-academy1792756964)
+- **Company:** Basic Shiksha Academy
+- **Source:** Internshala (company-secretary)
 - **Fit score:** 8/10
-- **Why:** Legal specialist role with 0-1 PQE requirement is a strong match for entry-level corporate law.
+- **Why:** Internship at a legal journal offering legal research/writing experience, strong fit for a junior advocate.
 
-### [JOB POST: Legal Associate at OpenSphere, Delhi [Hybrid]: Apply Now!](https://www.lawctopus.com/job-post-legal-associates-opensphere-delhi-hybrid-2026/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 8/10
-- **Why:** Legal associate role at OpenSphere with hybrid work aligns well with corporate law interests.
-
-### [JOB POST: Senior Associates – General Corporate via Vahura [M&A, PE/VC; Pan-India]: Apply Now!](https://www.lawctopus.com/job-post-senior-associates-general-corporate-via-vahura-ma-pe-vc-apply-now/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 8/10
-- **Why:** General corporate role with M&A and PE/VC focus aligns well with candidate's target practice areas and zero-to-one PQE level.
-
-### [Legal Research & Compliance Internship at Aavana Corporate Solutions, Bangalore [5 Posts; 3 Months; Stipend Upto Rs. 10k]: Apply Now!](https://www.lawctopus.com/legal-research-compliance-internship-at-aavana-corporate-solutions/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 7/10
-- **Why:** Legal research and compliance internship aligns well with corporate law and compliance interests.
-
-### [Remote Internship Opportunity at Clear Clause Legal [Nov-Dec 2026; Unpaid]: Apply Now!](https://www.lawctopus.com/remote-internship-opportunity-at-clear-clause-legal/)
-- **Company:** See listing
-- **Source:** Lawctopus
+### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-multiple-locations-at-sidhant-dhingra-and-associates1792822576)
+- **Company:** Sidhant Dhingra And Associates
+- **Source:** Internshala (law)
 - **Fit score:** 6/10
-- **Why:** Legal internship at Clear Clause Legal offers relevant exposure but details are limited.
+- **Why:** Law firm position potentially involving corporate matters, moderate fit for a junior lawyer.
 
-### [JOB POST: Associate at Naks Legal (Advocates & Solicitors), Delhi [1 – 3 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-associate-naks-legal-delhi-2026/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 6/10
-- **Why:** Associate role at Naks Legal requires 1-3 PQE, slightly above candidate's experience but relevant.
-
-### [Legal Officer Vacancy At Indian Institute Of Foreign Trade - Live Law](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWE4xMjAzRUhsZDBVRndWQ2xSRU9vMFdORGVTV1JDd20xbU9vcVlEOU9BMmlvemRuRl8xSHNLb3phX2hHR3gyYUZaVU5zbnl4WGtDeUhsdDlyRFozNzJCUWVVZkRJWXR6R2xvckp3am5ZSm5qRy1pMVNEQ2taTnNDNldhdHo0Q2RaWExSSWQtYy1YRGNuNnFMOTJkUkFheDZ3YVhOd2c1VdIBpwFBVV95cUxOWE4xMjAzRUhsZDBVRndWQ2xSRU9vMFdORGVTV1JDd20xbU9vcVlEOU9BMmlvemRuRl8xSHNLb3phX2hHR3gyYUZaVU5zbnl4WGtDeUhsdDlyRFozNzJCUWVVZkRJWXR6R2xvckp3am5ZSm5qRy1pMVNEQ2taTnNDNldhdHo0Q2RaWExSSWQtYy1YRGNuNnFMOTJkUkFheDZ3YVhOd2c1VQ?oc=5)
-- **Company:** See listing
-- **Source:** LiveLaw
-- **Fit score:** 6/10
-- **Why:** Legal officer role at IIFT may involve corporate/commercial work but details are unclear and location unspecified.
-
-### [Internship Opportunity at Neve Jewels Group, Mumbai [Offline]: Apply Now!](https://www.lawctopus.com/internship-neve-jewels-groups-mumbai-2026/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Fit score:** 5/10
-- **Why:** Internship at a jewellery group may involve some legal work but scope is unclear.
-
-### [Manager Vacancy At Deloitte Touche Tohmatsu India LLP [Bengaluru; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTS1nczJjSERKaXBsZkNWQ21JSFI4NWhWWkRjNW5wTThEajVraDlZZl80QW5COEdsN3d5Y2djR1lSaWpyaU9vUGh0eHh1QlV6YjAzSUc1UmJZYUZIZ05OLVRqeEV4NGY5ejhvTWoxQ0pweUFpcjRVSUJGNU1pNE5DN1IwOXpST0prUUp3ajkxT0hEUkhZaHZlcHgtX2ZEckMzQnktZ2dOaUrSAa4BQVVfeXFMTTduSzY4N2ozV1FqUFF4UG5NSjl5WXBvb0RDTjE5Z1FpWlRCaWFfeEhYd2dJeDhYZXhlSzhYNC1CQ1ZxeGRtak5LUWxaT1lRUWc0TldrOWRFNUNqM1k0S3V2ZnNDWC1VUzRxVXJSWEwwWHF6QldJRHZibE1ydFpjcU5QTkM2TXlTU1BvNGdheE9HTk5ZRDNVZkRRT21DT2dVRkotOGlRT2lXS21FaXB3?oc=5)
+### [Senior Team Member (Legal) Vacancy At Cipla Limited - Live Law](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYk1HNHd2eFd2YVctN1FFRDZCbURPZ2RIdFBpTGdnWWNNT25jbVJ6ZDhIekQ1M1Q2Tkc0QlQ5UEVTZjVUVXB0QWY5eWxKMjM1SnE4MG9OeGlRTUUxX1JGRGhBektWa29OUWJKZFdYMDZzcWxLSUVrYUZ0N2lrQ2FaNXktVE5HWlRHN1IwMGxjYTVfbFN0Vm1GUkNoUdIBmwFBVV95cUxNYk1HNHd2eFd2YVctN1FFRDZCbURPZ2RIdFBpTGdnWWNNT25jbVJ6ZDhIekQ1M1Q2Tkc0QlQ5UEVTZjVUVXB0QWY5eWxKMjM1SnE4MG9OeGlRTUUxX1JGRGhBektWa29OUWJKZFdYMDZzcWxLSUVrYUZ0N2lrQ2FaNXktVE5HWlRHN1IwMGxjYTVfbFN0Vm1GUkNoUQ?oc=5)
 - **Company:** See listing
 - **Source:** LiveLaw
 - **Fit score:** 5/10
-- **Why:** Manager role at Deloitte could involve corporate legal work but title suggests mid-level experience requirement.
+- **Why:** In-house role at Cipla (pharma) could involve corporate/commercial/regulatory work; seniority likely high and location unspecified.
 
 
-<details><summary>29 lower-relevance listings (click to expand)</summary>
+<details><summary>22 lower-relevance listings (click to expand)</summary>
 
-- [Executive Assistant](https://internshala.com/internship/detail/executive-assistant-internship-in-multiple-locations-at-medius-technologies-private-limited1792755990) — Medius Technologies Private Limited (score: 0)
-- [Accounts](https://internshala.com/internship/detail/accounts-internship-in-mumbai-at-medius-technologies-private-limited1792751261) — Medius Technologies Private Limited (score: 0)
-- [Animation](https://internshala.com/internship/detail/animation-internship-in-multiple-locations-at-medius-technologies-private-limited1792753770) — Medius Technologies Private Limited (score: 0)
-- [Corporate Sales](https://internshala.com/internship/detail/corporate-sales-internship-in-multiple-locations-at-medius-technologies-private-limited1792752177) — Medius Technologies Private Limited (score: 0)
-- [Creative Writing](https://internshala.com/internship/detail/creative-writing-internship-in-multiple-locations-at-medius-technologies-private-limited1792753493) — Medius Technologies Private Limited (score: 0)
-- [Client Servicing](https://internshala.com/internship/detail/client-servicing-internship-in-multiple-locations-at-medius-technologies-private-limited1792750510) — Medius Technologies Private Limited (score: 0)
-- [Inside Sales](https://internshala.com/internship/detail/inside-sales-internship-in-multiple-locations-at-medius-technologies-private-limited1792752098) — Medius Technologies Private Limited (score: 0)
-- [Facebook Marketing](https://internshala.com/internship/detail/facebook-marketing-internship-in-multiple-locations-at-medius-technologies-private-limited1792755759) — Medius Technologies Private Limited (score: 0)
-- [YouTube Ads Specialist](https://internshala.com/internship/detail/youtube-ads-specialist-internship-in-multiple-locations-at-medius-technologies-private-limited1792753955) — Medius Technologies Private Limited (score: 0)
-- [Online Marketing](https://internshala.com/internship/detail/online-marketing-internship-in-multiple-locations-at-medius-technologies-private-limited1792751894) — Medius Technologies Private Limited (score: 0)
-- [Inbound Process](https://internshala.com/internship/detail/inbound-process-internship-in-mumbai-at-medius-technologies-private-limited1792755535) — Medius Technologies Private Limited (score: 0)
-- [MIS](https://internshala.com/internship/detail/mis-internship-in-multiple-locations-at-medius-technologies-private-limited1792750792) — Medius Technologies Private Limited (score: 0)
-- [Loan Collection](https://internshala.com/internship/detail/loan-collection-internship-in-mumbai-at-medius-technologies-private-limited1792754598) — Medius Technologies Private Limited (score: 0)
-- [BCA/B.Com](https://internshala.com/internship/detail/bca-bcom-internship-in-multiple-locations-at-airports-authority-of-india1787549333) — Airports Authority Of India (score: 0)
-- [Accounts & Audit Associate](https://internshala.com/internship/detail/accounts-audit-associate-internship-in-nagpur-at-arth-venture-partners1791811652) — Arth Venture Partners (score: 0)
-- [Finance Curriculam](https://internshala.com/internship/detail/finance-curriculam-internship-in-gurgaon-at-mapaaurhum-technologies-opc-private-limited1791941829) — MAPAAURHUM TECHNOLOGIES (OPC) PRIVATE LIMITED (score: 2)
-- [Finance: Business Valuation](https://internshala.com/internship/detail/finance-business-valuation-internship-in-ahmedabad-at-marcken-consulting-llp1789707788) — Marcken Consulting LLP (score: 2)
-- [Accounts](https://internshala.com/internship/detail/accounts-internship-in-mumbai-at-withawill-hr-consultancy-service-llp1790255310) — WithAWill HR Consultancy Service LLP (score: 1)
-- [Finance](https://internshala.com/internship/detail/finance-internship-in-chennai-at-xoduse-media1792153957) — XODUSE MEDIA (score: 2)
-- [Personal Assistant](https://internshala.com/internship/detail/personal-assistant-internship-in-mumbai-at-wehire-talent-solutions1791979329) — Wehire Talent Solutions (score: 3)
-- [Quality & Patient Safety Officer](https://internshala.com/internship/detail/quality-patient-safety-officer-internship-in-raipur-at-himalaya-enterprises1790573244) — Himalaya Enterprises (score: 1)
-- [CfP: Indian Journal of Integrated Research in Law [Vol. 6, Iss. 5] | PIF: 6.926 | DOI |Manupatra, HeinOnline & Google Scholar Indexed | International Libraries Incl. European Parliament & Harvard: Submit by Oct 27](https://www.lawctopus.com/cfp-indian-journal-of-integrated-research-in-law-vol-6-issue-5/) — See listing (score: 2)
-- [CfP: International Journal of Law Mgmt & Humanities [Vol 9, Issue 4] | Free CROSSREF DOI | HeinOnline, Manupatra, Google Scholar | 1k+ Libraries (Harvard, Oxford) | IF 7.010: Submit by Oct 30](https://www.lawctopus.com/cfp-international-journal-of-law-mgmt-humanities-volume-9-issue-4/) — See listing (score: 2)
-- [Trainee Advocate Programme at Phoebus, Christos Clerides & Associates LLC, Info City [Offline]: Apply Now!](https://www.lawctopus.com/trainee-advocate-programme-phoebus-christos-clerides-associates-info-city/) — See listing (score: 4)
-- [JOB POST: Legal Counsel at IDFC FIRST Bank, Mumbai [7 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-legal-counsel-idfc-first-bank-mumbai-2026/) — See listing (score: 2)
-- [Legal Researcher Vacancy At Rajasthan High Court, Jodhpur - Live Law](https://news.google.com/rss/articles/CBMipAFBVV95cUxPak02Ql93NlhkVm5BWTJSaFJTQXhOVkpxc3FjMHRlbEJueFNGbXhkaFJ5Z3Q1X3I0Ym5DSDVvTGUtWHNlOGdxakphcTZkdXdvZzZOQ2hSUzQzc0JfZkNoUy1XbUlqWnRkNUxkanVUVHBLRUhDUnBuTUVUeXhhZjlpcHVoMnZTUy1xblB0MWxrTDN2dFNQQVh5b1ZmcHhCOHdHSWxKdtIBpAFBVV95cUxPak02Ql93NlhkVm5BWTJSaFJTQXhOVkpxc3FjMHRlbEJueFNGbXhkaFJ5Z3Q1X3I0Ym5DSDVvTGUtWHNlOGdxakphcTZkdXdvZzZOQ2hSUzQzc0JfZkNoUy1XbUlqWnRkNUxkanVUVHBLRUhDUnBuTUVUeXhhZjlpcHVoMnZTUy1xblB0MWxrTDN2dFNQQVh5b1ZmcHhCOHdHSWxKdg?oc=5) — See listing (score: 1)
-- [Professor (Law) And Associate Professor (Law) Vacancy At National Law School Of India University (NLSIU) - Live Law](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVThSR2paYXpjbmMwLWpUaWxMOWJVS0trakVnSnNoOHE3UUFhN0hLZWxuYlhrNEtLNkEzVDlFYV96STN3NTBPX2hTaXk4VzFldG1SYnNlV05XN2xPSVJ3RGIwTDQ2MVRnbWZVajRsUmZnT01va3pxV3JNNXh6LW5VSl9sUi0yWlZBU3RTLVBCTnd1dHlubWNZM2h0UDI3RHowWjJ6LVFFNzM5djduT09JQlVpM3pXUGF3M0JSaHFHeWloT0tpR1lrMjlNUE1teGdMMzZTOGxmQUlrN29G0gHcAUFVX3lxTFBVOFJHalphemNuYzAtalRpbEw5YlVLS2tqRWdKc2g4cTdRQWE3SEtlbG5iWGs0S0s2QTNUOUVhX3pJM3c1ME9faFNpeThXMWV0bVJic2VXTlc3bE9JUndEYjBMNDYxVGdtZlVqNGxSZmdPTW9renFXck01eHotblVKX2xSLTJaVkFTdFMtUEJOd3V0eW5tY1kzaHRQMjdEejBaMnotUUU3Mzl2N25PT0lCVWkzeldQYXczQlJocUd5aWhPS2lHWWsyOU1QTW14Z0wzNlM4bGZBSWs3b0Y?oc=5) — See listing (score: 1)
-- [Executive Director (Law), Joint Director (Law), And Deputy Director (Law) Vacancy At Delhi Electricity... - Live Law](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWGJSYzVpNWkzUmhNTHQ5aC0yelpISERGbS05UmJ6cW9rU2tZeTZINGxmckRweGZ0YkwtcXBCUDBwaGwzNU5yalZFd1JEVVJ0NkFlcS1sd25EU2luT0F6S2ZDMVF5QVNXWHJKTzlFRFBPWVdfWURUXzF3ODNncUJBZWdGU1JiSEVzVHBmOWU3R3lKeFpJWnBETEp2bE9vV1BLczM2azBLNkUydDVnal9SeG9SR0R3Wk1PSnlFTW55d3Y2ZUVpeXZ3d1pqcTBSc2U0TWlHT0FONUcweFg2Ykc4WEFBV1dOWFlWLUNJbzdfelVxaFF30gH0AUFVX3lxTE1YYlJjNWk1aTNSaE1MdDloLTJ6WkhIREZtLTlSYnpxb2tTa1l5Nkg0bGZyRHB4ZnRiTC1xcEJQMHBobDM1TnJqVkV3UkRVUnQ2QWVxLWx3bkRTaW5PQXpLZkMxUXlBU1dYckpPOUVEUE9ZV19ZRFRfMXc4M2dxQkFlZ0ZTUmJIRXNUcGY5ZTdHeUp4WklacERMSnZsT29XUEtzMzZrMEs2RTJ0NWdqX1J4b1JHRHdaTU9KeUVNbnl3djZlRWl5dnd3WmpxMFJzZTRNaUdPQU41RzB4WDZiRzhYQUFXV05YWVYtQ0lvN196VXFoUXc?oc=5) — See listing (score: 3)
-- [Associate (Administration) Vacancy At National Law University Delhi (NLUD) - Live Law](https://news.google.com/rss/articles/CBMisAFBVV95cUxOczFWbWx6ckxySlZGUk5tNGNQMW0wLXVRZG5fTm9Cc29vVXpEZkNYZFIzYnBIN3d0OTRxZWdGdHI5azh4QUZvT3NlMW1NdjFrd0Q0REljalRQMW1HblFONVFEelo1VDVRVlZJdUFhM1dMM1g4VWdmaVNpbHQ5VnFHV0ZtVy1iOTkxTXdMNFV2YkZ4cXN6VGlxd3BpNk9OTFRKcWpPVDZUeTlFUGNjNktscdIBsAFBVV95cUxOczFWbWx6ckxySlZGUk5tNGNQMW0wLXVRZG5fTm9Cc29vVXpEZkNYZFIzYnBIN3d0OTRxZWdGdHI5azh4QUZvT3NlMW1NdjFrd0Q0REljalRQMW1HblFONVFEelo1VDVRVlZJdUFhM1dMM1g4VWdmaVNpbHQ5VnFHV0ZtVy1iOTkxTXdMNFV2YkZ4cXN6VGlxd3BpNk9OTFRKcWpPVDZUeTlFUGNjNktscQ?oc=5) — See listing (score: 2)
+- [Finance](https://internshala.com/internship/detail/finance-internship-in-multiple-locations-at-9-ounce-fintech-llp1791532580) — 9 Ounce Fintech LLP (score: 2)
+- [Stock Analysis & Research Executive](https://internshala.com/internship/detail/stock-analysis-research-executive-internship-in-mumbai-at-pioneer-chemical-industries-private-limited1791462898) — Pioneer Chemical Industries Private Limited (score: 1)
+- [Equity Analyst](https://internshala.com/internship/detail/work-from-home-part-time-equity-analyst-internship-at-manish-shah1792145410) — Manish Shah (score: 1)
+- [Finance](https://internshala.com/internship/detail/work-from-home-finance-internship-at-pina-systems1792670434) — Pina Systems (score: 2)
+- [Campus Ambassador](https://internshala.com/internship/detail/campus-ambassador-programme-at-she-can-foundation1792759958) — She Can Foundation (score: 0)
+- [Full Stack Development](https://internshala.com/internship/detail/work-from-home-part-time-full-stack-development-internship-at-she-can-foundation1792759232) — She Can Foundation (score: 0)
+- [Copywriting](https://internshala.com/internship/detail/work-from-home-copywriting-internship-at-inamigos-foundation1792747345) — InAmigos Foundation (score: 0)
+- [Fashion Design And Merchandising](https://internshala.com/internship/detail/fashion-design-and-merchandising-internship-in-visakhapatnam-at-sr-shopping-mall1792763551) — SR Shopping Mall (score: 0)
+- [Internship Opportunity at BenchBriefs Journal [Dec 2026; 7 Posts; Hybrid; Unpaid]: Apply by Nov 10!](https://www.lawctopus.com/internship-opportunity-at-benchbriefs-journal-dec-2026/) — See listing (score: 1)
+- [CfP: International Conference on Law, Language and Literature by NLIU, Bhopal [Feb 6-7]: Submit Abstracts by Nov 15](https://www.lawctopus.com/cfp-international-conference-on-law-language-and-literature-by-nliu-bhopal/) — See listing (score: 1)
+- [13th NLIU–VKC Law Offices International Corporate Law Moot, 2027 [Jan 15-17; Offline; Cash Prizes Worth Rs. 1 Lakh]: Register by Nov 3](https://www.lawctopus.com/13th-nliu-vkc-law-offices-international-corporate-law-moot-2027/) — See listing (score: 0)
+- [JOB POST: Managing Associate at Pramah Lawmen Chambers, Gurugram [Full-time; Minimum 7 Years’ PQE; Intellectual Property Law]: Apply Now](https://www.lawctopus.com/job-post-managing-associate-at-pramah-lawmen-chambers-gurugram/) — See listing (score: 0)
+- [JOB POST: Litigation Associate at Agarwal Law Chamber, New Delhi [0–2 Years’ PQE; Immediate Joiners Preferred]: Apply by Oct 28](https://www.lawctopus.com/litigation-associate-agarwal-law-chamber-delhi/) — See listing (score: 2)
+- [JOB POST: Associate (Dispute Resolution) at Strata Law, New Delhi [Full-Time; On-Site; 2+ Years’ PQE]: Apply Now!](https://www.lawctopus.com/job-post-associate-dispute-resolution-at-strata-law-new-delhi/) — See listing (score: 1)
+- [Casework Internship at London Court of International Arbitration (LCIA) [6 Months; International Arbitration; Global Applicants]: Apply by Nov 30](https://www.lawctopus.com/casework-internship-at-london-court-of-international-arbitration-lcia/) — See listing (score: 0)
+- [JOB POST: Associate at AY Associates, Delhi [Offline]: Apply Now!](https://www.lawctopus.com/job-post-associates-ay-associates-delhi-2026/) — See listing (score: 3)
+- [JOB POST: Circle Legal – Documentation & Contracts at Indus Towers Limited, Pune [3+ PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-circle-legal-indus-towers-limited-pune-2026/) — See listing (score: 4)
+- [JOB POST: Legal Associate at S K Lath & Co. Advocates, Kolkata [Real Estate; Offline]: Apply Now!](https://www.lawctopus.com/job-post-legal-associate-s-k-lath-co-advocates-kolkata/) — See listing (score: 3)
+- [Lawctopus’ Self-Paced Course: ‘Mastering Legal Drafting for High-Paying Roles’ (Recorded Edition): Register by October 25!](https://www.lawctopus.com/lawctopus-self-paced-course-mastering-legal-drafting-for-high-paying-roles/) — See listing (score: 0)
+- [JOB POST: Legal & Compliance Executive at AKMV Consultants, Delhi [Salary of Rs. 25 – 30k; 2 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-legal-compliance-executive-akmv-consultants-delhi/) — See listing (score: 4)
+- [Consultant (Legal) Vacancy At Eurasia Division Of The Ministry Of External Affairs - Live Law](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDRXV0ZXTEtFZ3JIbVN5YW9GRGpJak1Ccm9KdGpubEFWNFRYTFk5U3JuVWw2bEozZGRKUkJDelAtY0FuUGRIOHVuam1HWXhFaW9JUXlLcm1sMkxrRGlqNDRaNFY2ajRucVJKTHNQSURoLXpFUEJtdUEzWTY3WFpua0tLQWpRelpCQXAwMTZyTzdTTF9BaFZxcFJ4X1hZTFpXVXBta3k1OTRPUlJ6NV9pMVZVS25zZVBxR01INWdIa9IBxAFBVV95cUxOSnkycldoNUVyQlE1eUswZHYySnMzTHVsQ2RrSGZ1RXdMSlViX1FSXzZJSUVkQm9vMDFYUWNtd2pVMGtwS3B6TzdLaUprR2F6NFE1S24zU2xJR3NqbllIRDlnS3pFVnlOZm9nMll4cTdqTjhVV0VxbWdyVTBvR3gyWjdaenl6NnpkM2I0M1N3UjRIV25pTHd3REJXODloRXIwMjFKNTlSTkx1aGFxOWgxazZFanE5WVc1NEVGb1pKT3djT0w1?oc=5) — See listing (score: 1)
+- [Special Judicial Magistrate (Second Class) Vacancy At Asifabad Of Kumuram Bheem Asifabad District,... - Live Law](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS2ZUc3lYLTROQUhfU1RkNWNWblNmWGRqUUhZTkxwTmlYbzZ6U0JXSjJwQmFpWHk3SUtZRU1GNzd1Z0NrT0VydGNjbzRrTVBrX0VYenVXX2NoMTZSRUlMZEw3N295alRpcW1kQjhlUGk3ZFRhbERkTXdtb2lzTzN3UVY5R3NOcm5qVTl4MU9qd1NGeVZ4WndXVUtiXzdVbWtwTlJmWEQ4NHhNRktEekdVa3E3SVdvZE5mTlZBaWQ1UnRNY2xHcTlxeU5yc0VhOHEtZEVFQzJ1MzlKRi1fZk5fbtIB5gFBVV95cUxNYngzMTJyOFU2ZUZoY0EzR0d4SVVNdWdPdkkzNGFTWTY1dGVSMW4wV0NCNkdBNWs3dTkxc0dQU2YtS3Bac3VYcy1KRGEzZUt3T01USVlrTmJhZUw3bDlvX0JGNEtPTzhfVThPTE9IUjg1SUFnZzlNMmNLUzNqNXhoWEJoVW93SjFKT25hMDRtZVJHRGRUOW5tSDdLRkF1SkdTcTBEQnJDZVRYNXg0ZlVzVjJBM2JWTFYwQkVCaUd2NnlGdl9aY09SYkxsQWxOZ3F4ektHY01DVVFyZV9fbjdTdVdvTnZSUQ?oc=5) — See listing (score: 0)
 
 </details>
