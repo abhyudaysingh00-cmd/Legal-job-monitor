@@ -1,57 +1,73 @@
-# Legal Job Digest — 2026-10-27
+# Legal Job Digest — 2026-10-28
 
-**4 relevant new listing(s) found.**
+**9 relevant new listing(s) found.**
 
-### [JOB POST: Associate at Lakshmikumaran & Sridharan Attorneys, Nagpur [0 – 2 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-associate-at-lakshmikumaran-sridharan-attorneys-nagpur-2026/)
+### [JOB POST: Associate at Chambers of Shashi Pratap Singh, Delhi [0 – 1 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-associate-at-chambers-of-shashi-pratap-singh-delhi-2026/)
 - **Company:** See listing
 - **Source:** Lawctopus
 - **Fit score:** 8/10
-- **Why:** Associate role at a top-tier full-service firm in Nagpur matching 0-2 PQE and likely involving corporate matters.
+- **Why:** Associate position at litigation chamber with 0-1 PQE is ideal level but chambers focus on litigation, though may have corporate work.
 
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-chennai-at-shaan-libby-associates1793013235)
-- **Company:** Shaan Libby & Associates
-- **Source:** Internshala (legal-research)
+### [Equity Analyst](https://internshala.com/internship/detail/equity-analyst-internship-in-mumbai-at-lalkar-securities-pvt-ltd1792134239)
+- **Company:** Lalkar Securities Pvt. Ltd.
+- **Source:** Internshala (corporate-law)
 - **Fit score:** 7/10
-- **Why:** Legal research/intern role at a law firm; entry-level corporate exposure possible.
+- **Why:** Equity Analyst position at securities firm aligns with SEBI compliance and financial markets interest, though more finance-focused than pure legal.
 
-### [Consultant Vacancy At Deloitte India [Mumbai; Apply Now] - Live Law](https://news.google.com/rss/articles/CBMikwFBVV95cUxPa1JOS24xLUcwcUgzSkFreVVGRnFOX1F3UEFISk5YZ2E4dFF2ZUZKaHo1T3E1UlFJVVptMHpNWkwwSjh0ak5hZzUtSjJmcXFyOGlXR3NCb2tjRTFySjFHUHdUelNoT2RpS3lMQzVLem5ZTWI4X3F1bUI4RndMX3psNmlzck5qblVQUmVZRjRYbjI5aDTSAZMBQVVfeXFMT2tSTktuMS1HMHFIM0pBa3lVRkZxTl9Rd1BBSEpOWGdhOHRRdmVGSmh6NU9xNVJRSVVabTB6TVpMMEo4dGpOYWc1LUoyZnFxcjhpV0dzQm9rY0UxckoxR1B3VHpTaE9kaUt5TEM1S3puWU1iOF9xdW1COEZ3TF96bDZpc3JOam5VUFJlWUY0WG4yOWg0?oc=5)
+### [Accounts](https://internshala.com/internship/detail/accounts-internship-in-vashi-at-d-h-b-and-associates-llp1791602576)
+- **Company:** D H B And Associates LLP
+- **Source:** Internshala (corporate-law)
+- **Fit score:** 6/10
+- **Why:** Accounts role at corporate law firm could involve legal documentation and compliance work relevant to corporate practice areas.
+
+### [Internal Audit](https://internshala.com/internship/detail/internal-audit-internship-in-mumbai-at-mintifi-finserve-private-limited1793102908)
+- **Company:** Mintifi Finserve Private Limited
+- **Source:** Internshala (company-secretary)
+- **Fit score:** 6/10
+- **Why:** Internal Audit position at fintech company could involve corporate compliance and regulatory documentation work.
+
+### [JOB POST: Young Professional (Legal) at Ministry of Defence: Apply by Oct 30!](https://www.lawctopus.com/job-post-young-professional-legal-ministry-of-defence/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Fit score:** 6/10
+- **Why:** Young Professional (Legal) at Ministry of Defence offers government legal experience but may be policy/administrative rather than corporate transactional.
+
+### [Senior Counsel (Corporate Legal) Vacancy At Tata Communications Limited - Live Law](https://news.google.com/rss/articles/CBMisAFBVV95cUxNdzVMQkFWa3E5N1dNamZjU0lMRGlFM2VmeUFRbGhBSmZsSFNCcXFmZ0tLblFZdHBmTG1GaXUtTlBET3JXY0dPZ2g4RmZ4U2d0VC1tQUhyUUZKaUoxaEhjNVdnLW0wTlpFNWFFajF4N1dNbF9nSnJQdjJHaWFubzVnd3J5RURDNlNBOVFpb0VWZjB4aFhJdmxXUDZsUEdpZE1TdXEtVWdabGptdGx3Q0J2OdIBtgFBVV95cUxPUHQ5bC1kbUxtV09MSkh6MDE0dk50Uk1kTW5DcV91Zi1QZENlSTI3UG02c09pZ1BSdGJjS3VzbXUwT1hFRTBfbTFKZFB5UlR2d1JKLXJ5M0FwMzNGZGVYcWdHS0c4NDc4ODVlMUZXejVmVWY3dUFzZ0dIRVUyR1dNXzdJMmxQc3duUU05Qkk1S1NBTVo5UnNxUlE5cDJ2OEN5RDhOSVBua0F1RTd4N3V2NlBwdkZwQQ?oc=5)
 - **Company:** See listing
 - **Source:** LiveLaw
 - **Fit score:** 6/10
-- **Why:** Deloitte legal consultant role could involve corporate work, but the Mumbai location and senior‑level title may exceed the candidate’s current experience.
+- **Why:** The role is explicitly in corporate legal, which perfectly matches the candidate's target practice areas, but the 'Senior Counsel' title likely requires significantly more PQE than the candidate's ~1 year.
 
-### [Internship Opportunity at The Legal Gazette [Nov; Remote]: Apply by Oct 30](https://www.lawctopus.com/internship-opportunity-at-the-legal-gazette-nov/)
-- **Company:** See listing
-- **Source:** Lawctopus
+### [Creative Strategist](https://internshala.com/internship/detail/creative-strategist-internship-in-multiple-locations-at-adz-meta-solutions-private-limited1793019111)
+- **Company:** Adz Meta Solutions Private Limited
+- **Source:** Internshala (company-secretary)
 - **Fit score:** 5/10
-- **Why:** Remote internship at a legal news outlet may involve research/writing but lacks clear corporate or transactional exposure.
+- **Why:** Creative Strategist role at marketing firm is distant from target practice areas but may involve contract review for campaigns.
+
+### [Finance](https://internshala.com/internship/detail/finance-internship-in-noida-at-urban-money1793173007)
+- **Company:** Urban Money
+- **Source:** Internshala (company-secretary)
+- **Fit score:** 5/10
+- **Why:** Finance role at fintech startup may involve contract drafting and compliance but is more finance than legal practice.
+
+### [Senior Associate (Office Support)-Law Vacancy At NPCC Limited - Live Law](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxkTGU4VGJXcG1sdndDX3gxMnRvSlg5cGFNLTdBTkhPTmdFUTRVRVFLb1AzZDFnbENNOHdEV0FSTEJSdC1rMjItcnpLbkNBaS1pOVNBaktWZ0tWNGF1V1JNdkUxb2JRNU5jbUZYQTlzbTBhV19jUE0wUXZwZ1FYQ2VTSmEwMmpXM19lNk1pTW9nSWZvcDhvTFdjZ28wVkVHaW1r0gGoAUFVX3lxTE85NE5uUzRmM3dyWEc2TlQ5TjVPRzdzVlkwU1V4MFBjTDROQkFNQVM1N1BiZGVXemREdTJlUTBGTXlCRk5GcHlLT1NNRVdsVGNuZVVTYVUtamI3R2NXNXlGVTB1N2VBUjRWMm5wTk9IM3VEZWVUVjhmUnlheDFHem96WjRIOUh6UlI2MWk2aXlhZ2FUMHdKZ21mTllYV3pIeEFCbkFLeG53TQ?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Fit score:** 5/10
+- **Why:** Senior Associate role at NPCC Limited may involve corporate legal work but title and level don't match candidate's zero-to-one PQE preference.
 
 
-<details><summary>24 lower-relevance listings (click to expand)</summary>
+<details><summary>10 lower-relevance listings (click to expand)</summary>
 
-- [Teaching](https://internshala.com/internship/detail/work-from-home-teaching-internship-at-brainvine-classes1791641767) — BrainVine Classes (score: 1)
-- [Operations](https://internshala.com/internship/detail/operations-internship-in-mumbai-at-capitalxb1790852800) — CapitalXB (score: 1)
-- [Sales](https://internshala.com/internship/detail/sales-internship-in-multiple-locations-at-jungleworks1793017270) — Jungleworks (score: 1)
-- [City Operations & Supply Growth](https://internshala.com/internship/detail/city-operations-supply-growth-internship-in-bhopal-at-uber1792991819) — Uber (score: 1)
-- [Sales Apprentice (Pune, Gujarat, Rajasthan, Tamil Nadu & Telangana)](https://internshala.com/internship/detail/work-from-home-sales-apprentice-pune-gujarat-rajasthan-tamil-nadu-telangana-internship-at-atlas-copco-india-limited1793018057) — Atlas Copco (India) Limited (score: 1)
-- [JOB POST: Senior Counsel (Corporate Legal) at Tata Communications Limited, Mumbai [12 – 15 Years’ of PQE]: Apply Now!](https://www.lawctopus.com/job-post-senior-counsel-corporate-legal-at-tata-communications-limited/) — See listing (score: 0)
-- [JOB POST: Insurance Associate at Trilegal, New Delhi [2–5 Years’ Experience; Full-Time]: Apply Now!](https://www.lawctopus.com/job-post-insurance-associate-at-trilegal-new-delhi/) — See listing (score: 3)
-- [JOB POST: Legal Counsel at Siemens Healthineers, Bengaluru [Full-time; 5 – 8 Years’ PQE]: Apply Now!](https://www.lawctopus.com/job-post-legal-counsel-at-siemens-healthineers-bengaluru/) — See listing (score: 0)
-- [JOB POST: Attorney at IBM, Bengaluru [Full-time; 4 – 8 Years’ Experience]: Apply Now!](https://www.lawctopus.com/job-post-attorney-at-ibm-bengaluru-2/) — See listing (score: 0)
-- [JOB POST: In-House Legal Counsel at Tech Mahindra, Noida [Full-time; 8 – 15 Years’ Experience]: Apply Now!](https://www.lawctopus.com/job-post-in-house-legal-counsel-at-tech-mahindra-noida/) — See listing (score: 0)
-- [JOB POST: Legal Manager (Treasury) at Godrej Capital, Mumbai [5–7 Years’ Experience]: Apply Now!](https://www.lawctopus.com/job-post-legal-manager-treasury-at-godrej-capital-mumbai/) — See listing (score: 0)
-- [CfP: International Research Conference 2027 by Centre for Research and Policy, NMIMS Kirit P. Mehta School of Law [Hybrid; Jan 30-31; Cash Prizes up to Rs. 40k]: Submit by Nov 20](https://www.lawctopus.com/cfp-international-research-conference-2027-by-cfrp-nmims-kpmsol/) — See listing (score: 0)
-- [CfP: White Black Legal – International Journal of Law [Vol. 4, Issue 1, ISSN 2581-8503] Indexed at 16 Databases, MANUPATRA, Google Scholar, DOI, PIF 6.435: Submit by Oct 30](https://www.lawctopus.com/cfp-white-black-legal-journal-of-law-vol-4-issue-1/) — See listing (score: 0)
-- [JOB POST: Legal Lead – Litigation & Contracts at Adani Enterprises Ltd, Ahmedabad [3 – 7 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-legal-lead-litigation-contracts-at-adani-enterprises-ltd-ahmedabad/) — See listing (score: 2)
-- [Internship Opportunity at Nikhil Chawla and Associates, Delhi [1 Month; Offline]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-nikhil-chawla-and-associates-delhi-nov-dec-2026/) — See listing (score: 3)
-- [Lawctopus’ Self-Paced Course: ‘Mastering Legal Drafting for High-Paying Roles’ (Recorded Edition): Register by October 31!](https://www.lawctopus.com/lawctopus-self-paced-course-mastering-legal-drafting-for-high-paying-roles/) — See listing (score: 1)
-- [Young Professional (Legal) Vacancy At Ministry Of Defence - Live Law](https://news.google.com/rss/articles/CBMiowFBVV95cUxNalpJVG5XS24tektkY0xNZzBTZ3EtX093a3lEQWhEVHFGaU1vdVZQUzh5SkJscHZiVVRzdmU5U2xOSDlFVFJRVGhtVm9aZkhHLU9Rd2tKSGpuRTJUSmZYWHlxNFp1TUpKMjBUUzNma1Z2VVU1SkZIaHFibU45NEVlTVA0dnFwbUJoVFlRMHpEWkd5dmoyM21EeFlNVUFKSG5jaFZN0gGjAUFVX3lxTE1qWklUbldLbi16S2RjTE1nMFNncS1fT3dreURBaERUcUZpTW91VlBTOHlKQmxwdmJVVHN2ZTlTbE5IOUVUUlFUaG1Wb1pmSEctT1F3a0pIam5FMlRKZlhYeXE0WnVNSkoyMFRTM2ZrVnZVVTVKRkhocWJtTjk0RWVNUDR2cXBtQmhUWVEwekRaR3l2ajIzbUR4WU1VQUpIbmNoVk0?oc=5) — See listing (score: 2)
-- [Legal Assistant Vacancy At High Court Of Chhattisgarh, Bilaspur - Live Law](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmZVNTBYbDR2VUxXSlBzWjlzTVBRVHBFOG9VWTNQazRUbjUyYU9UMHY3U1N4akVFSnN2UWU2Tm9lbVN4R2JoN2xRYmJMZ3Z6NFBPY2RMRERPeVN4eC1YdTV5ZFpULVBQWWFjc0pDX2t1QjJTY2pUTE1MOFdCWHIwekg3MXBqOW91ak5wUTNQYkRsNDNqUENidEpqRTR4d3hubFRYOF9heXlxWGdf0gGsAUFVX3lxTE9KZlU1MFhsNHZVTFdKUHNaOXNNUFFUcEU4b1VZM1BrNFRuNTJhT1QwdjdTU3hqRUVKc3ZRZTZOb2VtU3hHYmg3bFFiYkxndno0UE9jZExERE95U3h4LVh1NXlkWlQtUFBZYWNzSkNfa3VCMlNjalRMTUw4V0JYcjB6SDcxcGo5b3VqTnBRM1BiRGw0M2pQQ2J0SmpFNHh3eG5sVFg4X2F5eXFYZ18?oc=5) — See listing (score: 2)
-- [Legal Researcher Vacancy At Rajasthan High Court, Jodhpur - Live Law](https://news.google.com/rss/articles/CBMinwFBVV95cUxPd0VOWEMtVnk1ODcyOXE2dUlGWmJLa1FOZkl4bEV2ZzNaaXNSV0IydXA2ZzVOVFNzdnRMamVmaEV6aE51U29zcElhV2FqTVZ6aWtoRUNQd0lJTWwzSHNHeE12eG15N1E3S25FdTFxWUVoMDFteWxobmdDai1jWWc4QXpwRTRpQk9UMU9Vel9uXzZEdVVULTJoa19NVXdtR0HSAaQBQVVfeXFMTTlETDQzLTUxV0Q5RFNJak1YaE1KQlhWNHhPcEhQYmQ5SEl0UW8xVTFhUHVPdU1xMUMxVmJaTVdKM19mSmhVUXNGN215WXlmS3BYWTNWQXhPejRjUURERi0yYTlESVNUMllBQTdZbzZ0ZXY2OVdPUEI4QjM2WVlKZDBXZ1FXcVNwd3NpYnZNemIzLW9kVDhtRloxWXlWa3ZUSFhzNXE?oc=5) — See listing (score: 2)
-- [Legal Researcher Vacancy At Rajasthan State Legal Services Authority, Jodhpur & Jaipur - Live Law](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRjZOQnNLNmNsaTZrS25UWk9FMzFpcjVkQkVzWThWdDlONC1YQWNFWS1ucTdhcUlyTkRsM3VCS1ZtSF83Z3RuZF9uNnpCTHpZX0ZaRWZWa2hQXzRNMW50Z0ZvQVFsRGZEWDcxSzBTb2ZXdUZBRzdSb2lYREN2QWlzNndyUWJITjhSQjVBQmk1WGVtSFJjaHgwaWI0LUxlbEJrYmpBRXdkVGN3Z3ZpcWlvZEw2Z1pEVTM4emtJWDhSMGpkeEnSAcgBQVVfeXFMUDRXZ0xEVnk5Qkp0QUxYYkxIcmZsQWJOUU5KU0dWbkpRMnNNbWNFc2RiVzh0Z2M4NlN2czF1Y0EzckJ5SjNvbkxyd21CVUJuSkNCLUU4U2lBbHlEYzFEMENBQ21BZUYtZnlMaTdlbHBBVlpoN2ZpUXF6Mzl6V1IzZ2JMZjlNQm1nblZUd1FFMG8zcEV4TzV3VW5RZzg5R2dqUkJmaVVab2tLdi1XM1RCTU1ZWi1SX1dKZjlHaldtUEpSaEZiVDB5Wjc?oc=5) — See listing (score: 2)
-- [Senior Consultant (Law) Vacancy At Airports Authority Of India (AAI) - Live Law](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdU9tQkdKbWRuVVplUGFzZGNNQTZtMUFDU2ZzRU5LMU05UG9sU3VLNlpjRlVmN05QeXhKeWJlcS1yUVdqWjFpejI2TTlTczNIcFg4Z0pMbXpFWmZfandMSkhqU3JzNllPa19wQldTQmNTTW8zdUJWRXlFTmJUazdobVhXN08ybmlDUEdJeFVxUzFKZWphSkNta3N3RGd0MVZPLVh2NDBsQWxmd9IBrwFBVV95cUxNS0NmcUsxcXNVVnRQdDF3QTE4Sll4cmxTUElaOEhLM0ZoUTNJM2JkWWVieHRncURoZUVTZ2gzM2pLQzRWN2luYXd5Q3V6b2hna3VWSGdTUHI0Z0k2M2Rjc1I2RFJGd3c5ZnJrQWFEY3NtMlJfNWliTnhpZE1tdERFS2ViOWZjai1vTHc5dW9ZNElrNmVDYm5BRng4SXVQTkEzY2lwdU1PWnh2VE43a3dF?oc=5) — See listing (score: 3)
-- [Dental Student Suicide: Kerala Court Denies Pre-Arrest Bail To Accused College Principal, Associate... - Live Law](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb3dBdzVKTzRnaUhJTkRib3lnOThlcU9MWWJZZWZMdDJBWUIzUXZXdFljRXZ3bzlKYm00V0hsT3VsVkJGZUNCcU1PQWhkQVJHbHhJblk0Qzg2T29TWXJhdGRBTndoZXZnMHVDTVByZXRLVlRFMW13NXJfb0hvQV90VTdtSnZnbUNaUlVR0gGQAUFVX3lxTE03Uld5UEZhMGQxVUtLWFRWdDBNSjNDVlNQMzFtOUZOUGR3WkNwVGJGQ3k3NmJYWTRCckhjRGxGekpEY2wzNUJnZnR4MUpKZnhKQWRQVW5RU2FNTEVUNjBsaDc4bnFBOEZyNFJmRV9VWHB2REZZVG5ZTGNhRFJlWExCUjZyUWVBUDVTY1NIQ2h4UQ?oc=5) — See listing (score: 0)
-- [Associate (Coordination) Vacancy At National Law University Delhi (NLUD) - Live Law](https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1hHMGIxQ1lncHBTak4zM2hmNFJ1aEZ2elFyOVFUcmdsLW5kT2g4TFJCWHBLZE4xYWdWLTZaeUhsYU5lcFBBSnBOZ2NEVEdkUlVJRmVMa2prazRZVmRGVDAzRF9XcElGdUkzQXhzTlJMdFZoTHZZV1pRM2Y5MUpqR25WWlpaSUQxYzZya19ON19OUjFWZG5uUks1RlNkRWMtZmFOWEdtNWpZYmRzV25z0gG0AUFVX3lxTE5HMFI4aW85aVRkWWh3aXo0Ynh6dWJua0FBSkdhbFhaaGRUdWNtTU5WVzZSN0YyYU1LYzY3WGNyZG92Wmp1YkplcUI4WjE5U3BuRVJJdVFUVDJUODFiaHJXYjkyMlFnbjZ0cGJXMzZwTndjcUVtNE93d2VhRjE1dV9uT0pOVGlPZFpZaXZPd0hhVmFCaUlqd09aQkRoSEpxNzU1T3B2eTY3bzJrZWUyQTVVaTJGaQ?oc=5) — See listing (score: 2)
-- [Sagus Legal Onboards 11 Professionals, Including Two Principal Associates - Live Law](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkgtaDVGOUU1NG9CYkZJM2tEakZUVzd3Y0dxWEpFeFVsdmlaVzd6RUtZbFNhVDQ0U2E0RnJ0M1ZSdm5qMFlKTUk4YXhHY3JpMEdaTGE0MEw0TXlFSjNNTXZRc2lGcGd2NWFURGVfR21ra003VHdRVHo1V05haEtTSmVGVzN4UjkwSVVEdUFtU3pxWEdtNy1sOURWaTBGZE9VdlpUNHlweGtoQkUxeEtGbFhfd201QlgxUjFGQUE5T2FtNmp4eDJrX29uMTN6NGRIQ1M4cw?oc=5) — See listing (score: 0)
+- [Influencer Marketing](https://internshala.com/internship/detail/influencer-marketing-internship-in-multiple-locations-at-adz-meta-solutions-private-limited1793092714) — Adz Meta Solutions Private Limited (score: 4)
+- [Apparel Merchandising](https://internshala.com/internship/detail/apparel-merchandising-internship-in-gurgaon-at-asmara-apparels-india-private-limited1793163178) — Asmara Apparels India Private Limited (score: 3)
+- [JOB POST: Senior Associate at INDIALAW LLP, Multiple Locations [5 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-senior-associate-real-estate-due-diligence-at-indialaw-llp-multiple-locations/) — See listing (score: 2)
+- [JOB POST: Associate – Corporate at Tempus Law Associates, Hyderabad [2+ PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-associate-corporate-at-tempus-law-associates-hyderabad-2026/) — See listing (score: 4)
+- [JOB POST: Senior Associates at Mansukhlal Hiralal & Co, Mumbai [5 – 6 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-senior-associates-mansukhlal-hiralal-co-2026/) — See listing (score: 2)
+- [JOB POST: Litigation Team Member – IPR at Sagar Chandra & Associates, Delhi [0 – 2 PQE; Offline]: Apply Now!](https://www.lawctopus.com/job-post-litigation-team-member-ipr-at-sagar-chandra-associates-delhi-2026/) — See listing (score: 3)
+- [CfP: One-Day National Conference on “Contemporary Legal Challenges and Judicial Responses” by RNB Global University, Bikaner [Nov 6; Online]: Submit by Nov 4](https://www.lawctopus.com/cfp-conference-contemporary-legal-challenges-judicial-responses-by-rnb-global-university/) — See listing (score: 4)
+- [Research Scholar Vacancy At Rajasthan State Judicial Academy - Live Law](https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1ZGN1dteXBhelVoaVI0b3RLQURhaEkyWUxUQVlWRzVnWkJHOFpLbjZ6MlhSbGRHVTJ5aHp4QzBYM0VmUDJzZEI3NTdJR2JXbUpHUXVSRDBqaDlEenFueXFGbVktdUcwSkpZaW9oMUJNZWZ1NmluZ0N3QWNPOThFZlF4QWgxaklUUF9oVS1jemhSRFViV0ozOTZkTUlVem5nQ3RCeNIBqgFBVV95cUxNaGtEWjhEaFR6YnlIMUlHSldxVTRwTkdWclhXa3lsUDdVVHJvTHlidllNR2RtLWpCTUc5Zlo2dnpGQVB3RE9aUmJEZ091eDVndzNqa1NSeHU3ZlBudktxR3hlN1ZjNmNjcU9PZGc2SjN3NGFMMUFEMFFLUmlKbUd5WEpDbGl0ZF83a0JTUjRCYXRHR2xtd0VVLWZZS1Z5OTN5TEQxVHFoYWhQZw?oc=5) — See listing (score: 1)
+- [Consultant (Placement & Career Development) Vacancy At National Law University, Delhi - Live Law](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1BqZmdPUlFWajYxcVY4RndYRDZvYklxbDZvNExZd1ZYWkRUVlljbjg5azkyNG5JMmFlWU43LUc4elF5UFhEUEZ2TGlYZ3hndkpNd0dPQkliV0FXOEh3UWZqcjhNb2JiaVZMUzVqT1ctNWd2T2ZkbDE1LWpzZ1NZdVU2QUJrNEYwQTQzeWxrbmE3ZXFkUFF1S2lERnpwa19JeHBLOVFVOWNGVThtQy1WUnI2MTVoa041YVRyNmJ2Z9IBxAFBVV95cUxONEpPbGY0d093R05aNEpNLUpHbmFOSU53SUFtZi1SaTg1ZzhpT0FiTWFvT0FPeFBIOEtDbXFhc3lnWG1HVFN1dEpwTG42OElOajFDUEhjV3VPWlh0UC1GdUgwODNUTzNBNVFteWdHOWlkQTJFdmk2WTJsQVFwWHFwT3lQQ3RRTmNqLTlHaTFqcDJXcDBiZHpYUzR5Q1FqOUlFYWpwTTZvVmR4TS1xVU4xT3BrUllVRjYwU0xuZGNHdVIzZ2RJ?oc=5) — See listing (score: 0)
+- [Professor (Law) And Associate Professor (Law) Vacancy At National Law School Of India University (NLSIU) - Live Law](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDRQU0lEeC1KVlBmNUh1aHE3Y1JmaHhoNGRYY2FtQkxWekZJVnRSSWp3N3FCV1A4a3ZfcE1CMWpTWWdtYW9CVnRlMTNqUlNJcGxwQ0V0S19qeGF4ZlptemhnaWhMdkpvV2phbTlsWkZDbFJnZkRfX0xWdTZhcWFNM0dOcjU5eUV5bmZUT21wUl9Bbmo1eHVCZnMxRTNiZkhVVGphdlB1Q0dzWEpaaERFazJZZk50OFFyWXJReDZwaGpvSmxBdFBMVFNPUjFCeWI5TTNRWTRhQdIB3AFBVV95cUxQVThSR2paYXpjbmMwLWpUaWxMOWJVS0trakVnSnNoOHE3UUFhN0hLZWxuYlhrNEtLNkEzVDlFYV96STN3NTBPX2hTaXk4VzFldG1SYnNlV05XN2xPSVJ3RGIwTDQ2MVRnbWZVajRsUmZnT01va3pxV3JNNXh6LW5VSl9sUi0yWlZBU3RTLVBCTnd1dHlubWNZM2h0UDI3RHowWjJ6LVFFNzM5djduT09JQlVpM3pXUGF3M0JSaHFHeWloT0tpR1lrMjlNUE1teGdMMzZTOGxmQUlrN29G?oc=5) — See listing (score: 0)
 
 </details>
