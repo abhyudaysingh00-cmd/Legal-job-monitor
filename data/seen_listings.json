@@ -1,132 +1,4 @@
 {
-  "304c4fda13b88a6b": {
-    "first_seen": "2026-09-01T08:21:19.005067+00:00",
-    "title": "Sales and Marketing"
-  },
-  "7a40440482131b24": {
-    "first_seen": "2026-09-01T08:21:19.005084+00:00",
-    "title": "Business Growth & Strategy"
-  },
-  "84d434f1ece808d7": {
-    "first_seen": "2026-09-01T08:21:19.005093+00:00",
-    "title": "Software Testing"
-  },
-  "b656105557384e7b": {
-    "first_seen": "2026-09-01T08:21:19.005098+00:00",
-    "title": "Talent Acquisition"
-  },
-  "b7979fef9adb368a": {
-    "first_seen": "2026-09-01T08:21:19.005133+00:00",
-    "title": "Law/Legal"
-  },
-  "0af6a6b3ef964ae0": {
-    "first_seen": "2026-09-01T08:21:19.005137+00:00",
-    "title": "Legal Research"
-  },
-  "4f00d0f79ac49460": {
-    "first_seen": "2026-09-01T08:21:19.005148+00:00",
-    "title": "Law/Legal"
-  },
-  "f2b5858470cd79ec": {
-    "first_seen": "2026-09-01T08:21:19.005154+00:00",
-    "title": "Law/Legal"
-  },
-  "7afeaeed223ba7bb": {
-    "first_seen": "2026-09-01T08:21:19.005158+00:00",
-    "title": "Law/Legal"
-  },
-  "3e9f20caa2a78106": {
-    "first_seen": "2026-09-01T08:21:19.005219+00:00",
-    "title": "Accounts"
-  },
-  "ee96df6e5fcb66ad": {
-    "first_seen": "2026-09-01T08:21:19.005228+00:00",
-    "title": "Finance"
-  },
-  "00d1357220e80b7c": {
-    "first_seen": "2026-09-01T08:21:19.005311+00:00",
-    "title": "Call for Abstracts: International Conference on International Arbitration at HNLU Raipur [Oct 10 – 11]: Register by Sept 15"
-  },
-  "39ed7f32ff721a06": {
-    "first_seen": "2026-09-01T08:21:19.005314+00:00",
-    "title": "NITI Aayog Internship 2026, New Delhi [Sept; 6 Weeks]: Apply by Sept 10"
-  },
-  "2c762039e66c4346": {
-    "first_seen": "2026-09-01T08:21:19.005317+00:00",
-    "title": "CfP: Indian Journal of Law and Legal Research (IJLLR) [Vol. 8, Issue 4] | PIF: 7.142 |DOI | Manupatra, HeinOnline & Google Scholar Indexed | Harvard & Other International Libraries: Submit by Sep 4"
-  },
-  "7766590730699db3": {
-    "first_seen": "2026-09-01T08:21:19.005323+00:00",
-    "title": "Internship Opportunity at Saar Legal Associates, Delhi [1 Month; Offline]: Apply Now!"
-  },
-  "85b674bd524e1cd4": {
-    "first_seen": "2026-09-01T08:21:19.005327+00:00",
-    "title": "2 Month Long Online Certificate Course on Legal Research and Writing by LLS [Sept 1 – Oct 31]: Register by Sept 2; Start Writing Publishable Papers"
-  },
-  "42c6a740f63d220d": {
-    "first_seen": "2026-09-01T08:21:19.005331+00:00",
-    "title": "Internship Opportunity by Jindal Policy Research Lab [6 Months; Remote]: Apply by Sept 7"
-  },
-  "be091646858bb748": {
-    "first_seen": "2026-09-01T08:21:19.005335+00:00",
-    "title": "JOB POST: Associate at Fair & Just Legal Solutions LLP, Noida [0 – 2 PQE; Offline]: Apply Now!"
-  },
-  "234b063b79c212b7": {
-    "first_seen": "2026-09-01T08:21:19.005338+00:00",
-    "title": "Internship Opportunity at Acupro Consulting, Gurgaon [Offline]: Apply Now!"
-  },
-  "6c21804a1eb8ff75": {
-    "first_seen": "2026-09-01T08:21:19.005342+00:00",
-    "title": "JOB POST: Associate & Senior Associate at AP & Partners, Gurugram [1 – 6 PQE; Offline]: Apply Now!"
-  },
-  "fe8f62de30e03966": {
-    "first_seen": "2026-09-01T08:21:19.005346+00:00",
-    "title": "Call for Blogs by Society of International Law and Policy (SILP), West Bengal National University of Juridical Sciences (NUJS), Kolkata: Submit Now!"
-  },
-  "0819a63c84b59b4c": {
-    "first_seen": "2026-09-01T08:21:19.005361+00:00",
-    "title": "TRD Associates advises Ravin Group on acquisition of Cable Corporation of India"
-  },
-  "a628bf86e6a869dd": {
-    "first_seen": "2026-09-01T08:21:19.005365+00:00",
-    "title": "Rajani Associates advises Genesys International Corp on ₹125 crore rights issue"
-  },
-  "ee86a22867efd0d3": {
-    "first_seen": "2026-09-01T08:21:19.005368+00:00",
-    "title": "Manager Vacancy At Tata Steel Limited - Live Law"
-  },
-  "d1a2faae3e825457": {
-    "first_seen": "2026-09-01T08:21:19.005372+00:00",
-    "title": "Senior Manager (Law), Manager (Law), And Manager (Company Secretary) Vacancy At Nainital Bank Limited - Live Law"
-  },
-  "07ce1420be9384c5": {
-    "first_seen": "2026-09-01T08:21:19.005376+00:00",
-    "title": "Assistant Manager (Legal) Vacancy At Andhra Pradesh Capital Region Development Authority, Amaravati - Live Law"
-  },
-  "502178e42f98fd8e": {
-    "first_seen": "2026-09-01T08:21:19.005379+00:00",
-    "title": "Senior Executive (Corporate Legal) Vacancy At Godrej Industries Group - Live Law"
-  },
-  "ba1e324e75cee6a4": {
-    "first_seen": "2026-09-01T08:21:19.005393+00:00",
-    "title": "Call For Applications: Research Associate At National Law University, Delhi - Live Law"
-  },
-  "06e4129e6d2e76bc": {
-    "first_seen": "2026-09-01T08:21:19.005397+00:00",
-    "title": "Call For Applications: Research Associate At National Law School Of India University (NLSIU) - Live Law"
-  },
-  "079ec1feaac2da72": {
-    "first_seen": "2026-09-01T08:21:19.005400+00:00",
-    "title": "Manager (HRM Legal) Vacancy At Tata Steel Limited [Apply Now] - Live Law"
-  },
-  "53e6e205c8936e7f": {
-    "first_seen": "2026-09-01T08:21:19.005413+00:00",
-    "title": "S&R Associates advises Tempsens Instruments on INR 6.50 Billion IPO"
-  },
-  "a46aef0ec2bb75a8": {
-    "first_seen": "2026-09-01T08:21:19.005416+00:00",
-    "title": "Singapore Convention Week 2026: Experts explore India’s renewable energy investments, risk allocation and cross-border opportunities"
-  },
   "d0b9d34c8c893999": {
     "first_seen": "2026-09-02T07:40:57.004686+00:00",
     "title": "Corporate Sales"
@@ -7014,5 +6886,105 @@
   "de996f5335899ec2": {
     "first_seen": "2026-10-30T09:40:33.163954+00:00",
     "title": "Opportunities for Flexible Legal Talent"
+  },
+  "e8d3530b83b28d3a": {
+    "first_seen": "2026-10-31T09:19:59.958471+00:00",
+    "title": "General Management"
+  },
+  "dc1e87bae4da7b4e": {
+    "first_seen": "2026-10-31T09:19:59.958527+00:00",
+    "title": "Legal Research"
+  },
+  "b790229280a17344": {
+    "first_seen": "2026-10-31T09:19:59.958546+00:00",
+    "title": "Effectiveness Of Fast-Track Courts In Reducing Case Pendency In India"
+  },
+  "492e99e14d693f41": {
+    "first_seen": "2026-10-31T09:19:59.958551+00:00",
+    "title": "Research In Law"
+  },
+  "d8fab7e5c040e0e4": {
+    "first_seen": "2026-10-31T09:19:59.958624+00:00",
+    "title": "Growth Marketing"
+  },
+  "7f401ced69822880": {
+    "first_seen": "2026-10-31T09:19:59.958633+00:00",
+    "title": "Financial Analysis & Scrutiny"
+  },
+  "285982bdee6325c6": {
+    "first_seen": "2026-10-31T09:19:59.958705+00:00",
+    "title": "Internship Opportunity at ASPA Legal, New Delhi [November 2026]: Apply Now!"
+  },
+  "19c5f311ddd97d0a": {
+    "first_seen": "2026-10-31T09:19:59.958709+00:00",
+    "title": "JOB POST: Associate & Interns at BDN Chambers, Chennai [Offline]: Apply Now!"
+  },
+  "aba15e7f1c625aa8": {
+    "first_seen": "2026-10-31T09:19:59.958712+00:00",
+    "title": "JOB POST: Associate Partner at Sharma & Sharma, Delhi [10 PQE; Offline]: Apply Now!"
+  },
+  "463f006fb0b076f9": {
+    "first_seen": "2026-10-31T09:19:59.958715+00:00",
+    "title": "Internship Opportunity at MSA Partners, Chennai [Offline]: Apply Now!"
+  },
+  "8c25a960d8f99266": {
+    "first_seen": "2026-10-31T09:19:59.958718+00:00",
+    "title": "JOB POST: Legal Associate at Swaniti Global, Delhi [2 -3 PQE; Offline]: Apply Now!"
+  },
+  "d0152fe2515f8f6c": {
+    "first_seen": "2026-10-31T09:19:59.958722+00:00",
+    "title": "JOB POST: Junior Associate at Corpresc Legal, Gurugram [2 PQE; Offline]: Apply Now!"
+  },
+  "07a208a3bf179ac9": {
+    "first_seen": "2026-10-31T09:19:59.958729+00:00",
+    "title": "JOB POST: Multiple Positions at The Law Chambers of Mr Gaurav Bhatia, Delhi [5 – 10 PQE; Offline]: Apply Now!"
+  },
+  "1d0faf0fde3e5508": {
+    "first_seen": "2026-10-31T09:19:59.958733+00:00",
+    "title": "JOB POST: Senior Associate at Maheshwari & Co., Delhi [4 – 5 PQE; Offline]: Apply Now!"
+  },
+  "82194fa01c8e93cb": {
+    "first_seen": "2026-10-31T09:19:59.958736+00:00",
+    "title": "JOB POST: Associate at Alba Law Offices, Delhi [3 – 4 PQE; Offline]: Apply Now!"
+  },
+  "a6380c1386eddd11": {
+    "first_seen": "2026-10-31T09:19:59.958740+00:00",
+    "title": "JOB POST: Research Associate at National Law University Jodhpur [Stipend of Rs. 40k; Remote]: Apply by Oct 31"
+  },
+  "66ada2710f569ae9": {
+    "first_seen": "2026-10-31T09:19:59.958752+00:00",
+    "title": "Kashmir law student lands Trilegal internship after his case management platform wins at hackathon"
+  },
+  "449e7676f14875ad": {
+    "first_seen": "2026-10-31T09:19:59.958755+00:00",
+    "title": "AZB & Partners, S&R Associates, Hogan Lovells Cadwalader acts on Paras Hospitals ₹1,450 crore IPO"
+  },
+  "40ac8dc815657e31": {
+    "first_seen": "2026-10-31T09:19:59.958759+00:00",
+    "title": "Rajani Associates acts on Ravita Engineering Services ₹116 crore IPO"
+  },
+  "13b4665813cdf0ba": {
+    "first_seen": "2026-10-31T09:19:59.958763+00:00",
+    "title": "UGC Regulations | Will Time Spent On PhD Count As 'Teaching Experience' For Associate Professor Post?... - Live Law"
+  },
+  "9d14399ca8e40767": {
+    "first_seen": "2026-10-31T09:19:59.958767+00:00",
+    "title": "Supreme Court Refuses To Entertain Challenge To Casual Vacancy Election In Punjab &Haryana Bar Council - Live Law"
+  },
+  "cad21409bd719e6e": {
+    "first_seen": "2026-10-31T09:19:59.958770+00:00",
+    "title": "Manager (Legal-Contracts) Vacancy At Deloitte Touche Tohmatsu India LLP - Live Law"
+  },
+  "3849f54c2d372547": {
+    "first_seen": "2026-10-31T09:19:59.958782+00:00",
+    "title": "Consultant (Placement & Career Development) Vacancy At National Law University, Delhi - Live Law"
+  },
+  "033f22e82cbc12d4": {
+    "first_seen": "2026-10-31T09:19:59.958789+00:00",
+    "title": "Read all Latest Updates on and about Associate Professor - Live Law Hindi"
+  },
+  "5adc4e9469a614b8": {
+    "first_seen": "2026-10-31T09:19:59.958792+00:00",
+    "title": "Read all Latest Updates on and about Casual Vacancy - Live Law Hindi"
   }
 }
