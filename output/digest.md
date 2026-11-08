@@ -1,87 +1,37 @@
-# Legal Job Digest — 2026-11-07
+# Legal Job Digest — 2026-11-08
 
-<details><summary>⚠ 2 issue(s) this run — click to expand</summary>
+<details><summary>⚠ 1 issue(s) this run — click to expand</summary>
 
-- **Firm: Trilegal:** career page fetch failed after retries
-- **Scoring:** batch 0 failed on all providers: 'NoneType' object has no attribute 'strip'
+- **Bar and Bench:** feed returned 0 items — feed URL may have moved
 
 </details>
 
-## ⚠ 15 listing(s) need manual review (scoring failed)
+**2 relevant new listing(s) found.**
 
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-bangalore-at-business-setup-worldwide1793968014)
-- **Company:** Business Setup Worldwide
-- **Source:** Internshala (legal)
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [Sales & Finance](https://internshala.com/internship/detail/sales-finance-internship-in-jaipur-at-finanvita-india-private-limited1791767936)
-- **Company:** FINANVITA INDIA PRIVATE LIMITED
-- **Source:** Internshala (corporate-law)
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [Accounts Manager](https://internshala.com/internship/detail/accounts-manager-internship-in-bhopal-at-sushila-foundation1793193914)
-- **Company:** Sushila Foundation
-- **Source:** Internshala (corporate-law)
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [Finance](https://internshala.com/internship/detail/finance-internship-in-bangalore-at-fediblein1793707679)
-- **Company:** Fedible.in
-- **Source:** Internshala (corporate-law)
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-jaipur-at-law-samadhan1793961723)
-- **Company:** Law Samadhan
-- **Source:** Internshala (law)
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [Academic Sales](https://internshala.com/internship/detail/academic-sales-internship-in-indore-at-lawsikho1791879838)
-- **Company:** LawSikho
-- **Source:** Internshala (company-secretary)
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [CfP: International Journal of Law Mgmt & Humanities [Vol 9, Issue 6] |Free CROSSREF DOI | HeinOnline, Manupatra, Google Scholar | 1k+Libraries (Harvard, Oxford) | IF 7.010 | Submit by Nov 13](https://www.lawctopus.com/cfp-international-journal-of-law-mgmt-humanities-vol-9-issue-6/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [Internship Opportunity at Centre for Child Rights (CCR), NUSRL, Ranchi [Offline; Field-Based; 1 Month; Dec 1 – 30]: Apply by Nov 20](https://www.lawctopus.com/internship-opportunity-at-centre-for-child-rights-ccr-nusrl-ranchi/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [JOB POST: Associate at Chambers of a Senior Advocate, Punjab and Haryana High Court, Chandigarh: Apply Now!](https://www.lawctopus.com/job-post-associate-at-chambers-of-a-senior-advocate-punjab-and-haryana-high-court/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [CfP: Two-Day International Workshop-cum-Seminar on Algorithmic Justice and the Rule of Law by Amity Law School, Kolkata [Hybrid; Nov 17 – 18]: Submit by Nov 8](https://www.lawctopus.com/cfp-international-workshop-cum-seminar-algorithmic-justice-rule-of-law-by-amity/)
-- **Company:** See listing
-- **Source:** Lawctopus
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
-
-### [Placement Agency Hiring No Ground To Deny Minimum Pay Scale To Class-IV Employees: Rajasthan High Court - Live Law](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWEyY3NZSnJ6YUdNWXhKUkFGb2NVTkFoVUZRZ3ZNUkJCQzBiWG5YdUNZMUMwNm9wQmJuaGNZdmRwUmY3blRLZHdrM1NIZWZJbjY0SWRLYTVNenFBZXB0TzhuOFBHWTZzdmszb0hJdmR0TTlzM1RzWW83SlpRTlNHNnJHUGpCYk5lbExKUTJoTlVWc0JiS3I1VFVYU1A5LVJOTXNkUllBeDY2ZG04dGpyb0FzOUlsem9tc3h1SnAwWGEtWUkxY09EWHAxQndGdXFJaUxoVVBzMHhHUThNTjdYb0JvRjDSAeoBQVVfeXFMUHRHY1d2ekFvdUlwbGV5azBSemtfOWQxQU9ZYUdhdVVwRmlLNWVZMkRfWW1tWi1LYTFOSHUtNkQ4U2xTeW5yNXc5dFdweWhzYmNYalJwYnJaUjhlU1BRQWlrLWMzYUFxODBJaEFRNVZLSk1fbjBtVlkwbmxHZU9yaktDQk1Id0cxV0s3dVJibWd6dnk0c0VnWHJLOUJNMWlqYmhZdTY4U3pYb2JiRUZDZ0ZBbFJwNHA1Y2xUaXh4dDQ0dlhIMFBXS3VUTzhLeHRWVjVFWmx4alVjbC1heFNWZlhraUVfVTRxZURn?oc=5)
+### [Associate Vacancy At Karanjawala & Co - Live Law](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGl6UktNU1pwWlU3ZVc3TTUzT1Jva0JJelZOSl9qTFVGWnROaFJqSVdBckc3eDhtSU16bmxsajNZNExaRGdfRkk3a1FRZVBoaU80WmpCMmI1dERib1JkcUUyX1U5cXZWTjNVbk5iMnZ4cmFieVVHdmRjMzVLbHQ0aUhDY0xEQkNCVVpkWHN4TVFib3FnVEEyR3Q3a9IBoAFBVV95cUxPNGhFZmI3Y1dnSUVCcDZZVjJKV2lCSE8yLTdKMzYzaDZRc1hyUG96dlZKekc5ckYyU2VLZ3d2UlgzTTBhSDAzQUxQdTlIUFlBbHQyREhBNmFGd2t1N1VReFNzd2g3TjV4MXZRUlZySGhhcVZBdThWQXBPcE5DYTJiUnBOQ0hPQW83YUJ1aU1MSGNjQk9GTGEwQVhYRUFGSWJT?oc=5)
 - **Company:** See listing
 - **Source:** LiveLaw
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+- **Fit score:** 6/10
+- **Why:** Karanjawala & Co is a reputed firm with corporate/commercial practice, but Delhi-based and likely litigation-heavy; remote/hybrid unclear.
 
-### [Consultant (Legal) Vacancy At Jawaharlal Institute Of Postgraduate Medical Education And Research - Live Law](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObEF2bS1IbW90RU14WDhLZE1qSV96VW81WmJOUW1hUGxubVJNbG9uT1ZnU2FsMk9ZTTJMWFVTSkZKSFV1eXJnblZqQW85U1JrU2pSNVZfS1ZVakV4blhJcHZwWWxwTWFnY2h4V2FIdl91ODFYWTRCUnVvWUZscy1OUm5IdkEtN1pPN1Z6bkt4TlpQdkV0UlhWZ1luMWhueWhLVG9zUVpkaHZ6UXFCV2p0Z1lMRzZWOGlwWm1jRTFEbDBSZHlwZmo1VU1IaV8zVjlObU840gHYAUFVX3lxTE1vek5ZV1hlZVgzSC1vdkExcVNsdDFKRy16eVNlYnJnbnBleTY4T2dudGhpalRYVnlTMy16d1ZwcjJ0aVRGNW93b1NsTmxhenQ1c25YaEpqMGJxTGx6NW5iSDQxbGNzNUV4OW4wOUN1VmYxeTZTTFFab3JCYmVIVDM0ZXh6YngzQWNhcGNpemxOeE5MbUcyVFo4a1AzZlE0dHBaOXFvUGlGdTFNLTcyanh2TkNiMGpLZ2dHMEdXQTJsOTloWWtqcGdRVmZaVDNuenBmMWlKTEdJNg?oc=5)
+### [Professional Intern (Legal) Vacancy At V.O. Chidambaranar Port Authority - Live Law](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEh0ajEteF9UcGVoVEdmWmhaVl9lRnZHNEI4SkxHRGx4RXNhdlprc2VFZkRRTDZ5eFNUeE9BNVpITFBmcW5RV1BVT2pQSkRkR3pON1NINmtuN2NFNTNrVnZSSVNfNGRqNVMyRUdWRWdMMW56SDdhX1RiYzVzeVU1UkNubTdsZVRFUUhDTUpkeGg4a21wNVprX0dyT25SVzdIaTlyRGEzaGp0cmpmU1ZV0gG0AUFVX3lxTE5hdXFxUzJtOHpVSXB0YUpiaHR0RXE4NldyTWtTdG1PU2FwRE5VSXV4Q1hfNjVmLUJkY2V2MnMtVzgxc3VsN195UHBGWTk0N0JKalV2RGU4WkFiMmVjX1VuWWdDRFRFSlNHNWx6TmROaDRYWlppT0R0QXp5eGxFeFJqZmNTZVUwV0FyZkZrNEVPSmRxQlAxRnRpV2I1dS1yb1NTX2xyajcyMXNHRXE1am9iUjhMcQ?oc=5)
 - **Company:** See listing
 - **Source:** LiveLaw
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+- **Fit score:** 5/10
+- **Why:** Port Authority legal intern could offer commercial contract exposure but is on-site in Tamil Nadu, not remote-friendly.
 
-### [Manager (Law) And Assistant Manager (Law) Vacancy At Tamilnad Mercantile Bank Limited - Live Law](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0JhSlBVQVZzREw1NlVzajkwd1BaYkdqc0VtdG83T2V1Si1rU0xaNl96N05KRjRtbkkyOV9TLWhyaGw0bjdoQ29GWkhST1dFWXNhWWV4YUIya0o2ZXVyenFXb0VsUDlGQ0pEbk9HVzc4LVdrOUpZMzc5b3FVZjVGcWpyOEcwLVJjdGs2dHB2cUhESVE0QmpUT1Vhb1RWUEhQRFgzMTdTdk1NUFlrdjMwN0k0M0o4UHUxUVRUR0ZMUEbSAcYBQVVfeXFMTnZ2M0FGVkJCZlZKbjRVbDhUOFBSNWhjWndWMEh1ZFkxc29RRUE4UVhNTmF3RGVub0J2MHAyeWQzOEtoVmtySlV5RlFhM2dIcXN2WEl3bFpVVHRPTW1KSnpIMWFFX2hIb1ZsY2xqMTNIUTZLR2VobTZNaDF0MHdfNmhyVGQ1bjNuMXFSbFUwZHl1SF9UeUd2TkRIUHBMZUZwa1VCNnV6d3Y5RFd0M1U0RUNYTW5kVFlPU3JvTjQtTjlrYVozX3NR?oc=5)
-- **Company:** See listing
-- **Source:** LiveLaw
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
 
-### [Engagement Of Apprentices At Indian Railway Construction International Limited - Live Law](https://news.google.com/rss/articles/CBMivAFBVV95cUxPejhFVnlKdU0wUzZZQWUtN2ZYUWpsVGpiRktKenV4ejN4aDVFWXdCUzAwZzJMVHFvUFZsVEJyV3A3Ny0zelRzMDFXYlR1YnVtUXVkNnJoV0IxbnIzTmlnMFc0dWVVODFkRDZkcUFkMFZwLXhoUE1DMnlhTHNydnN6TlNxUHVEUEJhZGtYWXBrdEV3WVg2MXRjWklNWUNCcmhHdnQ2b3ptV0NyVnd1N0wwSldjWVZwVnh2bWVTUtIBwgFBVV95cUxQMm9nb3VRVHB5RFlmU0liOUUzcjlvV09XSUttUUNjQlEzUVJKQmNtc1BfWkx2bmFNdm1TUGNJVk0zQXJyUkZnVm84TzYwM085QWhGS1kxVGVsVUx6a0syVXJyOGFmSkVFYU1ndUxhdkpYMGFYeVdnQmV1SzFBbHR3NzlWdmJyWGxuRjlsOURuSzhOeGFYdThHUnVFUDcyVnlGMHdxRktQamZ2N2JRR1RVM3RmbkllTzZxWE5sWmUxeHBIQQ?oc=5)
-- **Company:** See listing
-- **Source:** LiveLaw
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+<details><summary>10 lower-relevance listings (click to expand)</summary>
 
-### [[Advertisement] 6 Weeks Course For UPSC Combined Recruitment Test: Law (Delhi APP And Other Combined... - Live Law](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQy1vYkljM1ZmbU85Wm1aVVhMa2tVdWFDTmxLempVTUt5SmNDaGswMExMTTVfMjZZV3ZlVUhLdE1RRUw0WWZLc09pN25UNnFjRDV6YTY3Y19mTnNlWlFqTHVDRC1SZE1oaDdMdlhWVVhqUGpvMEtQZnZJTFM0bzdkNmtFa2NrdVdFamhPaUdiclZ3UFlZWWtXcld2MW9WeHpLN2xQOEpBSEJUUFBpOXI5OFpPNm56bHZPTHRBNzFfTFdjTC1ObUpWMTRBUVFHYzFRVHppOHAzWS1HTzdSOENvQWJn0gHnAUFVX3lxTE9CVzc5c3B4SHRscFpaMHJGeERaTFBnQ2tFOGlTc2hlVjN3NXhDd1BabS1MUVRpVWk5ODFORE5KY3RPQnRVV1pUVktfWF91OWJvcjB3TXFISXpuSGtjMEwzUTZlaG5VelZLLUdVZUlJVTB4Y0puYU5FSlJQVHpoU2pvVmpHcGZGWWJXeW9id3hJdWU1bi1vWC1GWmdQMFo0aUVTSXpjSVVjay1OVThwcDh2c3pIVnI1dExQcFpCTFJIVG5pUHBhdDltaldQaXZHZVRKRFZTQnd3Sk05UlFkZ1RVUmxrRE1xcw?oc=5)
-- **Company:** See listing
-- **Source:** LiveLaw
-- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+- [Finance](https://internshala.com/internship/detail/finance-internship-in-mumbai-at-dalmia-wealth-private-limited1793370909) — Dalmia Wealth Private Limited (score: 2)
+- [Chartered Accountancy (CA)](https://internshala.com/internship/detail/chartered-accountancy-ca-internship-in-kolkata-at-orion-corporate-alliance-private-limited1791975191) — Orion Corporate Alliance Private Limited (score: 1)
+- [Sales](https://internshala.com/internship/detail/work-from-home-part-time-sales-internship-at-ytmovers1793245410) — YTMovers (score: 0)
+- [Full Stack Development](https://internshala.com/internship/detail/work-from-home-part-time-full-stack-development-internship-at-basti-ki-pathshala-foundation1793968157) — Basti Ki Pathshala Foundation (score: 0)
+- [HR & Admin](https://internshala.com/internship/detail/hr-admin-internship-in-multiple-locations-at-radhakrishna-agro-industries-private-limited1793102745) — Radhakrishna Agro Industries Private Limited (score: 0)
+- [Fundraising](https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-she-can-foundation1793962901) — She Can Foundation (score: 2)
+- [Associate Vacancy At High Court Of Judicature At Bombay - Live Law](https://news.google.com/rss/articles/CBMingFBVV95cUxOQkpTeE5jZ0dDVldFcEp4d2xwSm9SZ2VaSHllbEJ1RGpIMElDMEw1cVhNNFAtWkk0allyRzRPbGkzQ1YwRThBTmRzcjRJTG9CV3UtblVfZWliME1tSzJtbXFsODNfRFVyQ1ZaQjdlRWY2OGY0X0lobHRCdlUwMUhlU0pSa2pkTVYxZzZkY3Q5Z2pIWEwwclBYWjUycl9vZ9IBowFBVV95cUxPZUx3U2xEX3F0LUlCWGxla1lqTkgwczVSNjR1SEhIY0RFazdkYm8zbWhjNWRBWUhPWGhYS3Y5YXZFMDBtTmlKdG5vRExfZlZlMUlxa1RJT3Vob0V4Rmk1RE1iSTQ4YXY3RzJCRVdGLXZGVV9rZkZFcTB1OWt4QkloQnlwTG1kRDdTVUIwZjFleTlHWWZrNDhzR2xzSGJoT2pVYU5Z?oc=5) — See listing (score: 2)
+- [Consultant, Associate, And Young Professional Vacancy At Indian Institute Of Foreign Trade (IIFT) - Live Law](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVG9xcTZISjBFc2pfTkd6M3ZVUUZfeWthek5mQU0yMzZXYmVucUVySS1JQmhKcDNoMUg1YzJ1ajlFaXIzb2pkU0dSQ2V1d2xJcFVCOWFQMEtTUFpELVM1TklzVlVDQnFUanlaMTVQZW9XVEtMMlk5d2NnbU95eVptYXFGXzM4d3RBc0FJNUNSZXlLMWJ5YUREM3NOVkNfbEtqdVc1VjZrNk1rbngwc0xpcEJkaGo2eWkyeTdkOV9ONlBWc2Z5dXFaakI5aEwtWUNz0gHWAUFVX3lxTE8yaVVzcllGbG5iWU1mMjc4T0F6SVNoeHFQQ1c4WUFGcWR2STI5bzByNTc1bDNvdXU5emxZSVlURkRyMlZwcUJLODZNaEppeG1MTzIyZjdadUNCX21wbk9pVWgwdWNzLWxIdlVBWkZnejBnT2llVzJTSkxmQVJZNXJBZkZRZkZXQWI1MHd3RGsxWHdhNUI0azhIUkUxR0hic0o5TDc4VEpWRmVUMGtuanZMeEhzUVdmdHEwcVFMSmRrVk9pSXFMQk9sUzBqTHBySmE4cnFMMmc?oc=5) — See listing (score: 4)
+- [Read all Latest Updates on and about Job - Live Law](https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wemxqUnpSTXR5UlFNRms1MFVjWkNZQWtEaXhkTi1sQTB0SVhvSVJKV3FidmVRM2tZNDZEZWRjNGF5bnhHVEE?oc=5) — See listing (score: 0)
+- [Newspaper ads are deemed notice of recruitment, rural residence no excuse for missing deadline: Calcutta HC](https://www.scconline.com/blog/post/2026/11/08/calcutta-hc-newspaper-advertisements-late-application-assistant-teacher-recruitment/) — See listing (score: 0)
 
-No new listings scored above the relevance threshold today.
+</details>
