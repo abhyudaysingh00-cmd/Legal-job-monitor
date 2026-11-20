@@ -1,72 +1,169 @@
-# Legal Job Digest — 2026-11-19
+# Legal Job Digest — 2026-11-20
 
-**6 relevant new listing(s) found.**
+<details><summary>⚠ 2 issue(s) this run — click to expand</summary>
 
-### [Law/Legal](https://internshala.com/internship/detail/work-from-home-law-legal-internship-at-vestralex1795050232)
-- **Company:** Vestralex
+- **Scoring:** batch 0 failed on all providers: 'NoneType' object has no attribute 'strip'
+- **Scoring:** batch 15 failed on all providers: 'NoneType' object has no attribute 'strip'
+
+</details>
+
+## ⚠ 30 listing(s) need manual review (scoring failed)
+
+### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-mumbai-at-gun-rajan-constructions1795164153)
+- **Company:** Gun Rajan Constructions
+- **Source:** Internshala (legal)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Company Secretary (CS)](https://internshala.com/internship/detail/company-secretary-cs-internship-in-ahmedabad-at-mantra-softech-india-private-limited1795084544)
+- **Company:** Mantra Softech India Private Limited
+- **Source:** Internshala (corporate-law)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-delhi-at-supreme-law-chamber1795152671)
+- **Company:** Supreme Law Chamber
 - **Source:** Internshala (legal-research)
-- **Fit score:** 6/10
-- **Why:** A vague Law/Legal role at Vestralex could involve legal research or legaltech-adjacent work relevant to the candidate's TMT/legaltech interest.
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
 
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-chandigarh-at-hpshf-legal-attorneys-international-legal-consultants1795077178)
-- **Company:** HPSHF Legal Attorneys & International Legal Consultants
+### [Law/Legal](https://internshala.com/internship/detail/part-time-law-legal-internship-in-multiple-locations-at-advocate-pukhraj-malhotra1795139783)
+- **Company:** Advocate Pukhraj Malhotra
+- **Source:** Internshala (legal-research)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Legal Assistant](https://internshala.com/internship/detail/legal-assistant-internship-in-mumbai-at-pilgrim1795092266)
+- **Company:** Pilgrim
 - **Source:** Internshala (law)
-- **Fit score:** 6/10
-- **Why:** A Law/Legal role at a legal attorneys and international consultants firm could provide commercial or corporate exposure despite vague listing details.
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
 
-### [Deputy Manager (Law) Vacancy At NPCC Limited - Live Law](https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3BDUzR3TS14ZU5fdGprRHh1dEpWX0pDRUR1Yk5MY2F5X2lWaUt3SFNua0UxNkVCVi1qU2FYdG40aERVVDRtNHVwMGlCelp4dmFtTC0weEFqaG0xc0t2akNYRFhPY0JZSVdmTlBuV2NyaU9YU0N4RUdpZmN1c09ER2p5em0weVpOUzYzSNIBkgFBVV95cUxOUXlsV0tlUmZTM1N4VktEal9WU2U1MGdrVzhLd0tLcG1MaUZtcC1FaXgyM3lMdk5Xa1JSX2pmTHFsV1VBREtSLTlkMGNZdkMxRUpEOVR5S2s1ODlSd3lhbGRnWU1fbHU5dFM2U2JneUVOeU5qaHg3R3hDRUduNnhuVjZCc2JDbWwyeE1VSk9tZGNJZw?oc=5)
+### [Sales And Academic Counseling](https://internshala.com/internship/detail/sales-and-academic-counseling-internship-in-lucknow-at-lucknow-trading-house1794548180)
+- **Company:** LUCKNOW TRADING HOUSE
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Volunteering](https://internshala.com/internship/detail/work-from-home-part-time-volunteering-internship-at-devasya-welfare-foundation1795169605)
+- **Company:** Devasya Welfare Foundation
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Fundraising](https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-devasya-welfare-foundation1795155462)
+- **Company:** Devasya Welfare Foundation
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Data Entry](https://internshala.com/internship/detail/data-entry-internship-in-delhi-at-olive-serviced-apartments1795088374)
+- **Company:** Olive Serviced Apartments
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Omni Sport Advisor](https://internshala.com/internship/detail/omni-sport-advisor-internship-in-bangalore-at-decathlon-sports-india-private-limited1795153482)
+- **Company:** Decathlon Sports India Private Limited
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Talent Acquisition](https://internshala.com/internship/detail/talent-acquisition-internship-in-pune-at-firstcry1795167973)
+- **Company:** FirstCry
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Lead Generation](https://internshala.com/internship/detail/part-time-lead-generation-internship-in-delhi-at-muthoot-finance-limited1795092579)
+- **Company:** MUTHOOT FINANCE LIMITED
+- **Source:** Internshala (company-secretary)
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [3rd International Webinar on Understanding the Behavior of Children with Autism by MENTOVA [Online; Dec 11; Free]: Register Now!](https://www.lawctopus.com/3rd-international-webinar-on-understanding-the-behavior-of-children-with-autism/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Legal Drafting Internship at EA Legal, Bengaluru [1; Online; 1-4 Weeks; Unpaid]: Apply Now!](https://www.lawctopus.com/legal-drafting-internship-at-ea-legal-bengaluru-online/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [JOB POST: Animal Cruelty Response Officer at People for Animals (PFA), New Delhi [Salary of Rs. 30k; Full-time]: Apply Now!](https://www.lawctopus.com/animal-cruelty-response-officer-at-people-for-animals-new-delhi/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [CONSTITUTIO 2026 – National Research Article Competition by TNDALU, Chennai [Online; Free; Publication Opportunities]: Register by Dec 15](https://www.lawctopus.com/constitutio-2026-national-research-article-competition-at-tndalu-chennai/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [JOB POST: Legal Analyst (Fresher) at The Legal Savvy, Hyderabad [Full-Time; Work from Office; Immediate Joining]: Apply Now!](https://www.lawctopus.com/job-post-legal-analyst-fresher-at-the-legal-savvy-hyderabad/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Paid Internship Opportunity at NC Legal, Advocates & Solicitors, New Delhi [In-Office; 4 Weeks; Stipend of ₹5k]: Apply by Nov 20](https://www.lawctopus.com/paid-internship-opportunity-at-nc-legal-advocates-solicitors-new-delhi/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [JOB POST: Associates – Indirect Tax and Direct Tax Litigation at Chilana & Chilana Law Offices, New Delhi [2 Vacancies; 1 – 2 Years’ PQE]: Apply Now!](https://www.lawctopus.com/job-post-associates-at-chilana-chilana-law-offices-new-delhi/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [JOB POST: Advocate at Talent Corner HR Services Pvt Ltd, Mumbai Metropolitan Region [Full-time; 8–10 Years’ Experience; Salary up to ₹10 L/Year]: Apply Now!](https://www.lawctopus.com/job-post-advocate-at-talent-corner-hr-services-pvt-ltd-mumbai/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Internship Opportunity at Redcliffe Labs, Noida [6 Months; Contract Review; Corporate Law]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-redcliffe-labs-noida/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Internship Opportunity at Treelife, Mumbai [M&A and PE/VC Transactions; Full-Time; Onsite; Minimum 3 Months]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-treelife-mumbai/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [JOB POST: Trainee Solicitor at Kevin Ng & Co., Solicitors, Hong Kong [2027 Intake; Salary of ₹2.25–2.47 L/Month]: Apply Now!](https://www.lawctopus.com/job-post-trainee-solicitor-at-kevin-ng-co-solicitors-hong-kong/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [SLS Pune team wins 2nd KIIT International Moot Court Competition, 2026](https://www.barandbench.com/Law-School/moot-courts/sls-pune-team-wins-2nd-kiit-international-moot-court-competition-2026)
+- **Company:** See listing
+- **Source:** Bar and Bench
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Can't order takedown of other courts' orders from internet to protect privacy: Delhi High Court](https://www.barandbench.com/news/cant-order-takedown-of-other-courts-orders-from-internet-to-protect-privacy-delhi-high-court)
+- **Company:** See listing
+- **Source:** Bar and Bench
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Taj Trapezium Zone: Supreme Court orders fresh meeting of CEC and TTZ body after internal discord over manufacturing cluster](https://www.barandbench.com/news/taj-trapezium-zone-supreme-court-orders-fresh-meeting-of-cec-and-ttz-body-after-internal-discord-over-manufacturing-cluster)
+- **Company:** See listing
+- **Source:** Bar and Bench
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
+
+### [Associate (Indirect Tax Litigation & Advisory) Vacancy At SM Legal Advocates & Solicitors [Apply Now] - Live Law](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWFDTU9Jc0xqNFRla0ctS3dWbG5hUmhQTHlkMDB0WGc4U25KMGk4a3hhalZ5a2ZXZThZOUZLdUlIMFVfejZNR1hiLXZrdk02VTVPYnY3MmxBcjBCN3JoWDlIMVNDODZ3STQ4SG9TcnJ2YTU0eWlIN2ZZU1lYcVFGVjFnSzBZT1YtRy1VN0pwU0tsc0g2Rmpzbjhqa3FjSHlWNVFEaHpJQldBdG1CMVF1U205cTZBMUdBYUZSY3hCSTNCSE3SAcgBQVVfeXFMTmE0SktHMXhLSUpvclZocXQyZTZHbFdOTGRYUjBuSUNTbHJNNmlsbHR1RDQwLVl3NTRqaFpCbnNJWGxJSm9WamZjZ3UwOXVJQWMxWVVUZkVRSC1lOC1mbGFSX1JNaXRmZmlKLUp0UXR2aVRNVUN3ZTZIWGhpTXpNaFpIQkV2T1RVZHBMMFI1OVZEQ3FlZFBHRTVUZ1U5V3diZ2JMUzFYNjd4YlVQeU1kRm9JYmkxRHhGeW9ac1J2dWRCNG1IS1Q2V1k?oc=5)
 - **Company:** See listing
 - **Source:** LiveLaw
-- **Fit score:** 6/10
-- **Why:** Deputy Manager (Law) at NPCC (PSU) — likely contracts, projects, arbitration; corporate/commercial exposure suitable for transition
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
 
-### [Additional General Manager (Human Resources) And Deputy Manager (Legal) Vacancy At Goa Shipyard Limited - Live Law](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekFmVXNfbDFhay1JTUUzYmF2Zm9uV2hNVUtzNnJseExCdjRCdWRMM0JDbHBoT2w4UGcxY1l6dGMyRGVaMERHbTJQeEItc3NSa1lTcEY4X2IyNkdyTktPb3RORHMyeVdhUGFla1FVRnpkYU03VVBuVHNoYjQyczJfRUM0M0p5M3A5ZThoSFItZ05OanhmUGRsblViUTcwbzRKdGhhaGF4Zzc5aFJpVkFKV2tmUE9pOWQyOEI2bENDSG1tUG9haWRCSlJVYzE0MHhjS2xQSGphdznSAd4BQVVfeXFMTlk1TG9ZT1h3eWpqczdFaS1rblJmeHRsZEsxSVNjUnN5UlAySk9BT3h1V2M5Y25VWTA3b1ZXN3g2QmlCVjhNWURMQ1pDRHBMdFpnY2VTXzByTW5fZXlxYzhFWDVuUDkzaUVhcnBVY1FhZEZwd0FSakV2TkpnUWVmWWszX1ZTNHYzbVNpNkxBMzVLMndnQzV0cy1Obk4xMkFpcGIzbzJ1MmljeUZPOXdZMEhwRnJDWjVlVUM3aXBxV3hqYU1kbEd1LWxHOVlqcV9tNGNCTV9PV1dkcFVyOTln?oc=5)
+### [Legal Officer Vacancy At Surat Municipal Corporation (SMC) - Live Law](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzU2VEM5QjdSSTA3R29qM3RuZkRubmZ5bzdMdXE0SE90QzBfV3otMzVyM2lTczk4R3F4MlJDRjdmMGNta09HUWV3UUlOSmhfeS0xNXhRVG1WOEhDekpHZlQ5M3M2S0RBWk1pcmE3bS1oNHV3Q0ZLc1NLSWlQRkVPaFV0YWpxQlF4Q0RZbEtOS01DazlkcHNhQ3BuSFRUaFHSAaQBQVVfeXFMT1RwVWpfRmxvb29XMFFHRlppbDVYeEQwZmZ1Nkh2a0ZiYV80RUxCb1BqcUxmM3ZKdDliMnl3SG42MDlGUTRpa2xVanVwMV9mNGpra0VUakdSYkdoYzlwOWhtb2ZvMFVIcjdfWEZwZTBoazhsR2x6RlBfUFUxMWpHTDhlclotMWFoTUttQktDSXMwSG1wXzN2WjZwcFVFQzB6cUpMQ2M?oc=5)
 - **Company:** See listing
 - **Source:** LiveLaw
-- **Fit score:** 6/10
-- **Why:** Deputy Manager (Legal) at Goa Shipyard (PSU) — commercial contracts, procurement, corporate law in infrastructure/defence sector
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
 
-### [Law/Legal](https://internshala.com/internship/detail/work-from-home-law-legal-internship-at-srestham-education-trust1795078086)
-- **Company:** Srestham Education Trust
-- **Source:** Internshala (law)
-- **Fit score:** 5/10
-- **Why:** A legal role at an education trust may involve contracts and compliance, but the listing is too vague to confirm corporate relevance.
+### [Consultant (Legal) In DE Division Vacancy At Ministry Of External Affairs - Live Law](https://news.google.com/rss/articles/CBMiswFBVV95cUxQeC1tYk5TeEpiWEhUQkxnNU9mRFc3QXZWa1BqNDFLRi1Qb25lSVJMY1E3c0FSaERvbjJNVHhiM2dmRExuc2VhZTgzTVRsRFJ6Ym9qaXpLbFMydXB3OUJ1UUZYSzRBX1N1Q2lrbk81ci0wNFFFS1lUaGE0NC1PWGVIRlFnQlVXTzlfaU9tdUVPU25ieEhPTUZtWXhiRUNZWS1XcktaTkhmRFVYTWNEb2hlVkNNRdIBuAFBVV95cUxPMW5PYkhfcUdUdGNBRWpHQUFGSHhtY19XYlJZLWdlOXJGb1gwMVJ6YlV5Y0FqQy1aUjhBWHMxWXQ0dnNjNHVmMk1UczdqSzY2SEU3ckY1MXNfVm9BQnNqNlJSX21DOFNOZ2V0STZGN21BU1N3V05IMVNoZjlsYlN1ZHRvYVU2dTFKU25JQWkzVEZUUmo4WmZmMm94X2NYUlZRUFNURlpMNTJwZS13UXZhR2dnXzhSeDhG?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
 
-### [Analysis Of Cybercrime Laws And Rising Digital Fraud In India](https://internshala.com/internship/detail/work-from-home-analysis-of-cybercrime-laws-and-rising-digital-fraud-in-india-internship-at-international-institute-of-sdgs-public-policy-research1795076969)
-- **Company:** International Institute Of SDGs & Public Policy Research
-- **Source:** Internshala (law)
-- **Fit score:** 5/10
-- **Why:** Cybercrime and digital fraud research is TMT-adjacent legal research, though it is policy-oriented rather than transactional.
+### [Deputy Manager Vacancy At Deloitte Touche Tohmatsu India LLP - Live Law](https://news.google.com/rss/articles/CBMipAFBVV95cUxNaG1IT2oxMDRwNHVsdzU5a1RqYWdPOWU5a2w0ZkZXZXNSd3E4bjhaNzNpeVFaeFdFejNhVEw2QVlhMnJWU0hTU0NNZHJrcVpEYnVILWpMdE9mSWNfUHVuTEtHb0V1S0E2UFBzUWl5VVBISmt4a0hxTUR3UTV6R1NoQWJ2Zm1UZC1HOUM1aUtHQWdrdExJV3VuSmpHNGo4ZVdMY29tZ9IBqgFBVV95cUxQU3dZVGNFR0lOMnNCUmd5X3haZzVGZTlwWmdwMUFBc2JfczFvSHJJalYyemVrMjZocDRsbWl4RkNJMFBOdkZiVnlRbl95cl9EV2JYV2s4RHBxek5Hb3hwNENTRlpZZ1hHa0xLSW1Qd1p4QkNIQW1Gc1lxUXVLTk5KYWdPaXZGa05xcTd1bG9ZZXlOWlF3QTV3blhzV0tIQ1M4REZ1anlNMjRxQQ?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
+- **Note:** ⚠ Not scored — API error, needs manual review: 'NoneType' object has no attribute 'strip'
 
+No new listings scored above the relevance threshold today.
 
-<details><summary>27 lower-relevance listings (click to expand)</summary>
+<details><summary>2 lower-relevance listings (click to expand)</summary>
 
-- [Internal Audit Assistant](https://internshala.com/internship/detail/internal-audit-assistant-internship-in-multiple-locations-at-sridar-g-associates1794730631) — Sridar G & Associates (score: 3)
-- [Finance Researcher & Analyst](https://internshala.com/internship/detail/finance-researcher-analyst-internship-in-indore-at-credit-samadhaan1794479597) — Credit Samadhaan (score: 2)
-- [Effectiveness Of Fast-Track Courts In Reducing Case Pendency In India](https://internshala.com/internship/detail/work-from-home-effectiveness-of-fast-track-courts-in-reducing-case-pendency-in-india-internship-at-international-institute-of-sdgs-public-policy-research1795078255) — International Institute Of SDGs & Public Policy Research (score: 3)
-- [Research In Law](https://internshala.com/internship/detail/work-from-home-research-in-law-internship-at-international-institute-of-sdgs-public-policy-research1795077493) — International Institute Of SDGs & Public Policy Research (score: 4)
-- [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-delhi-at-advocate-ravi-and-associates1795064384) — Advocate Ravi And Associates (score: 2)
-- [Inside Sales](https://internshala.com/internship/detail/inside-sales-internship-in-bangalore-at-globussoft-technologies1795064175) — Globussoft Technologies (score: 0)
-- [Search Engine Optimization (SEO)](https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-bangalore-at-brandshark1794999595) — Brandshark (score: 0)
-- [Marketing](https://internshala.com/internship/detail/work-from-home-part-time-marketing-internship-at-sanyukt-foundation1795066089) — Sanyukt Foundation (score: 0)
-- [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-bangalore-at-dodo-payments1794903886) — Dodo Payments (score: 0)
-- [Operations](https://internshala.com/internship/detail/operations-internship-in-coimbatore-at-capgemini1795059819) — Capgemini (score: 1)
-- [Communications & Content](https://internshala.com/internship/detail/communications-content-internship-in-multiple-locations-at-intellecap-advisory-services1795081468) — Intellecap Advisory Services (score: 1)
-- [Talent Acquisition](https://internshala.com/internship/detail/talent-acquisition-internship-in-mumbai-at-firstsource-solution-limited1795078070) — Firstsource Solution Limited (score: 0)
-- [Wealth Management](https://internshala.com/internship/detail/wealth-management-internship-in-multiple-locations-at-bajaj-capital-limited1795068586) — Bajaj Capital Limited (score: 0)
-- [Social Media & Corporate Communications](https://internshala.com/internship/detail/social-media-corporate-communications-internship-in-multiple-locations-at-raymond-limited1795058895) — Raymond Limited (score: 0)
-- [CfP: 5th ALCICON 2026 International Conference on Emerging Trends in Technology, Law, and Sustainability by Asian Law College [Hybrid; Dec 19]: Submit by Dec 1](https://www.lawctopus.com/cfp-5th-alcicon-2026-int-con-on-emerging-trends-in-tech-law-sustainability/) — See listing (score: 0)
-- [JOB POST: Research Assistant – Law and Economic Regulation at NALSAR University of Law, Hyderabad [2 Vacancies; Salary of ₹60k/Month; 0–2 Years’ PQE]: Apply by Nov 28](https://www.lawctopus.com/job-post-research-assistant-law-and-economic-regulation-at-nalsar-hyderabad/) — See listing (score: 4)
-- [JOB POST: Programme Officers at MARG, Delhi & Bhopal [3 Vacancies; Salary up to ₹60k/Month]: Apply by Nov 30](https://www.lawctopus.com/job-post-programme-officers-at-marg-delhi-bhopal/) — See listing (score: 2)
-- [CfP: 10th GNLU International Conference on Law & Economics at GNLU, Gandhinagar [Feb 13 – 14, 2027]: Submit by Dec 15](https://www.lawctopus.com/cfp-10th-gnlu-international-conference-on-law-economics-at-gandhinagar/) — See listing (score: 0)
-- [CfP: International Conference on the Emerging Issues on Preservation and Conservation of Environment Under International Law by VIT School of Law, Chennai [Hybrid; Jan 28, 2027]: Submit by Dec 8](https://www.lawctopus.com/cfp-int-conf-on-the-emerging-issues-on-preservation-and-conservation-of-environment/) — See listing (score: 0)
-- [Nyay-Nirmiti 2026: The IPVarna Global Colloquium on Legal Research and Intellectual Property by IPVarna [Online; Dec 14 – 20; Free; 15 Live Sessions]: Register by Dec 13](https://www.lawctopus.com/nyay-nirmiti-2026-ipvarna-global-colloquium-legal-research-ip/) — See listing (score: 0)
-- [CfP: International Journal of Legal Science and Innovation [Volume 8, All Issues] | Manupatra, Google Scholar & ROAD | 30+ Databases | CROSSREF DOI | IF 6.285: Submit by Nov 25](https://www.lawctopus.com/cfp-international-journal-of-legal-science-and-innovation-vol-8/) — See listing (score: 0)
-- [Internship Experience @ District & Sessions Court, Chhindwara, M.P; Learned Court Procedures and Documentation Including Talwana, Taamil, Zapti, and Muchalka; No Stipend](https://www.lawctopus.com/internship-experience-district-sessions-court-chhindwara-m-p/) — See listing (score: 0)
-- [Karnataka High Court Asks State To Consider Desk Job For Police Recruit Who Lost Leg While Awaiting... - Live Law](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQakE0THJ4V2gzRTBFTmFZTU1zaW1ENHlrMGZIaEhvdjhjbE53dmZRZlI1dWlOcmRpZXEzdF9IQ1BBYWVoY056MmZSUkdReS1WaHVUOFVrc2xtZWVDeFpSb0w1MDNDME9uQkNmcDFIVTNaN0NTNVJMMk9GZ1E4TTFORmQ3Wm9Ib2NFaUZRM0xDdFBSZ2xucUhfVWVCaVNYMVlDWF9SdnVCNWt2UmFlQ1dBSm5UNE1HbnFLakVQOXhERU4xNU5YZ2RNVkQwUWRTeDN6UVFIRTlXbXVmbEh6Y3VR0gHkAUFVX3lxTE02ek00alBWUlMyaUdRRXRDLVg1U1NUSlZIYlJlSG9VcWdMVWFFT1VVNDVHRTBqYjZRYlItMV9lUjNnNEVTcDdfSUJUc2NKalBTLXpveUZWdUdjWWp4cXIybzZpZ1h2QjFWb1g1cWhrdmdidUphWkthNVZSS0MxdEt1cmZ5S21VYjY0T2laTXJGYTE2NjczWUt1TENhT1lTeUQ3cWZxRDlGX3prbFRWczlEbi1yLV9iU0FuV2l4YktvQkFuMnJpTmdRdlJLdTI4X1ozc05uaVZ2Q3l6WERHalVSY1J4Uw?oc=5) — See listing (score: 0)
-- [District Public Prosecutor Vacancy At District Court Of Bharuch - Live Law](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGtzUHB2MERFUk5uLTRBdFlWZ3ZLdEVTOW9FVVowNEIwZ05mdkthc0RqNmgxQmpjMlRsa2dZV0VfWkxRZ0NTSEtOT2w5SHJjd08xTVNpUEI1ZzZ4Nk91aV9lZTRRZE90YkFBY2tOa2hrWmIxOEwxZXlHRGIzZ3NZb3JyT2g3dlJDOWtXMThkSHBDQlVlbmR6QjlBMEs5RTNVUHE5N0pBeHbSAa4BQVVfeXFMT0duUjJNMFhISTFYV01XUHhhZjVaWjFWWFFfaHFHZVVhLXJyT0ZCV3JfVUdGbnBuUlpyQUM2X0hwMzBmRlVKS3NSNmV0OHJwaU81MF9vYTFlLV82Y2txSjV2X0hiVUM5aWwxaGdLUzYxQW81dE5pVENfeVhyNW9pZVNRRmhTb3RPU3NXTEhvcHBxZDdWeFE4cFBWR0pvcnphZDNrcklpYWNScmFmYktR?oc=5) — See listing (score: 1)
-- [Accounting & Financial Management Expert Vacancy At NABARD Consultancy Services (NABCONS) - Live Law](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYUJDTkxSYnNhSXJNcXNobGpHUTVEc1picnBBeGFlTTRFS0szYnNRSzdyRC0zTUVPdE5mZ01XYmZyM0pGMEFmdmFQUC1OTjgwR1IzeXp2ekQ5MDBIWUU4alQ4TlVSV0xKTmJJZ3o4bWFTeUtzZkprZ0E1U2tBWVlha0FTMXliQ0JvRXZuSzQ3blI3MnZqZmY2Vndtekk0U1hXZGZJa2dLYW1TRy1GQWRLRHZyZVY5VTV4TWs2WGhwSHBudzFYNmfSAcsBQVVfeXFMTnA2UjBaWWxxZ2U1by1TVVpFc0FvcmdscTQwRXM4ZDRTTzlncHdjUUlxRHVtNl81RV92ZE9BVWJ6a3FRbUxCY21VVWhxY1RCZXdaR3dyclhuMHRIR2hWYk8tM2dLbUJuTXBLYnJka1YtV3dYNmVxN3d2UjFDYW11MkdUeWZFT1duZ2Z2VkpEQUlZTTNCWlBhMW9FRGxjVHhHZ2QxSEhGenJnZ3htX0RhU3Z0cXotdWl0RXFrNW5EWUVwbUpkWHF1cDUySXc?oc=5) — See listing (score: 0)
-- [Symbiosis Law School Pune Announces International Law Essay Competition 2026 On Climate Change And... - Live Law](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlJZN00zRDJ6cV8xd0tzV2huUkVoeXVHaklYOHRvY3J1MWlkbUxaLXdoUk5kSHBKSlZnR0hMRkd5bXFETE1FSmFNc2JZSmtaSWRIeV80cHhnUjYwR2trUi1IYVl2VTM3M2t2bDZlV2Nua0R4RjhoSmRNbmpoTElUSWxQcXdwSFVZbmd1a0c2N09hR0FlbHhDX3ZwSUhxS1J2dV80YXFyNXZlN0tBSTdpRE1vcWVmWjBYbUpkOVV6X3VjQdIBxwFBVV95cUxOMExaYTMxWHpCNV9jclVMT3I0c1lzZGNwMlhCMUJWeVQ0dl9IVWFNRnAzLTRvWTVoUk5vS1FpOEZtTHpLejVwMWRFV3hGV29MQ0YzNWF4Y0RHZTVUX1J6M18wSk9ySlZvZmVOWGlEdXlUV1hVUXVzay1BRW9USUs4Q1dQb1prN3dSYlRkbVJDWkotTkNtZTc0bGRXR0k5ZHp6am5kVVZWOUYtc1BFZm90ZjVPcTNzeTAyaEZ3ZXNXN1JGNTY4VVln?oc=5) — See listing (score: 0)
-- [Dubai Arbitration Week 2026: Justice S. Ravindra Bhat and experts examine judicial oversight and enforcement of international arbitral awards](https://www.scconline.com/blog/post/2026/11/19/judicial-oversight-international-arbitration-dubai-arbitration-week-2026/) — See listing (score: 0)
+- [5th ALCICON2026: Asian Law College to host international conference on emerging trends in technology, law and sustainability in collaboration with Kutafin Moscow State Law University](https://www.scconline.com/blog/post/2026/11/20/5th-alcicon-2026-asian-law-college-international-conference-technology-law-sustainability/) — See listing (score: 0)
+- [Navigating International Mediation and ADR Instruments: A conversation with Dr. Rajesh Sharma](https://www.scconline.com/blog/post/2026/11/20/navigating-international-mediation-and-adr-instruments-dr-rajesh-sharma-india-digital-adr-summit-2026/) — See listing (score: 0)
 
 </details>
