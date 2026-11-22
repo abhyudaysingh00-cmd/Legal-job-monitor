@@ -1,51 +1,47 @@
-# Legal Job Digest — 2026-11-21
+# Legal Job Digest — 2026-11-22
 
-**4 relevant new listing(s) found.**
+**5 relevant new listing(s) found.**
 
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-mumbai-at-kokuyo-camlin-limited1795181909)
-- **Company:** Kokuyo Camlin Limited
+### [Compliance And SEBI Regulation](https://internshala.com/internship/detail/work-from-home-compliance-and-sebi-regulation-internship-at-fin-maverick1795265352)
+- **Company:** Fin Maverick
 - **Source:** Internshala (legal-research)
-- **Fit score:** 7/10
-- **Why:** In-house legal role at a company is likely to involve corporate, commercial, or contract-related work.
+- **Fit score:** 8/10
+- **Why:** Focus on SEBI compliance aligns directly with the candidate's target practice areas.
 
-### [Compliance](https://internshala.com/internship/detail/compliance-internship-in-multiple-locations-at-legaccord1795242534)
-- **Company:** LegAccord
-- **Source:** Internshala (legal-research)
-- **Fit score:** 6/10
-- **Why:** Compliance work can align with corporate/SEBI compliance and legal research, making it reasonably relevant.
-
-### [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-mumbai-at-m-s-pirani-co-advocates-solicitors1795166832)
-- **Company:** M/s. PIRANI & Co. Advocates & Solicitors
-- **Source:** Internshala (law)
-- **Fit score:** 6/10
-- **Why:** Law firm role may provide corporate/commercial exposure, though the exact practice area is unclear.
-
-### [JOB POST: Associate at SDS Advocates, Mumbai [2 Vacancies; Full-time Retainership; 1+ Year PQE]: Apply Now!](https://www.lawctopus.com/job-post-associate-at-sds-advocates-mumbai/)
+### [Internship Experience @ Adani Digital Labs, Gurugram; Conducted Legal Research and Maintained Contract Records; No Stipend](https://www.lawctopus.com/internship-experience-adani-digital-labs-gurugram-conducted-legal-research-and-maintained-contract-records-no-stipend/)
 - **Company:** See listing
 - **Source:** Lawctopus
+- **Fit score:** 7/10
+- **Why:** Legal research and contract record maintenance at a corporate lab provide relevant corporate experience.
+
+### [Internship Experience @ Kovise Foundation Conflict Resolution International, Chennai; Researched Section 34(4), Court Intervention, and Party Autonomy in Arbitration; No Stipend](https://www.lawctopus.com/internship-experience-kovise-foundation/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Fit score:** 6/10
+- **Why:** Research on arbitration and Section 34(4) relates to dispute resolution, a subset of corporate law.
+
+### [Internship Experience @ Sharma Kemp Chambers, Indore; Drafted Legal Documents, Blogs, and Bilingual Legal Literacy Presentations; No Stipend](https://www.lawctopus.com/internship-experience-sharma-kemp-chambers-indore-m-p/)
+- **Company:** See listing
+- **Source:** Lawctopus
+- **Fit score:** 6/10
+- **Why:** Drafting legal documents and preparing presentations show relevant legal drafting skills.
+
+### [Senior Associate (Legal) Vacancy At National Highways And Infrastructure Development Corporation Limited... - Live Law](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPazVETTRDMF91amphVkx5RmsyZWJQbUFZQmF5ZTdtcTN0aGpibWdNR0E4V2E4dGExUWswYkt0VTJPb1ZrNHd2SUNzd3dub2NIWVlRRkxndWdmbXlNVEhXV0hadmMxdVNIczJla2FLbmxKV0RMcmxidURyQk9xY3hQT1R1Y1piVUI4U0psZXN6YUdDeXJyNy15cy1idHhWb3luNHdDS0FXNkVvaEJHRFBQTnMzc2lQaWVoR3NRNEQ5OXQ3andSYXNjM2U0THJnSHlFTGlxd1dPZk1ZeDhvRDhRVWdaYzVycnQyMjFr0gHrAUFVX3lxTE9rNURNNEMwX3VqamFWTHlGazJlYlBtQVlCYXllN21xM3RoamJtZ01HQThXYTh0YTFRazBiS3RVMk9vVms0d3ZJQ3N3d25vY0hZWVFGTGd1Z2ZteU1USFdXSFp2YzF1U0hzMmVrYUtubEpXRExybGJ1RHJCT3FjeFBPVHVjWmJVQjhTSmxlc3phR0N5cnI3LXlzLWJ0eFZveW40d0NLQVc2RW9oQkdEUFBOczNzaVBpZWhHc1E0RDk5dDdqd1Jhc2MzZTRMcmdIeUVMaXF3V09mTVl4OG9EOFFVZ1pjNXJydDIyMWs?oc=5)
+- **Company:** See listing
+- **Source:** LiveLaw
 - **Fit score:** 5/10
-- **Why:** Vague associate role with matching 1+ PQE, but Mumbai full-time retainership and no confirmed corporate/transactional focus.
+- **Why:** Senior associate role at a government infrastructure corporation may involve corporate matters but likely requires more experience.
 
 
-<details><summary>18 lower-relevance listings (click to expand)</summary>
+<details><summary>8 lower-relevance listings (click to expand)</summary>
 
-- [Chartered Accountancy (CA)](https://internshala.com/internship/detail/chartered-accountancy-ca-internship-in-mumbai-at-av-kedia-associates1793712638) — AV Kedia & Associates (score: 2)
-- [Search Engine Optimization (SEO)](https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-lucknow-at-deedok-it-solutions1794637934) — Deedok It Solutions (score: 0)
-- [Inside Sales](https://internshala.com/internship/detail/inside-sales-internship-in-navi-mumbai-at-akroherbs-global-llp1795005728) — Akroherbs Global Llp (score: 0)
-- [React Native Development](https://internshala.com/internship/detail/react-native-development-internship-in-pune-at-nobrokeragecom1795159544) — Nobrokerage.com (score: 0)
-- [Client Acquisition](https://internshala.com/internship/detail/client-acquisition-internship-in-chennai-at-indiamart1795241741) — IndiaMART (score: 0)
-- [Inside Sales](https://internshala.com/internship/detail/inside-sales-internship-in-bangalore-at-denso-international-india-private-limited1795233149) — Denso International India Private Limited (score: 0)
-- [Candidate Success Executive](https://internshala.com/internship/detail/part-time-candidate-success-executive-internship-in-bangalore-at-ansr-global-private-limited1795174551) — ANSR Global Private Limited (score: 0)
-- [Online Legal Internship at Hamari Pahchan NGO [200+ Posts; 1 Month; Dec 2026-Jan 2027]: Apply Now!](https://www.lawctopus.com/online-legal-internship-at-hamari-pahchan-ngo-200-posts/) — See listing (score: 3)
-- [CfP: Indian Journal of Contemporary Legal and Social Issues [Vol. 3, Issue 2] | MANUPATRA & Google Scholar Indexed | 15+ Databases | Free DOI | Submit by Nov 27](https://www.lawctopus.com/cfp-indian-journal-of-contemporary-legal-and-social-issues-vol-3-issue-2/) — See listing (score: 1)
-- [CfP: International Journal of Law Mgmt & Humanities [Vol 9, Issue 6] |Free CROSSREF DOI | HeinOnline, Manupatra, Google Scholar | 1k+Libraries (Harvard, Oxford) | IF 7.010 | Submit by Nov 27](https://www.lawctopus.com/cfp-international-journal-of-law-mgmt-humanities-vol-9-issue-6/) — See listing (score: 1)
-- [Lawctopus’ Online Winter Training Program [Jan 5 – Feb 5; Top Performer Gets Internship at LLS]: EARLY BIRD OFFER TILL NOV 23!](https://www.lawctopus.com/lawctopus-online-winter-training-program-2027/) — See listing (score: 2)
-- [JOB POST: Senior Associate and Associate at MV Kini Law Firm, Goa [3 Vacancies; 9 – 10 and 1 – 2 Years’ PQE]: Apply Now!](https://www.lawctopus.com/job-post-senior-associate-and-associate-at-mv-kini-law-firm-goa/) — See listing (score: 3)
-- [JOB POST: Associates (Indirect Tax and Direct Tax Litigation) at Chilana & Chilana Law Offices, New Delhi [2 Vacancies; 1 – 2 Years’ PQE]: Apply Now!](https://www.lawctopus.com/job-post-associates-at-chilana-chilana-law-offices-new-delhi-2/) — See listing (score: 2)
-- [JOB POST: Junior Associate (Litigation) at SRK Legal, Mumbai [Fort Office; Litigation Practice]: Apply Now!](https://www.lawctopus.com/job-post-junior-associate-litigation-at-srk-legal-mumbai/) — See listing (score: 1)
-- [JOB POST: Advocate at Interim Law Firm, Bengaluru [Court-Based Litigation Role]: Apply Now!](https://www.lawctopus.com/job-post-advocate-at-interim-law-firm-bengaluru/) — See listing (score: 1)
-- [Legal Fellow Vacancy At Centre For Criminology And Justice, School Of Social Work, TISS, Mumbai - Live Law](https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWh5VEhSWkJQcHB4QlhzTGVwSVl1X3Z5dzZ6N2JWeHk1NURjcTcySGdNdFQ4S3hnbTJubmNhaXdBN1ZZNDNTSzZmT0JrRTV3RE05dlVFa3A0a3BIS3lvRzV6WjhFZVItdWtTVXNmaktZVlZHcGxCZFVCTWwwSVJyak5RalZEUkdIOUZ4ekVMeW5FOExsZkVlWnlRenVhZ2JGVkRwQUM2QldvcDV6TEozZ2dGRVRtbjlSR0w1TXpaZmFIQTc1U2pnOVBrV3daeWfSAdQBQVVfeXFMTk53WFpSZklqTTRUaGVSNFFjYnZweS1QaUhha0s3Z1hmTXRLOWZFOGxDSEpvcmlDLU9NVDZTZ1VjajVPd2hFalBYNHZORGtoeEpNcTVMY1Z0MGJvNmdZbTdKV2lvN1FqZGxOMTdoTk9fdTNOQURFZ29MZWowS0NURjQzVllfQVdSSmo2UUoxNjBycjNJM2xaNWhJZXBXcnRrUnp4dEU5X2lmaTRmRjdQNHJCdWpqOUdYM0lEZjRPbnR3OE0tajk5b0dNRWRVNVZWYUcyT3E?oc=5) — See listing (score: 1)
-- [Law Clerks-Cum-Legal Research Assistant Vacancy At High Court Of Tripura - Live Law](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVdvZGtDU3J4ZWFIUktnSFpUcC12U3VReG5DLS1fdDdVYmdGaWpvTmpNQ1JwVWNIcXNCcUVxVkJObDZKSXZMSDNlZUc4Q09sSkxRTm93MHhGSlJXRmN6a2hNU0pKWVZvdGlxc04yTzZuOWljal9KNjJwbmY5NXc2dkg5dFBtcmpKbVBSeXpXa1Y0U1R6RUdiakdFanFJRERLOWotNFlvX1hRaFFrdlJzMjlzS1bSAboBQVVfeXFMTnJBdkZhdUU2cTQ4SUY1SHFXZDhYMGtFTFIxLTRqV2hvLXdHdjhISEpmSU50Rnh1ZEZQX1czd19pazNKdUtnVmpFQkZuUlREZWpKMzUtRDh2RXhxWTRkSUlEN1Y0QWs0b0tpWlJ0VXE2VWFsQ2w3WFdFUFF6ZWJKNHNFWGw0V1FvMTNRN3dSMlBBeG9pS2RjX1JaNjVSNUJXSC1VSE81eVZoNDhEVDlsOUk0MGpTdThqcS13?oc=5) — See listing (score: 1)
-- [Kritika Agarwal Elevated To Associate Partner At Majmudar & Partners - Live Law](https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2VYTWNieko2c1doSWoyTl80eWYwR2M0UTRrdjdGTG9PVi0tR2NkbmNSaGhmZXFzdWp0RklOUlZYWGNFeFdiNXIxZ3MzaDdFTWY4elE0RmZ6LUFVeWdKRXNzRUpjZXYtdE95OU1mSGloOTFkWnRJckdBdDBIQVlGSkN5ci1FdWpQRDFjMHZKcEZoVktkM0HSAZsBQVVfeXFMTUM3c0x0d1RfbnhKV3phMjNpZXo5N0x4RUlicFA2d2ZDSnJLRWVLMTZHWjFFYjJMM2ZlMll4ZXRpb1BZVkNmY0M4YUVHYzdPOTFSTUNTTmQ1dEVmOXVSTDlJZi1NdHRmUlQxR1AyZnIzRTlYc2pZNlBEUnEyWjhSOFY0Sko4NzFsTWp0MVFVcXZaWVZsZTdxM05feWM?oc=5) — See listing (score: 0)
+- [Internship Experience @ Sr. Adv. Ramkrishna Joshi, Dhule, Maharashtra; Reviewed Case Briefs and Researched Civil Procedure; No Stipend](https://www.lawctopus.com/internship-experience-sr-adv-ramkrishna-joshi-dhule-maharashtra-reviewed-case-briefs-and-researched-civil-procedure-no-stipend/) — See listing (score: 2)
+- [Internship Experience @ Naya Sawera NGO, Jaipur; Conducted Learning Sessions and Supervised Outdoor Activities; No Stipend](https://www.lawctopus.com/internship-experience-naya-sawera-ngo-jaipur-conducted-learning-sessions-and-supervised-outdoor-activities-no-stipend/) — See listing (score: 1)
+- [Internship Experience @ Remfry & Sagar, Gurugram; Drafted Cease-and-Desist Notices and Prepared Trademark Infringement Reports; No Stipend {S}](https://www.lawctopus.com/internship-experience-remfry-sagar-gurugram/) — See listing (score: 4)
+- [CfP: International Journal for Legal Research and Analysis [Vol. 2, Issue 7] | MANUPATRA, ROAD & Google Scholar Indexed | ₹15K Prize & Free DOI | Submit by Nov 25](https://www.lawctopus.com/call-for-papers-ijlra-vol-2-issue-7/) — See listing (score: 0)
+- [District Judge Vacancy At State Of Orissa - Live Law](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUmE0MVo0SHY3TUVVUnItUkVTQ3VFSW92WU15ODFUR3c1U0hLT2ZmbGRUOFM1bWN5S3pWMEhlX2dlWDFWREVzS2FyVjZxZlBIY0U2bWJ5bFEtUllxNFkwOF9ZbGhzR1dyUXJwQWphV1VtSVU1WUFJSkNsZnI1VXhUNTlvSEtWUkV0MUxR0gGQAUFVX3lxTE8yN3h4X0hLNml3NUhGVlhRS2tqVmdZM29XVEMzc3VQME1HYXFDbUdhTDFJdkh1ekJWLVdFWXJjOExjc1lSck1kMkVGMXBNa1EtY0lwb0plYzROOE5CVnBpQ2JneGhPSDB0cGlVaDVzd294S0hRSG4yYXRRT0hsbTJBeUQ5VnJlWDFIMHdNc0daWA?oc=5) — See listing (score: 1)
+- [Assistant Law Officer Vacancy At Chhattisgarh State Power Distribution Company Limited - Live Law](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSTd1b3JUX2ZiV0Q4TC1YenREMXg0a0VOLU1IMHN6eEhyMHVoLXExdFBOLXJ1cFY4NHlLVUZMTXFscWhvQm5uUld0RDVGdFh5bWRpYTlhZm9rbWFUYmtHS3NNU1BhbnlwMVBtQndjUHNIVGJxUTg5ejF0ekZrdkxCVWlZbWhoakJWS0ppNjE2NWZqeThZN21tSVBiZXgxZFNuWlRVYTRPTGRMYklXZW0tZDNUU040b1Y1UEJQQkxabDJMRlpqRzNN0gHMAUFVX3lxTE4tNGVOSkloamxpdlFsUGFYRmJxNXpqRU40R1hKbmIyOVFWZno3TXVYSjhQS3VIUjlDNFAzd2hxRF9FYXhUNWMwWXNrUG5EdEttWE5jNE5zeWhNeVZwMzhvYlZFOUl6V3Zndzc3Y2hkU3RUT3FZTmI0ZjNzUEFxZEVTWG5TOG52cUxSdXJOZWtYNEYzcE5CVzJqamhrLVkxRlFBOTZnSEtOTVcyaW1XRndzX3l6Wnpfd2FfQlQxSmpTU2F2UVpSdkJmTmpacw?oc=5) — See listing (score: 3)
+- [IPR Chair Professor Vacancy At National Law University, Delhi - Live Law](https://news.google.com/rss/articles/CBMipAFBVV95cUxPME8wVG4xazVVOWNYZW9rQXBNMk1ZUkIwRlZtYUZSZFItUzZjT0p4VDRMaTk5MWozZGlDNGV2YndybFJFTkM0dVA5elN2SXktWF8zTjN0MFI0NjVSLTNnOS16YnZzWlZnV3lYMWlPWEdiVFJQbnVtZHlMMjZKUGJrVHZtdWRJM3pwOWZJdXcwM0JzTGx3TlBCMHlLQzVNRUVjcDlqNNIBqgFBVV95cUxNbVlvek1rRWRkNFhFN2lfQi1VR29fSzR1S2RXcGhmOUl6QjlZSlYwS3lVUDFidU90a2s3UWhzeG8yRlQ3TmdtTHdRbGZKUlM2UzZFbWFCSFdiVWNWb0l6eTVjdEstZGJoSURnenlYSWItZThFLWVpZ21GUDRqWVVkbXUtUEtaRWJyX1NHSkc2UEpDZ1ZxSFJ4UE5od3JaekQxWEdaSl9ETXg0UQ?oc=5) — See listing (score: 0)
+- [Court Assistant (Technical Assistant-cum Programmer) Vacancy At Supreme Court Of India - Live Law](https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDdSX2R4cW1sRFhMNDZSWWYtY252RTBHdnhfbDNHd01NTkFUREJ4LVVnVllWT3NiNW1yWFZuRmQyUW5pQzVRQVkzNUNVMTJQNXZoSzhSZ1YyQWlzT1g1TWFma3hLLTNQT0FvdWZMdDNXM0p3ZHlhdnVWaS1kTXJ5TWE2bTM0V0l4eGQyUE1kSHZQajloOFBjbFNzbndoTGt4MEY3RkRvbFR0bkg5a2JRNVdXQWtvejc5bTZKd2xkbHJrNTYx0gHKAUFVX3lxTE9Ka09sbWJQek5RTllWeFU2bmtkYmM3MHhieVY5dnozN29ZOXVCU0tjVk5NRXRzVnk3ajgyRThmZmdOTXVqRHpBc2RwRnB3MXVxOVczdG15RDJGYnRjaTBhX19wXzRVRzREYVZSRmFDWFFGU2VvVkpuQ1Bvc1FwSm9HUWtrbjNEZW5IbFJxVGFsd1RobXY3SDYzcXRtdTl3djFNdXlOWHF6TmdEN2treGdiS1Y0al8xbHJwNTVzRmVjWFlwTnFHcF9nOWc?oc=5) — See listing (score: 0)
 
 </details>
