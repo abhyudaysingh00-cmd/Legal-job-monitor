@@ -1,50 +1,55 @@
-# Legal Job Digest — 2026-11-26
+# Legal Job Digest — 2026-11-27
 
-**4 relevant new listing(s) found.**
+<details><summary>⚠ 1 issue(s) this run — click to expand</summary>
 
-### [Assistant Manager (Commercial Contracting) Vacancy At Ernst & Young [Apply Now] - Live Law](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZmc2SVl0eW1kSEw1VlZLckNhUHVBbFBnb1VoX1RIUE1WRWNwb3Fyb3hDXzl2MS1pcS1jcmV3cUp5QnNvVERhb184cmRTUjhENGJaT2xwUXJMVlU3NU5CVENUZ19DeHhHUGhsdkNISkxBWjFYUFByaDMzSUNnXzhRYk0tTW9sWjV3UnJzZGJ4c192ZGpqQkdnbUQxX3F1by1La1BCMlh1V0zSAa4BQVVfeXFMT1MxRHpIMklZRkJoQXYxeUZhbEV2ODlXTnRkczEtUUwyN3QxLWVnY05KU281U1lNRDNoaW9oV3dsRDBxMGtsZEU4SkIzYUhzSHJWQzZhZW50ZnZVdTFINVFYX3U1N3NzamZxZUhJeDhfMURWemVWSV8zOWgydmkxU3RfM0M1SFNIU29CaHhOZTFfQzIxV3JvV09nZ2xaVXpTT2JFS0F6d1pfUlRNLTJR?oc=5)
-- **Company:** See listing
-- **Source:** LiveLaw
-- **Fit score:** 9/10
-- **Why:** This role directly aligns with the candidate's target practice area of commercial contract drafting at a reputable firm, and the PQE level is a good match.
+- **LiveLaw:** RSS fetch failed after retries
 
-### [Internship Opportunity at Chambers of Prayansh Jain, Jaipur [Litigation, Corporate Law & IPR]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-chambers-of-prayansh-jain-jaipur/)
+</details>
+
+**3 relevant new listing(s) found.**
+
+### [Legal](https://internshala.com/internship/detail/legal-internship-in-bangalore-at-houseoftech-innovation-private-limited1795696217)
+- **Company:** HouseofTech Innovation Private Limited
+- **Source:** Internshala (legal)
+- **Fit score:** 8/10
+- **Why:** Legal intern role at a tech company likely involves commercial contracts and TMT work aligned with candidate's corporate transition goals.
+
+### [JOB POST: Associate at Joby Mathew & Associates, Mumbai [1 – 3 Years’ PQE; Securities Law]: Apply Now!](https://www.lawctopus.com/job-post-associate-at-joby-mathew-associates-mumbai/)
 - **Company:** See listing
 - **Source:** Lawctopus
 - **Fit score:** 8/10
-- **Why:** Internship at a firm offering corporate law, aligns with target practice areas, good fit.
+- **Why:** Securities law work aligns with the candidate's SEBI compliance interest, and the 1–3 PQE range matches their experience level.
 
-### [Assistant Manager Vacancy At Deloitte Touche Tohmatsu India LLP - Live Law](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQVUyQ01fLWRHczJFR1d2NUlZeFZ0MGFEdHU3VXp3d3VMX3VmcWNPRldXWkVnWkpBaHFXcDZoX3V6Qk8xbm80a29wQ0Q2Zmp3Z1FFV1l5QXAtZnB5dm5yY3dPSU1YVXpDUjEyamtKbnFCRWp1QVFFSXZyYzJ4OTVuWXdLZXZJWHowQnFYRUladnlwaGsyMjRETjRCX1l5Z0pYNEpBeHpwXzXSAa4BQVVfeXFMTkJLeGUwUUVTQWV4bVBmaThXUy13cGNsUWNPdUFoeUdLRXVaSHIyZ2xURkJvbUY3cDFjXzBweVBDN0haXzNsVlRkalNEZnM4ODdRU1U5LVVRN1F6RGVGbVRyc1lseXhSNF9mZG1sTFBsb3EzRjZqclZoUE5jeU90Nlg0ell4d3hzU2F3ZWtzNV9NcjE0Ulk3UzdSbUFiTHJ5TF9hcXdwWGw4WHhoU2pn?oc=5)
-- **Company:** See listing
-- **Source:** LiveLaw
-- **Fit score:** 8/10
-- **Why:** Deloitte is a reputable firm, and an Assistant Manager role could involve corporate, compliance, or transactional work, aligning with the candidate's target areas and PQE level.
-
-### [Winter Legal Internship Programme 2026 at Atar Singh & Legal Associates, Kanpur [4 Weeks; Limited Seats]: Apply Now!](https://www.lawctopus.com/winter-legal-internship-programme-2026-at-atar-singh-legal-associates-kanpur/)
+### [JOB POST: Associate/Senior Associate – PE/VC, M&A & Corporate-Commercial at Sarvaank Associates, New Delhi [2 – 5 Years’ Experience]: Apply Now!](https://www.lawctopus.com/job-post-associate-senior-associate-at-sarvaank-associates-new-delhi/)
 - **Company:** See listing
 - **Source:** Lawctopus
 - **Fit score:** 6/10
-- **Why:** This is an internship suitable for the candidate's PQE level and located near Lucknow, but the practice area is vague and could be litigation-focused.
+- **Why:** The PE/VC, M&A and corporate-commercial focus is highly relevant, but the 2–5 PQE requirement is above the candidate's roughly 1 year of experience.
 
 
-<details><summary>17 lower-relevance listings (click to expand)</summary>
+<details><summary>22 lower-relevance listings (click to expand)</summary>
 
-- [Law/Legal](https://internshala.com/internship/detail/part-time-law-legal-internship-in-multiple-locations-at-savitur-legal-chambers1795674831) — SAVITUR Legal Chambers (score: 4)
-- [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-chennai-at-saebyeok-india-private-limited1795666813) — Saebyeok-India Private Limited (score: 2)
-- [Account Cum Office AI Executive](https://internshala.com/internship/detail/account-cum-office-ai-executive-internship-in-jaipur-at-saduram-marble-corporatessmc-minerals1795600835) — SADURAM MARBLE CORPORATES(SMC MINERALS) (score: 0)
-- [Front End Development](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-basti-ki-pathshala-foundation1795684060) — Basti Ki Pathshala Foundation (score: 0)
-- [Fundraising](https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-women-first-india-foundation1795686391) — Women First India Foundation (score: 0)
-- [Marketing](https://internshala.com/internship/detail/work-from-home-marketing-internship-at-careers3601795676719) — Careers360 (score: 0)
-- [Fundraising](https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-hope-behind-tails-foundation1795686402) — Hope Behind Tails Foundation (score: 0)
-- [Fundraising](https://internshala.com/internship/detail/work-from-home-part-time-fundraising-internship-at-queens-of-change-foundation1795686363) — Queens Of Change Foundation (score: 0)
-- [Campus Ambassador](https://internshala.com/internship/detail/campus-ambassador-programme-at-quickvend-solutions1795689846) — Quickvend Solutions (score: 0)
-- [Loan Officer](https://internshala.com/internship/detail/work-from-home-part-time-loan-officer-internship-at-rulons-distribution-services-private-limited1795689386) — Rulons Distribution Services Private Limited (score: 0)
-- [Debt Management](https://internshala.com/internship/detail/debt-management-internship-in-multiple-locations-at-navi-technologies-private-limited1795660145) — Navi Technologies Private Limited (score: 0)
-- [Internship Experience @ Mimansa Law Offices, Raipur; Assisted in GSTAT Appeals and Drafted Replies to Departmental Notices; Stipend of Rs. 7k {S}](https://www.lawctopus.com/internship-experience-mimansa-law-offices-raipur/) — See listing (score: 3)
-- [Internship Opportunity at Rizwan Law Associates, New Delhi [Physical; 5 Positions; Feb 2027]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-rizwan-law-associates-new-delhi-feb-2027/) — See listing (score: 4)
-- [Content Writing & Research Internship at Project CyberShield, Naksh Foundation [Online; 1 Month; Dec 2026/Jan 2027]: Apply Now!](https://www.lawctopus.com/content-writing-research-internship-at-project-cybershield-naksh-foundation/) — See listing (score: 2)
-- [Para Legal Volunteer Vacancy At District Legal Services Authority of West Karbi Anglong district, Hamren - Live Law](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVER5RUttTFZwNG03bEVjdkwxcW9CdUZ5YjRST1RKMm51SGhGRkZkWWJNVlBZd2VSRTc2UVU3ZlRrTGVkODJwXzFKNmZwMTJKLWR5Rml2dlV3aVd1aWxBQ1MtNlU5TlBsc2NVN0RfNG4zZW9wOVdITkNwM3pEYlRkRmFBOXM0OHdwUlI0WU5WcC1GSEZIdVV5aV9ha3J6X0lpQWE4MTN0N3VreXVNN0pzSkZwSHAwcVVnaG1CN1ZaNmFZMnEwSi1yR1MydmNuVjZKQ0hRMGttNG5Ca0puOS1hR3JLY9IB4wFBVV95cUxPVER5RUttTFZwNG03bEVjdkwxcW9CdUZ5YjRST1RKMm51SGhGRkZkWWJNVlBZd2VSRTc2UVU3ZlRrTGVkODJwXzFKNmZwMTJKLWR5Rml2dlV3aVd1aWxBQ1MtNlU5TlBsc2NVN0RfNG4zZW9wOVdITkNwM3pEYlRkRmFBOXM0OHdwUlI0WU5WcC1GSEZIdVV5aV9ha3J6X0lpQWE4MTN0N3VreXVNN0pzSkZwSHAwcVVnaG1CN1ZaNmFZMnEwSi1yR1MydmNuVjZKQ0hRMGttNG5Ca0puOS1hR3JLYw?oc=5) — See listing (score: 0)
-- [Research Assistants (Law) Vacancy At High Court For The State Of Telangana And Telangana State Judicial... - Live Law](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT3pVWklza3Q0bjhRUnoyYU1JQ2NpZWEwUXF0OXZ2RDRNYzB3eXRPTGZ2RnJYaUlTejRXODFUbmlKN3pxREdmUDVSWno1eDV1d2N0UHl3X2tWUWl1M19hdFRjeXdvVU1nZ2xFYkJ1NnJ5T2t2RDJoT1FMZnZ2QjROQXYwMUdWT3gzVENNbUxGOE5oZkMwZ2xfUG51R082QXB4MkxQRTZnN2dWdkhXeWFCMkJucEMwS1dIUnEyTVFPMXRCSVo1dWhrTzFxWVRlczhRYWl5WHZMeFV1c3lXSk9VY005NFJmRjRnMGVPRW5wOUZwaGlBWXRz0gH8AUFVX3lxTE9hUXJRRkhKSGdYSWNpdnN1ZmhMVm45d29rb3preG9NWjlSVHVaTTVrMXVmZVduNlJLQ1dMSzhJX25mOEVOa3NjcV9wMW03S2tiTlFZZ0VPSng4MWgwOFBUUDBOOG5SSmVGdTJmMm5vWHpGbFltZ3piN3ZUT0EtV2RTLWdfZ1dEWXZCMGk4c2RNbmh6QmZiNWx6aXlGZlZnNGFNMllzdmZUel9sNnlhOVcyWGVobU01VDZ4ZmJEWFFTY3cyTzRnWjZ2Ymc3T0xHVjJkOG1oUUlwUEJhZ3RXZkVKLTllOWxtN0s4Q2pydmhObjBwYXdyUXRuNHFaWg?oc=5) — See listing (score: 0)
-- [ILS Law College, Pune invites papers for Prof. S.P. Sathe International Conference](https://www.scconline.com/blog/post/2026/11/26/ils-law-college-prof-sp-sathe-international-conference-2027-call-for-papers/) — See listing (score: 0)
+- [Law/Legal](https://internshala.com/internship/detail/law-legal-internship-in-jaipur-at-yatharth-law-chambers1795762572) — Yatharth Law Chambers (score: 2)
+- [Operations](https://internshala.com/internship/detail/operations-internship-in-gurgaon-at-indicia-legal1795698452) — INDICIA LEGAL (score: 3)
+- [Investment Banker](https://internshala.com/internship/detail/investment-banker-internship-in-mumbai-at-ashish-ranjan1793620701) — Ashish  Ranjan (score: 0)
+- [Marketing](https://internshala.com/internship/detail/work-from-home-part-time-marketing-internship-at-sanyukt-foundation1795752865) — Sanyukt Foundation (score: 0)
+- [Architecture](https://internshala.com/internship/detail/architecture-internship-in-gurgaon-at-hk-design-group1794463050) — HK Design Group (score: 0)
+- [Marketing Trainee](https://internshala.com/internship/detail/marketing-trainee-internship-in-kolkata-at-pan-india-group1795751266) — PAN India Group (score: 0)
+- [Student Recruitment & Marketing](https://internshala.com/internship/detail/student-recruitment-marketing-internship-in-delhi-at-uk-india-business-council1795775667) — UK India Business Council (score: 0)
+- [Recruitment](https://internshala.com/internship/detail/recruitment-internship-in-jaipur-at-vaibhav-global-limited1795776441) — Vaibhav Global Limited (score: 0)
+- [Recruitment](https://internshala.com/internship/detail/recruitment-internship-in-gurgaon-at-blinkit1795772664) — Blinkit (score: 0)
+- [Marketing](https://internshala.com/internship/detail/marketing-internship-in-bangalore-at-regenta-hotels-private-limited1795695603) — Regenta Hotels Private Limited (score: 0)
+- [Learners Rate Our 2-Month Certificate Course on ‘Legal Research and Writing’ [September-October 2026 Batch]: Read Their Feedback!](https://www.lawctopus.com/learners-rate-our-2-month-certificate-course-on-legal-research-writing-september-october-2026-batch/) — See listing (score: 0)
+- [CfP: White Black Legal – International Journal of Law [Vol. 4, Issue 1, ISSN 2581-8503] Indexed at 16 Databases, MANUPATRA, Google Scholar, DOI, PIF 6.435: Submit by Nov 30](https://www.lawctopus.com/cfp-white-black-legal-journal-of-law-vol-4-issue-1/) — See listing (score: 0)
+- [Lawctopus’ 3-Month-Long Online Certificate Course on ‘AI for Legal Professionals’ [Feb 1, 2026-April 30, 2027]: Register by Nov 30! Build Your AI Super Junior](https://www.lawctopus.com/online-certificate-course-ai-for-legal-professionals/) — See listing (score: 0)
+- [Lawctopus’ 6-Month Online Course on ‘Mastering Legal Drafting for High-Paying Roles’ [January 1, 2027-June 30, 2027]: Register by November 30!](https://www.lawctopus.com/mastering-legal-drafting-high-paying-roles/) — See listing (score: 0)
+- [CfP: Indian Journal of Law and Legal Research (IJLLR) [Vol. 8, Issue 5] | PIF: 7.142 |DOI | Manupatra, HeinOnline & Google Scholar Indexed | Harvard & Other International Libraries: Submit by Nov 30](https://www.lawctopus.com/cfp-indian-journal-of-law-and-legal-research-ijllr-vol-8-issue-5/) — See listing (score: 1)
+- [CfP: Journal of Multi-Disciplinary Legal Research [Vol. 4, Issue 1] | MANUPATRA & Google Scholar Indexed | 15+ Databases | Free DOI | Submit by Dec 2](https://www.lawctopus.com/cfp-journal-of-multi-disciplinary-legal-research-vol-4-issue-1/) — See listing (score: 1)
+- [JOB POST: Litigation Associate at Remfry & Sagar, Mumbai [On-site; 2 – 4 Years’ Experience; IP Litigation]: Apply Now!](https://www.lawctopus.com/job-post-litigation-associate-at-remfry-sagar-mumbai/) — See listing (score: 2)
+- [Lawctopus’ 6-Months Legal and Contract Drafting Skills Accelerator with 1:1 Personal Coaching Sessions [January 1, 2027-June 30, 2027]: Register by November 30!](https://www.lawctopus.com/lawctopus-6-months-long-legal-and-contract-drafting-skills-accelerator/) — See listing (score: 2)
+- [JOB POST: Associate/Senior Associate at Zentrum Law Partners, Bhopal [Minimum 2 Years’ PQE]: Apply Now!](https://www.lawctopus.com/job-post-associate-senior-associate-at-zentrum-law-partners-bhopal/) — See listing (score: 4)
+- [2 Month Long Online Certificate Course on Legal Research and Writing by LLS [Jan 1-Feb 28]: Register by Nov 30; Start Writing Publishable Papers](https://www.lawctopus.com/online-course-legal-research-writing/) — See listing (score: 1)
+- [Internship Opportunity at Adv. Kinjal Dedhia & Associates, Mumbai [9 Months – 1 Year; 1 Vacancy; Paid]: Apply Now!](https://www.lawctopus.com/internship-opportunity-at-adv-kinjal-dedhia-associates-mumbai/) — See listing (score: 4)
+- [S&R Associates advises Selling Shareholder on ₹1.13 Billion Sale of 20% Stake in Cosmix Wellness to Marico](https://www.scconline.com/blog/post/2026/11/27/sr-associates-advises-selling-shareholder-marico-cosmix-wellness-stake-sale/) — See listing (score: 0)
 
 </details>
